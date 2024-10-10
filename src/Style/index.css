@@ -130,6 +130,14 @@
   top: 0.4rem;
   z-index: 100;
 }
+.container-redes{
+  position: relative;
+  z-index: 100000000;
+}
+.a-icon-redes{
+  text-decoration: none;
+  color: #000;
+}
 .icon-redes{
   width: 1.2rem;
   height: 1.2rem;
