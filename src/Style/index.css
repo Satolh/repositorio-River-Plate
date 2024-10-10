@@ -132,11 +132,15 @@
 }
 .container-redes{
   position: relative;
+<<<<<<< HEAD
   z-index: 100000000;
 }
 .a-icon-redes{
   text-decoration: none;
   color: #000;
+=======
+  zindex: 10000000 ;
+>>>>>>> f59b7608f6286145ad7e81cafd73896b64526ecd
 }
 .icon-redes{
   width: 1.2rem;
