@@ -1,0 +1,268 @@
+/* {
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+} */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #232423fd;
+    padding-bottom: 5rem;
+}
+.field{
+    width: 480px;
+    height: 600px;
+    margin-top: 3rem;
+    position: relative;
+    background-image: url(/assets/field.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 2.2rem; 
+}
+.container-players{
+    width: 12rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.player-suplente{
+    width: 8rem;
+    outline: none;
+    border: 1px solid #b1adad;
+    background-color: #ddd;
+    margin: 0.2rem;
+}
+.number-player{
+    position: absolute;
+    top: 1.5rem;
+    left: 2.5rem;
+    font-size: 1.5rem;
+    color: #fff;
+    width: 2rem;
+    text-align: center;
+}
+.input-titular{
+    position: absolute;
+    width: 7rem;
+    border: none;
+    background-color: transparent;
+    outline: none;
+    color: #0c0c0c;
+    padding: 0.1rem;
+    text-align: center;
+    font-weight: 800;
+    font-size: 0.9rem;
+    border: 1px solid rgba(196, 194, 194, 0);
+    font-family: "Roboto Mono", monospace;
+    top: 2.8rem;
+    
+}
+.input-number{
+    background-color: transparent;
+    border: none;
+    width: 1.5rem;
+    position: absolute;
+    font-size: 1.2rem;
+    font-weight: 600;
+    text-align: center;
+    outline: none;
+    top: 0.8rem;
+}
+.div-jugador{
+    position: absolute;
+    cursor: grab;
+    height: 100px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.section-logocamiseta{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+}
+.fila{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  z-index: 1;
+  gap: 2.2rem;
+  height: 4.4rem;
+  margin-top: -0.2rem;
+}
+.container-btn{
+    width: 5rem;
+    height: max-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+    width: 3.5rem ;
+    padding: 0.2rem;
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+}
+.box{
+    width: 3rem;
+    height: 3rem;
+    margin: 1rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 50;
+    position: relative;
+}
+.occupied{
+    position: relative;
+    z-index: 50;
+    visibility: visible;
+    display: flex;
+    justify-content: center;
+    margin: 1rem 0.3rem;
+}
+.div-camiseta{
+    height: 47px;
+}
+.jugador{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 5rem;
+    height: 5rem;
+}
+.select{
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-color: #f3f3f3;
+    border: 1px solid #ccc;
+    border-radius: 4px 4px 0 0;
+    color: #333;
+    width: 90px;
+    padding: 0.2rem 0.5rem;
+    outline: none;
+    border: none;
+}
+.container-button{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    gap: 0.5rem;
+}
+.btn-download{
+    padding: 0.4rem 0.6rem;
+    font-family: "roboto mono";
+    background-color: rgb(31, 109, 31);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    cursor: pointer;
+}
+/* _________________JUGADRORES_______________ */
+
+
+
+
+
+
+/*________________HOVER__________________*/
+/* .input-titular:focus{
+    border: 1px solid rgb(196, 194, 194);
+    border-radius: 2px;
+} */
+
+
+
+
+
+@media (max-width:767px){
+    .field{
+        margin-top: 0;
+        padding: 0;
+    }
+    .section{
+        flex-direction: column;
+    }
+    .container-button{
+        padding: 1.5rem ;
+    }
+    .no-scroll{
+        overflow: hidden;
+    }
+}@media (max-width:480px){
+    .field{
+        width:360px;
+        height: 480px;
+    }
+    .jersey-svg{
+        width: 2.4rem;
+        height: 2.4rem;
+    }
+    .div-jugador{
+        height: 1rem;
+    }
+    .jugador{
+        width: 2.4rem;
+        height: 3rem;
+    }
+    .input-titular{
+        font-size: 0.7rem;
+        width: 5rem;
+        height: 1.5rem;
+        margin-top: -0.3rem;
+    }
+    .div-camiseta{
+        height: 30px;
+    }
+    .input-number{
+        font-size: 1rem;
+        top: 1.2rem;
+    }
+}
+
+/* @media (max-width: 600px){
+    .container-senales-autobus{
+        background-color: yellow;
+        border-radius: 5px ;
+        padding: 1rem 2rem ;
+        text-align: center;
+        font-size: 0.9rem;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        backdrop-filter: blur(20px);
+        position: relative;
+        top: 5rem;
+        left: 50%;
+    }
+    .container-name-autobus{
+        color: #000;
+        font-size: 0.9rem;
+        font-family: sans-serif;
+        letter-spacing: 1px ;
+        width: 8rem;
+        height: 1.4rem;
+    }
+    .section-games{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 2rem;
+    }
+} */

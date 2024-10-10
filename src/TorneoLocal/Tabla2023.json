@@ -1,0 +1,4266 @@
+{
+    "2024": [
+      {
+        "position": "1",
+        "datos": {
+          "name": "Velez",
+          "pts": "30",
+          "pj": "14",
+          "pg": "9",
+          "pe": "3",
+          "pp": "2",
+          "gf": "27",
+          "gc": "8",
+          "dif": "+19"
+        }
+      },
+      {
+        "position": "2",
+        "datos": {
+          "name": "Atl Tucuman",
+          "pts": "25",
+          "pj": "14",
+          "pg": "7",
+          "pe": "4",
+          "pp": "3",
+          "gf": "15",
+          "gc": "12",
+          "dif": "+3"
+        }
+      },
+      {
+        "position": "3",
+        "datos": {
+          "name": "Racing Club",
+          "pts": "24",
+          "pj": "14",
+          "pg": "7",
+          "pe": "3",
+          "pp": "4",
+          "gf": "20",
+          "gc": "11",
+          "dif": "+9"
+        }
+      },
+      {
+        "position": "4",
+        "datos": {
+          "name": "Instituto",
+          "pts": "24",
+          "pj": "14",
+          "pg": "7",
+          "pe": "3",
+          "pp": "4",
+          "gf": "20",
+          "gc": "12",
+          "dif": "+8"
+        }
+      },
+      {
+        "position": "5",
+        "datos": {
+          "name": "Huracan",
+          "pts": "24",
+          "pj": "14",
+          "pg": "6",
+          "pe": "6",
+          "pp": "2",
+          "gf": "12",
+          "gc": "7",
+          "dif": "+5"
+        }
+      },
+      {
+        "position": "6",
+        "datos": {
+          "name": "Talleres (C)",
+          "pts": "24",
+          "pj": "14",
+          "pg": "6",
+          "pe": "6",
+          "pp": "2",
+          "gf": "20",
+          "gc": "16",
+          "dif": "+4"
+        }
+      },
+      {
+        "position": "7",
+        "datos": {
+          "name": "Union",
+          "pts": "24",
+          "pj": "14",
+          "pg": "6",
+          "pe": "6",
+          "pp": "2",
+          "gf": "15",
+          "gc": "11",
+          "dif": "+4"
+        }
+      },
+      {
+        "position": "8",
+        "datos": {
+          "name": "Riestra",
+          "pts": "22",
+          "pj": "14",
+          "pg": "7",
+          "pe": "1",
+          "pp": "6",
+          "gf": "15",
+          "gc": "15",
+          "dif": "0"
+        }
+      },
+      {
+        "position": "9",
+        "datos": {
+          "name": "River Plate",
+          "pts": "21",
+          "pj": "14",
+          "pg": "5",
+          "pe": "6",
+          "pp": "3",
+          "gf": "19",
+          "gc": "11",
+          "dif": "+8"
+        }
+      },
+      {
+        "position": "10",
+        "datos": {
+          "name": "Boca Juniors",
+          "pts": "21",
+          "pj": "14",
+          "pg": "5",
+          "pe": "6",
+          "pp": "3",
+          "gf": "19",
+          "gc": "14",
+          "dif": "+5"
+        }
+      },
+      {
+        "position": "11",
+        "datos": {
+          "name": "Gimnasia (LP)",
+          "pts": "21",
+          "pj": "14",
+          "pg": "6",
+          "pe": "3",
+          "pp": "5",
+          "gf": "16",
+          "gc": "14",
+          "dif": "+2"
+        }
+      },
+      {
+        "position": "12",
+        "datos": {
+          "name": "Rosario Central",
+          "pts": "19",
+          "pj": "14",
+          "pg": "5",
+          "pe": "4",
+          "pp": "5",
+          "gf": "17",
+          "gc": "15",
+          "dif": "+2"
+        }
+      },
+      {
+        "position": "13",
+        "datos": {
+          "name": "Lanus",
+          "pts": "19",
+          "pj": "14",
+          "pg": "4",
+          "pe": "7",
+          "pp": "3",
+          "gf": "18",
+          "gc": "19",
+          "dif": "-1"
+        }
+      },
+      {
+        "position": "14",
+        "datos": {
+          "name": "Godoy Cruz",
+          "pts": "18",
+          "pj": "13",
+          "pg": "4",
+          "pe": "6",
+          "pp": "3",
+          "gf": "14",
+          "gc": "12",
+          "dif": "+2"
+        }
+      },
+      {
+        "position": "15",
+        "datos": {
+          "name": "Belgrano",
+          "pts": "18",
+          "pj": "14",
+          "pg": "4",
+          "pe": "6",
+          "pp": "4",
+          "gf": "15",
+          "gc": "17",
+          "dif": "-2"
+        }
+      },
+      {
+        "position": "16",
+        "datos": {
+          "name": "Ind Rivadavia",
+          "pts": "18",
+          "pj": "14",
+          "pg": "5",
+          "pe": "3",
+          "pp": "6",
+          "gf": "9",
+          "gc": "13",
+          "dif": "-4"
+        }
+      },
+      {
+        "position": "17",
+        "datos": {
+          "name": "Estudiantes (LP)",
+          "pts": "17",
+          "pj": "14",
+          "pg": "4",
+          "pe": "5",
+          "pp": "5",
+          "gf": "15",
+          "gc": "14",
+          "dif": "+1"
+        }
+      },
+      {
+        "position": "18",
+        "datos": {
+          "name": "Tigre",
+          "pts": "17",
+          "pj": "14",
+          "pg": "4",
+          "pe": "5",
+          "pp": "5",
+          "gf": "18",
+          "gc": "19",
+          "dif": "-1"
+        }
+      },
+      {
+        "position": "19",
+        "datos": {
+          "name": "Independiente",
+          "pts": "17",
+          "pj": "14",
+          "pg": "3",
+          "pe": "8",
+          "pp": "3",
+          "gf": "9",
+          "gc": "10",
+          "dif": "-1"
+        }
+      },
+      {
+        "position": "20",
+        "datos": {
+          "name": "Argentinos",
+          "pts": "17",
+          "pj": "14",
+          "pg": "5",
+          "pe": "2",
+          "pp": "7",
+          "gf": "11",
+          "gc": "16",
+          "dif": "-5"
+        }
+      },
+      {
+        "position": "21",
+        "datos": {
+          "name": "Platense",
+          "pts": "16",
+          "pj": "14",
+          "pg": "4",
+          "pe": "4",
+          "pp": "6",
+          "gf": "12",
+          "gc": "14",
+          "dif": "-2"
+        }
+      },
+      {
+        "position": "22",
+        "datos": {
+          "name": "Sarmiento (J)",
+          "pts": "15",
+          "pj": "14",
+          "pg": "3",
+          "pe": "6",
+          "pp": "5",
+          "gf": "10",
+          "gc": "12",
+          "dif": "-2"
+        }
+      },
+      {
+        "position": "23",
+        "datos": {
+          "name": "Banfield",
+          "pts": "14",
+          "pj": "14",
+          "pg": "3",
+          "pe": "5",
+          "pp": "6",
+          "gf": "11",
+          "gc": "17",
+          "dif": "-6"
+        }
+      },
+      {
+        "position": "24",
+        "datos": {
+          "name": "San Lorenzo",
+          "pts": "13",
+          "pj": "13",
+          "pg": "3",
+          "pe": "4",
+          "pp": "6",
+          "gf": "11",
+          "gc": "13",
+          "dif": "-2"
+        }
+      },
+      {
+        "position": "25",
+        "datos": {
+          "name": "Newells",
+          "pts": "13",
+          "pj": "14",
+          "pg": "3",
+          "pe": "4",
+          "pp": "7",
+          "gf": "6",
+          "gc": "15",
+          "dif": "-9"
+        }
+      },
+      {
+        "position": "26",
+        "datos": {
+          "name": "Def y Justicia",
+          "pts": "11",
+          "pj": "14",
+          "pg": "2",
+          "pe": "5",
+          "pp": "7",
+          "gf": "10",
+          "gc": "22",
+          "dif": "-12"
+        }
+      },
+      {
+        "position": "27",
+        "datos": {
+          "name": "Central Cba (SdE)",
+          "pts": "10",
+          "pj": "14",
+          "pg": "2",
+          "pe": "4",
+          "pp": "8",
+          "gf": "13",
+          "gc": "24",
+          "dif": "-11"
+        }
+      },
+      {
+        "position": "28",
+        "datos": {
+          "name": "Barracas Central",
+          "pts": "8",
+          "pj": "14",
+          "pg": "1",
+          "pe": "5",
+          "pp": "8",
+          "gf": "5",
+          "gc": "19",
+          "dif": "-14"
+        }
+      }
+    ],
+  "2023": [
+    {
+      "position": "1",
+      "datos": {
+        "name": "River Plate",
+        "pts": "61",
+        "pj": "27",
+        "pg": "19",
+        "pe": "4",
+        "pp": "4",
+        "gf": "50",
+        "gc": "20",
+        "dif": "+30"
+      }
+    },
+    {
+      "position": "2",
+      "datos": {
+        "name": "Talleres (C)",
+        "pts": "50",
+        "pj": "27",
+        "pg": "14",
+        "pe": "8",
+        "pp": "5",
+        "gf": "42",
+        "gc": "23",
+        "dif": "+19"
+      }
+    },
+    {
+      "position": "3",
+      "datos": {
+        "name": "San Lorenzo",
+        "pts": "46",
+        "pj": "27",
+        "pg": "12",
+        "pe": "10",
+        "pp": "5",
+        "gf": "23",
+        "gc": "13",
+        "dif": "+10"
+      }
+    },
+    {
+      "position": "4",
+      "datos": {
+        "name": "Lanus",
+        "pts": "45",
+        "pj": "27",
+        "pg": "12",
+        "pe": "9",
+        "pp": "6",
+        "gf": "38",
+        "gc": "27",
+        "dif": "+11"
+      }
+    },
+    {
+      "position": "5",
+      "datos": {
+        "name": "Estudiantes (LP)",
+        "pts": "45",
+        "pj": "27",
+        "pg": "12",
+        "pe": "9",
+        "pp": "6",
+        "gf": "35",
+        "gc": "24",
+        "dif": "+11"
+      }
+    },
+    {
+      "position": "6",
+      "datos": {
+        "name": "Def y Justicia",
+        "pts": "44",
+        "pj": "27",
+        "pg": "12",
+        "pe": "8",
+        "pp": "7",
+        "gf": "36",
+        "gc": "23",
+        "dif": "+13"
+      }
+    },
+    {
+      "position": "7",
+      "datos": {
+        "name": "Boca Juniors",
+        "pts": "44",
+        "pj": "27",
+        "pg": "13",
+        "pe": "5",
+        "pp": "9",
+        "gf": "33",
+        "gc": "24",
+        "dif": "+9"
+      }
+    },
+    {
+      "position": "8",
+      "datos": {
+        "name": "Rosario Central",
+        "pts": "42",
+        "pj": "27",
+        "pg": "10",
+        "pe": "12",
+        "pp": "5",
+        "gf": "36",
+        "gc": "29",
+        "dif": "+7"
+      }
+    },
+    {
+      "position": "9",
+      "datos": {
+        "name": "Godoy Cruz",
+        "pts": "41",
+        "pj": "27",
+        "pg": "11",
+        "pe": "8",
+        "pp": "8",
+        "gf": "37",
+        "gc": "32",
+        "dif": "+5"
+      }
+    },
+    {
+      "position": "10",
+      "datos": {
+        "name": "Argentinos",
+        "pts": "40",
+        "pj": "27",
+        "pg": "11",
+        "pe": "7",
+        "pp": "9",
+        "gf": "31",
+        "gc": "22",
+        "dif": "+9"
+      }
+    },
+    {
+      "position": "11",
+      "datos": {
+        "name": "Atl Tucuman",
+        "pts": "37",
+        "pj": "27",
+        "pg": "9",
+        "pe": "10",
+        "pp": "8",
+        "gf": "25",
+        "gc": "27",
+        "dif": "-2"
+      }
+    },
+    {
+      "position": "12",
+      "datos": {
+        "name": "Racing Club",
+        "pts": "36",
+        "pj": "27",
+        "pg": "9",
+        "pe": "9",
+        "pp": "9",
+        "gf": "36",
+        "gc": "35",
+        "dif": "+1"
+      }
+    },
+    {
+      "position": "13",
+      "datos": {
+        "name": "Belgrano",
+        "pts": "36",
+        "pj": "27",
+        "pg": "10",
+        "pe": "6",
+        "pp": "11",
+        "gf": "20",
+        "gc": "26",
+        "dif": "-6"
+      }
+    },
+    {
+      "position": "14",
+      "datos": {
+        "name": "Newells",
+        "pts": "35",
+        "pj": "27",
+        "pg": "8",
+        "pe": "11",
+        "pp": "8",
+        "gf": "24",
+        "gc": "24",
+        "dif": "0"
+      }
+    },
+    {
+      "position": "15",
+      "datos": {
+        "name": "Barracas Central",
+        "pts": "35",
+        "pj": "27",
+        "pg": "8",
+        "pe": "11",
+        "pp": "8",
+        "gf": "25",
+        "gc": "30",
+        "dif": "-5"
+      }
+    },
+    {
+      "position": "16",
+      "datos": {
+        "name": "Tigre",
+        "pts": "34",
+        "pj": "27",
+        "pg": "9",
+        "pe": "7",
+        "pp": "11",
+        "gf": "27",
+        "gc": "29",
+        "dif": "-2"
+      }
+    },
+    {
+      "position": "17",
+      "datos": {
+        "name": "Platense",
+        "pts": "34",
+        "pj": "27",
+        "pg": "9",
+        "pe": "7",
+        "pp": "11",
+        "gf": "26",
+        "gc": "29",
+        "dif": "-3"
+      }
+    },
+    {
+      "position": "18",
+      "datos": {
+        "name": "Instituto",
+        "pts": "32",
+        "pj": "27",
+        "pg": "8",
+        "pe": "8",
+        "pp": "11",
+        "gf": "24",
+        "gc": "35",
+        "dif": "-11"
+      }
+    },
+    {
+      "position": "19",
+      "datos": {
+        "name": "Sarmiento (J)",
+        "pts": "30",
+        "pj": "27",
+        "pg": "7",
+        "pe": "9",
+        "pp": "11",
+        "gf": "23",
+        "gc": "26",
+        "dif": "-3"
+      }
+    },
+    {
+      "position": "20",
+      "datos": {
+        "name": "Union",
+        "pts": "30",
+        "pj": "27",
+        "pg": "6",
+        "pe": "12",
+        "pp": "9",
+        "gf": "19",
+        "gc": "25",
+        "dif": "-6"
+      }
+    },
+    {
+      "position": "21",
+      "datos": {
+        "name": "Banfield",
+        "pts": "30",
+        "pj": "27",
+        "pg": "7",
+        "pe": "9",
+        "pp": "11",
+        "gf": "21",
+        "gc": "32",
+        "dif": "-11"
+      }
+    },
+    {
+      "position": "22",
+      "datos": {
+        "name": "Gimnasia (LP)",
+        "pts": "30",
+        "pj": "27",
+        "pg": "7",
+        "pe": "9",
+        "pp": "11",
+        "gf": "24",
+        "gc": "38",
+        "dif": "-14"
+      }
+    },
+    {
+      "position": "23",
+      "datos": {
+        "name": "Central Cba (SdE)",
+        "pts": "29",
+        "pj": "27",
+        "pg": "7",
+        "pe": "8",
+        "pp": "12",
+        "gf": "20",
+        "gc": "30",
+        "dif": "-10"
+      }
+    },
+    {
+      "position": "24",
+      "datos": {
+        "name": "Independiente",
+        "pts": "28",
+        "pj": "27",
+        "pg": "6",
+        "pe": "10",
+        "pp": "11",
+        "gf": "23",
+        "gc": "32",
+        "dif": "-9"
+      }
+    },
+    {
+      "position": "25",
+      "datos": {
+        "name": "Velez",
+        "pts": "27",
+        "pj": "27",
+        "pg": "5",
+        "pe": "12",
+        "pp": "10",
+        "gf": "24",
+        "gc": "27",
+        "dif": "-3"
+      }
+    },
+    {
+      "position": "26",
+      "datos": {
+        "name": "Huracan",
+        "pts": "25",
+        "pj": "27",
+        "pg": "6",
+        "pe": "7",
+        "pp": "14",
+        "gf": "18",
+        "gc": "29",
+        "dif": "-11"
+      }
+    },
+    {
+      "position": "27",
+      "datos": {
+        "name": "Colon",
+        "pts": "25",
+        "pj": "27",
+        "pg": "4",
+        "pe": "13",
+        "pp": "10",
+        "gf": "20",
+        "gc": "33",
+        "dif": "-13"
+      }
+    },
+    {
+      "position": "28",
+      "datos": {
+        "name": "Arsenal",
+        "pts": "22",
+        "pj": "27",
+        "pg": "6",
+        "pe": "4",
+        "pp": "17",
+        "gf": "18",
+        "gc": "34",
+        "dif": "-16"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "position": "1",
+      "datos": {
+        "name": "Boca Juniors",
+        "pts": "52",
+        "pj": "27",
+        "pg": "16",
+        "pe": "4",
+        "pp": "7",
+        "gf": "34",
+        "gc": "28",
+        "dif": "+6"
+      }
+    },
+    {
+      "position": "2",
+      "datos": {
+        "name": "Racing Club",
+        "pts": "50",
+        "pj": "27",
+        "pg": "14",
+        "pe": "8",
+        "pp": "5",
+        "gf": "41",
+        "gc": "24",
+        "dif": "+17"
+      }
+    },
+    {
+      "position": "3",
+      "datos": {
+        "name": "River Plate",
+        "pts": "47",
+        "pj": "27",
+        "pg": "14",
+        "pe": "5",
+        "pp": "8",
+        "gf": "43",
+        "gc": "22",
+        "dif": "+21"
+      }
+    },
+    {
+      "position": "4",
+      "datos": {
+        "name": "Huracan",
+        "pts": "47",
+        "pj": "27",
+        "pg": "12",
+        "pe": "11",
+        "pp": "4",
+        "gf": "35",
+        "gc": "21",
+        "dif": "+14"
+      }
+    },
+    {
+      "position": "5",
+      "datos": {
+        "name": "Atl Tucuman",
+        "pts": "46",
+        "pj": "27",
+        "pg": "12",
+        "pe": "10",
+        "pp": "5",
+        "gf": "32",
+        "gc": "22",
+        "dif": "+10"
+      }
+    },
+    {
+      "position": "6",
+      "datos": {
+        "name": "San Lorenzo",
+        "pts": "43",
+        "pj": "27",
+        "pg": "10",
+        "pe": "13",
+        "pp": "4",
+        "gf": "33",
+        "gc": "23",
+        "dif": "+10"
+      }
+    },
+    {
+      "position": "7",
+      "datos": {
+        "name": "Tigre",
+        "pts": "43",
+        "pj": "27",
+        "pg": "11",
+        "pe": "10",
+        "pp": "6",
+        "gf": "41",
+        "gc": "32",
+        "dif": "+9"
+      }
+    },
+    {
+      "position": "8",
+      "datos": {
+        "name": "Argentinos",
+        "pts": "42",
+        "pj": "27",
+        "pg": "12",
+        "pe": "6",
+        "pp": "9",
+        "gf": "33",
+        "gc": "24",
+        "dif": "+9"
+      }
+    },
+    {
+      "position": "9",
+      "datos": {
+        "name": "Gimnasia (LP)",
+        "pts": "41",
+        "pj": "27",
+        "pg": "11",
+        "pe": "8",
+        "pp": "8",
+        "gf": "26",
+        "gc": "18",
+        "dif": "+8"
+      }
+    },
+    {
+      "position": "10",
+      "datos": {
+        "name": "Patronato",
+        "pts": "40",
+        "pj": "27",
+        "pg": "11",
+        "pe": "7",
+        "pp": "9",
+        "gf": "31",
+        "gc": "27",
+        "dif": "+4"
+      }
+    },
+    {
+      "position": "11",
+      "datos": {
+        "name": "Newells",
+        "pts": "40",
+        "pj": "27",
+        "pg": "11",
+        "pe": "7",
+        "pp": "9",
+        "gf": "26",
+        "gc": "22",
+        "dif": "+4"
+      }
+    },
+    {
+      "position": "12",
+      "datos": {
+        "name": "Def y Justicia",
+        "pts": "40",
+        "pj": "27",
+        "pg": "10",
+        "pe": "10",
+        "pp": "7",
+        "gf": "29",
+        "gc": "27",
+        "dif": "+2"
+      }
+    },
+    {
+      "position": "13",
+      "datos": {
+        "name": "Talleres (C)",
+        "pts": "35",
+        "pj": "27",
+        "pg": "9",
+        "pe": "8",
+        "pp": "10",
+        "gf": "28",
+        "gc": "26",
+        "dif": "+2"
+      }
+    },
+    {
+      "position": "14",
+      "datos": {
+        "name": "Independiente",
+        "pts": "35",
+        "pj": "27",
+        "pg": "9",
+        "pe": "8",
+        "pp": "10",
+        "gf": "31",
+        "gc": "31",
+        "dif": "0"
+      }
+    },
+    {
+      "position": "15",
+      "datos": {
+        "name": "Godoy Cruz",
+        "pts": "35",
+        "pj": "27",
+        "pg": "9",
+        "pe": "8",
+        "pp": "10",
+        "gf": "25",
+        "gc": "29",
+        "dif": "-4"
+      }
+    },
+    {
+      "position": "16",
+      "datos": {
+        "name": "Central Cba (SdE)",
+        "pts": "34",
+        "pj": "27",
+        "pg": "10",
+        "pe": "4",
+        "pp": "13",
+        "gf": "34",
+        "gc": "37",
+        "dif": "-3"
+      }
+    },
+    {
+      "position": "17",
+      "datos": {
+        "name": "Barracas Central",
+        "pts": "34",
+        "pj": "27",
+        "pg": "8",
+        "pe": "10",
+        "pp": "9",
+        "gf": "31",
+        "gc": "37",
+        "dif": "-6"
+      }
+    },
+    {
+      "position": "18",
+      "datos": {
+        "name": "Estudiantes (LP)",
+        "pts": "33",
+        "pj": "27",
+        "pg": "9",
+        "pe": "6",
+        "pp": "12",
+        "gf": "28",
+        "gc": "40",
+        "dif": "-12"
+      }
+    },
+    {
+      "position": "19",
+      "datos": {
+        "name": "Platense",
+        "pts": "32",
+        "pj": "27",
+        "pg": "7",
+        "pe": "11",
+        "pp": "9",
+        "gf": "23",
+        "gc": "25",
+        "dif": "-2"
+      }
+    },
+    {
+      "position": "20",
+      "datos": {
+        "name": "Rosario Central",
+        "pts": "32",
+        "pj": "27",
+        "pg": "7",
+        "pe": "11",
+        "pp": "9",
+        "gf": "24",
+        "gc": "28",
+        "dif": "-4"
+      }
+    },
+    {
+      "position": "21",
+      "datos": {
+        "name": "Sarmiento (J)",
+        "pts": "32",
+        "pj": "27",
+        "pg": "8",
+        "pe": "8",
+        "pp": "11",
+        "gf": "27",
+        "gc": "32",
+        "dif": "-5"
+      }
+    },
+    {
+      "position": "22",
+      "datos": {
+        "name": "Union",
+        "pts": "32",
+        "pj": "27",
+        "pg": "8",
+        "pe": "8",
+        "pp": "11",
+        "gf": "28",
+        "gc": "36",
+        "dif": "-8"
+      }
+    },
+    {
+      "position": "23",
+      "datos": {
+        "name": "Arsenal",
+        "pts": "30",
+        "pj": "27",
+        "pg": "6",
+        "pe": "12",
+        "pp": "9",
+        "gf": "28",
+        "gc": "29",
+        "dif": "-1"
+      }
+    },
+    {
+      "position": "24",
+      "datos": {
+        "name": "Banfield",
+        "pts": "30",
+        "pj": "27",
+        "pg": "7",
+        "pe": "9",
+        "pp": "11",
+        "gf": "23",
+        "gc": "29",
+        "dif": "-6"
+      }
+    },
+    {
+      "position": "25",
+      "datos": {
+        "name": "Colon",
+        "pts": "29",
+        "pj": "27",
+        "pg": "7",
+        "pe": "8",
+        "pp": "12",
+        "gf": "24",
+        "gc": "36",
+        "dif": "-12"
+      }
+    },
+    {
+      "position": "26",
+      "datos": {
+        "name": "Velez",
+        "pts": "28",
+        "pj": "27",
+        "pg": "6",
+        "pe": "10",
+        "pp": "11",
+        "gf": "30",
+        "gc": "33",
+        "dif": "-3"
+      }
+    },
+    {
+      "position": "27",
+      "datos": {
+        "name": "Lanus",
+        "pts": "21",
+        "pj": "27",
+        "pg": "5",
+        "pe": "6",
+        "pp": "16",
+        "gf": "22",
+        "gc": "40",
+        "dif": "-18"
+      }
+    },
+    {
+      "position": "28",
+      "datos": {
+        "name": "Aldosivi",
+        "pts": "16",
+        "pj": "27",
+        "pg": "4",
+        "pe": "4",
+        "pp": "19",
+        "gf": "16",
+        "gc": "48",
+        "dif": "-32"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "position": "1",
+      "datos": {
+        "name": "River Plate",
+        "pts": "54",
+        "pj": "25",
+        "pg": "16",
+        "pe": "6",
+        "pp": "3",
+        "gf": "53",
+        "gc": "19",
+        "dif": "+34"
+      }
+    },
+    {
+      "position": "2",
+      "datos": {
+        "name": "Def y Justicia",
+        "pts": "47",
+        "pj": "25",
+        "pg": "13",
+        "pe": "8",
+        "pp": "4",
+        "gf": "43",
+        "gc": "24",
+        "dif": "+19"
+      }
+    },
+    {
+      "position": "3",
+      "datos": {
+        "name": "Talleres (C)",
+        "pts": "46",
+        "pj": "25",
+        "pg": "14",
+        "pe": "4",
+        "pp": "7",
+        "gf": "38",
+        "gc": "28",
+        "dif": "+10"
+      }
+    },
+    {
+      "position": "4",
+      "datos": {
+        "name": "Boca Juniors",
+        "pts": "41",
+        "pj": "25",
+        "pg": "11",
+        "pe": "8",
+        "pp": "6",
+        "gf": "35",
+        "gc": "19",
+        "dif": "+16"
+      }
+    },
+    {
+      "position": "5",
+      "datos": {
+        "name": "Velez",
+        "pts": "39",
+        "pj": "25",
+        "pg": "10",
+        "pe": "9",
+        "pp": "6",
+        "gf": "34",
+        "gc": "21",
+        "dif": "+13"
+      }
+    },
+    {
+      "position": "6",
+      "datos": {
+        "name": "Estudiantes (LP)",
+        "pts": "39",
+        "pj": "25",
+        "pg": "10",
+        "pe": "9",
+        "pp": "6",
+        "gf": "43",
+        "gc": "31",
+        "dif": "+12"
+      }
+    },
+    {
+      "position": "7",
+      "datos": {
+        "name": "Colon",
+        "pts": "39",
+        "pj": "25",
+        "pg": "11",
+        "pe": "6",
+        "pp": "8",
+        "gf": "26",
+        "gc": "31",
+        "dif": "-5"
+      }
+    },
+    {
+      "position": "8",
+      "datos": {
+        "name": "Huracan",
+        "pts": "38",
+        "pj": "25",
+        "pg": "10",
+        "pe": "8",
+        "pp": "7",
+        "gf": "28",
+        "gc": "25",
+        "dif": "+3"
+      }
+    },
+    {
+      "position": "9",
+      "datos": {
+        "name": "Independiente",
+        "pts": "38",
+        "pj": "25",
+        "pg": "10",
+        "pe": "8",
+        "pp": "7",
+        "gf": "27",
+        "gc": "24",
+        "dif": "+3"
+      }
+    },
+    {
+      "position": "10",
+      "datos": {
+        "name": "Lanus",
+        "pts": "37",
+        "pj": "25",
+        "pg": "10",
+        "pe": "7",
+        "pp": "8",
+        "gf": "44",
+        "gc": "43",
+        "dif": "+1"
+      }
+    },
+    {
+      "position": "11",
+      "datos": {
+        "name": "Gimnasia (LP)",
+        "pts": "36",
+        "pj": "25",
+        "pg": "9",
+        "pe": "9",
+        "pp": "7",
+        "gf": "27",
+        "gc": "28",
+        "dif": "-1"
+      }
+    },
+    {
+      "position": "12",
+      "datos": {
+        "name": "Union",
+        "pts": "34",
+        "pj": "25",
+        "pg": "10",
+        "pe": "4",
+        "pp": "11",
+        "gf": "32",
+        "gc": "32",
+        "dif": "0"
+      }
+    },
+    {
+      "position": "13",
+      "datos": {
+        "name": "Aldosivi",
+        "pts": "33",
+        "pj": "25",
+        "pg": "10",
+        "pe": "3",
+        "pp": "12",
+        "gf": "29",
+        "gc": "39",
+        "dif": "-10"
+      }
+    },
+    {
+      "position": "14",
+      "datos": {
+        "name": "Argentinos",
+        "pts": "32",
+        "pj": "25",
+        "pg": "8",
+        "pe": "8",
+        "pp": "9",
+        "gf": "26",
+        "gc": "25",
+        "dif": "+1"
+      }
+    },
+    {
+      "position": "15",
+      "datos": {
+        "name": "Racing Club",
+        "pts": "32",
+        "pj": "25",
+        "pg": "8",
+        "pe": "8",
+        "pp": "9",
+        "gf": "24",
+        "gc": "23",
+        "dif": "+1"
+      }
+    },
+    {
+      "position": "16",
+      "datos": {
+        "name": "Rosario Central",
+        "pts": "32",
+        "pj": "25",
+        "pg": "9",
+        "pe": "5",
+        "pp": "11",
+        "gf": "39",
+        "gc": "41",
+        "dif": "-2"
+      }
+    },
+    {
+      "position": "17",
+      "datos": {
+        "name": "Godoy Cruz",
+        "pts": "31",
+        "pj": "25",
+        "pg": "8",
+        "pe": "7",
+        "pp": "10",
+        "gf": "35",
+        "gc": "33",
+        "dif": "+2"
+      }
+    },
+    {
+      "position": "18",
+      "datos": {
+        "name": "Platense",
+        "pts": "31",
+        "pj": "25",
+        "pg": "7",
+        "pe": "10",
+        "pp": "8",
+        "gf": "36",
+        "gc": "36",
+        "dif": "0"
+      }
+    },
+    {
+      "position": "19",
+      "datos": {
+        "name": "Newells",
+        "pts": "28",
+        "pj": "25",
+        "pg": "7",
+        "pe": "7",
+        "pp": "11",
+        "gf": "24",
+        "gc": "32",
+        "dif": "-8"
+      }
+    },
+    {
+      "position": "20",
+      "datos": {
+        "name": "Banfield",
+        "pts": "27",
+        "pj": "25",
+        "pg": "5",
+        "pe": "12",
+        "pp": "8",
+        "gf": "20",
+        "gc": "25",
+        "dif": "-5"
+      }
+    },
+    {
+      "position": "21",
+      "datos": {
+        "name": "San Lorenzo",
+        "pts": "27",
+        "pj": "25",
+        "pg": "7",
+        "pe": "6",
+        "pp": "12",
+        "gf": "23",
+        "gc": "33",
+        "dif": "-10"
+      }
+    },
+    {
+      "position": "22",
+      "datos": {
+        "name": "Central Cba (SdE)",
+        "pts": "26",
+        "pj": "25",
+        "pg": "6",
+        "pe": "8",
+        "pp": "11",
+        "gf": "30",
+        "gc": "36",
+        "dif": "-6"
+      }
+    },
+    {
+      "position": "23",
+      "datos": {
+        "name": "Patronato",
+        "pts": "25",
+        "pj": "25",
+        "pg": "5",
+        "pe": "10",
+        "pp": "10",
+        "gf": "23",
+        "gc": "35",
+        "dif": "-12"
+      }
+    },
+    {
+      "position": "24",
+      "datos": {
+        "name": "Sarmiento (J)",
+        "pts": "24",
+        "pj": "25",
+        "pg": "6",
+        "pe": "6",
+        "pp": "13",
+        "gf": "23",
+        "gc": "33",
+        "dif": "-10"
+      }
+    },
+    {
+      "position": "25",
+      "datos": {
+        "name": "Atl Tucuman",
+        "pts": "22",
+        "pj": "25",
+        "pg": "5",
+        "pe": "7",
+        "pp": "13",
+        "gf": "22",
+        "gc": "46",
+        "dif": "-24"
+      }
+    },
+    {
+      "position": "26",
+      "datos": {
+        "name": "Arsenal",
+        "pts": "21",
+        "pj": "25",
+        "pg": "4",
+        "pe": "9",
+        "pp": "12",
+        "gf": "12",
+        "gc": "34",
+        "dif": "-22"
+      }
+    }],
+    "2019/20": [
+    {
+      "position": "1",
+      "datos": {
+        "name": "Boca Juniors",
+        "pts": "48",
+        "pj": "23",
+        "pg": "14",
+        "pe": "6",
+        "pp": "3",
+        "gf": "35",
+        "gc": "8",
+        "dif": "+27"
+      }
+    },
+    {
+      "position": "2",
+      "datos": {
+        "name": "River Plate",
+        "pts": "47",
+        "pj": "23",
+        "pg": "14",
+        "pe": "5",
+        "pp": "4",
+        "gf": "41",
+        "gc": "18",
+        "dif": "+23"
+      }
+    },
+    {
+      "position": "3",
+      "datos": {
+        "name": "Velez",
+        "pts": "39",
+        "pj": "23",
+        "pg": "11",
+        "pe": "6",
+        "pp": "6",
+        "gf": "27",
+        "gc": "14",
+        "dif": "+13"
+      }
+    },
+    {
+      "position": "4",
+      "datos": {
+        "name": "Racing Club",
+        "pts": "39",
+        "pj": "23",
+        "pg": "9",
+        "pe": "12",
+        "pp": "2",
+        "gf": "28",
+        "gc": "23",
+        "dif": "+5"
+      }
+    },
+    {
+      "position": "5",
+      "datos": {
+        "name": "Argentinos",
+        "pts": "39",
+        "pj": "23",
+        "pg": "10",
+        "pe": "9",
+        "pp": "4",
+        "gf": "22",
+        "gc": "17",
+        "dif": "+5"
+      }
+    },
+    {
+      "position": "6",
+      "datos": {
+        "name": "Def y Justicia",
+        "pts": "36",
+        "pj": "23",
+        "pg": "10",
+        "pe": "6",
+        "pp": "7",
+        "gf": "26",
+        "gc": "18",
+        "dif": "+8"
+      }
+    },
+    {
+      "position": "7",
+      "datos": {
+        "name": "Lanus",
+        "pts": "36",
+        "pj": "23",
+        "pg": "9",
+        "pe": "9",
+        "pp": "5",
+        "gf": "32",
+        "gc": "29",
+        "dif": "+3"
+      }
+    },
+    {
+      "position": "8",
+      "datos": {
+        "name": "San Lorenzo",
+        "pts": "36",
+        "pj": "23",
+        "pg": "11",
+        "pe": "3",
+        "pp": "9",
+        "gf": "32",
+        "gc": "30",
+        "dif": "+2"
+      }
+    },
+    {
+      "position": "9",
+      "datos": {
+        "name": "Rosario Central",
+        "pts": "36",
+        "pj": "23",
+        "pg": "9",
+        "pe": "9",
+        "pp": "5",
+        "gf": "31",
+        "gc": "29",
+        "dif": "+2"
+      }
+    },
+    {
+      "position": "10",
+      "datos": {
+        "name": "Newells",
+        "pts": "35",
+        "pj": "23",
+        "pg": "9",
+        "pe": "8",
+        "pp": "6",
+        "gf": "33",
+        "gc": "25",
+        "dif": "+8"
+      }
+    },
+    {
+      "position": "11",
+      "datos": {
+        "name": "Arsenal",
+        "pts": "34",
+        "pj": "23",
+        "pg": "9",
+        "pe": "7",
+        "pp": "7",
+        "gf": "37",
+        "gc": "32",
+        "dif": "+5"
+      }
+    },
+    {
+      "position": "12",
+      "datos": {
+        "name": "Talleres (C)",
+        "pts": "34",
+        "pj": "23",
+        "pg": "10",
+        "pe": "4",
+        "pp": "9",
+        "gf": "34",
+        "gc": "30",
+        "dif": "+4"
+      }
+    },
+    {
+      "position": "13",
+      "datos": {
+        "name": "Estudiantes (LP)",
+        "pts": "30",
+        "pj": "23",
+        "pg": "8",
+        "pe": "6",
+        "pp": "9",
+        "gf": "23",
+        "gc": "22",
+        "dif": "+1"
+      }
+    },
+    {
+      "position": "14",
+      "datos": {
+        "name": "Independiente",
+        "pts": "29",
+        "pj": "23",
+        "pg": "8",
+        "pe": "5",
+        "pp": "10",
+        "gf": "27",
+        "gc": "25",
+        "dif": "+2"
+      }
+    },
+    {
+      "position": "15",
+      "datos": {
+        "name": "Atl Tucuman",
+        "pts": "29",
+        "pj": "23",
+        "pg": "7",
+        "pe": "8",
+        "pp": "8",
+        "gf": "22",
+        "gc": "25",
+        "dif": "-3"
+      }
+    },
+    {
+      "position": "16",
+      "datos": {
+        "name": "Union",
+        "pts": "27",
+        "pj": "23",
+        "pg": "7",
+        "pe": "6",
+        "pp": "10",
+        "gf": "21",
+        "gc": "30",
+        "dif": "-9"
+      }
+    },
+    {
+      "position": "17",
+      "datos": {
+        "name": "Banfield",
+        "pts": "26",
+        "pj": "23",
+        "pg": "6",
+        "pe": "8",
+        "pp": "9",
+        "gf": "19",
+        "gc": "23",
+        "dif": "-4"
+      }
+    },
+    {
+      "position": "18",
+      "datos": {
+        "name": "Central Cba (SdE)",
+        "pts": "26",
+        "pj": "23",
+        "pg": "6",
+        "pe": "8",
+        "pp": "9",
+        "gf": "21",
+        "gc": "29",
+        "dif": "-8"
+      }
+    },
+    {
+      "position": "19",
+      "datos": {
+        "name": "Gimnasia (LP)",
+        "pts": "23",
+        "pj": "23",
+        "pg": "6",
+        "pe": "5",
+        "pp": "12",
+        "gf": "22",
+        "gc": "23",
+        "dif": "-1"
+      }
+    },
+    {
+      "position": "20",
+      "datos": {
+        "name": "Patronato",
+        "pts": "23",
+        "pj": "23",
+        "pg": "5",
+        "pe": "8",
+        "pp": "10",
+        "gf": "22",
+        "gc": "34",
+        "dif": "-12"
+      }
+    },
+    {
+      "position": "21",
+      "datos": {
+        "name": "Huracan",
+        "pts": "22",
+        "pj": "23",
+        "pg": "5",
+        "pe": "7",
+        "pp": "11",
+        "gf": "17",
+        "gc": "27",
+        "dif": "-10"
+      }
+    },
+    {
+      "position": "22",
+      "datos": {
+        "name": "Aldosivi",
+        "pts": "22",
+        "pj": "23",
+        "pg": "6",
+        "pe": "4",
+        "pp": "13",
+        "gf": "20",
+        "gc": "35",
+        "dif": "-15"
+      }
+    },
+    {
+      "position": "23",
+      "datos": {
+        "name": "Colon",
+        "pts": "18",
+        "pj": "23",
+        "pg": "5",
+        "pe": "3",
+        "pp": "15",
+        "gf": "17",
+        "gc": "39",
+        "dif": "-22"
+      }
+    },
+    {
+      "position": "24",
+      "datos": {
+        "name": "Godoy Cruz",
+        "pts": "18",
+        "pj": "23",
+        "pg": "6",
+        "pe": "0",
+        "pp": "17",
+        "gf": "22",
+        "gc": "46",
+        "dif": "-24"
+      }
+    }],
+    "2018/19": [
+    {
+      "position": "1",
+      "datos": {
+        "name": "Racing Club",
+        "pts": "57",
+        "pj": "25",
+        "pg": "17",
+        "pe": "6",
+        "pp": "2",
+        "gf": "43",
+        "gc": "16",
+        "dif": "+27"
+      }
+    },
+    {
+      "position": "2",
+      "datos": {
+        "name": "Def y Justicia",
+        "pts": "53",
+        "pj": "25",
+        "pg": "15",
+        "pe": "8",
+        "pp": "2",
+        "gf": "33",
+        "gc": "18",
+        "dif": "+15"
+      }
+    },
+    {
+      "position": "3",
+      "datos": {
+        "name": "Boca Juniors",
+        "pts": "51",
+        "pj": "25",
+        "pg": "15",
+        "pe": "6",
+        "pp": "4",
+        "gf": "42",
+        "gc": "18",
+        "dif": "+24"
+      }
+    },
+    {
+      "position": "4",
+      "datos": {
+        "name": "River Plate",
+        "pts": "45",
+        "pj": "25",
+        "pg": "13",
+        "pe": "6",
+        "pp": "6",
+        "gf": "42",
+        "gc": "21",
+        "dif": "+21"
+      }
+    },
+    {
+      "position": "5",
+      "datos": {
+        "name": "Atl Tucuman",
+        "pts": "42",
+        "pj": "25",
+        "pg": "12",
+        "pe": "6",
+        "pp": "7",
+        "gf": "36",
+        "gc": "29",
+        "dif": "+7"
+      }
+    },
+    {
+      "position": "6",
+      "datos": {
+        "name": "Velez",
+        "pts": "40",
+        "pj": "25",
+        "pg": "11",
+        "pe": "7",
+        "pp": "7",
+        "gf": "34",
+        "gc": "25",
+        "dif": "+9"
+      }
+    },
+    {
+      "position": "7",
+      "datos": {
+        "name": "Independiente",
+        "pts": "38",
+        "pj": "25",
+        "pg": "10",
+        "pe": "8",
+        "pp": "7",
+        "gf": "35",
+        "gc": "28",
+        "dif": "+7"
+      }
+    },
+    {
+      "position": "8",
+      "datos": {
+        "name": "Union",
+        "pts": "36",
+        "pj": "25",
+        "pg": "9",
+        "pe": "9",
+        "pp": "7",
+        "gf": "29",
+        "gc": "24",
+        "dif": "+5"
+      }
+    },
+    {
+      "position": "9",
+      "datos": {
+        "name": "Tigre",
+        "pts": "36",
+        "pj": "25",
+        "pg": "9",
+        "pe": "9",
+        "pp": "7",
+        "gf": "39",
+        "gc": "42",
+        "dif": "-3"
+      }
+    },
+    {
+      "position": "10",
+      "datos": {
+        "name": "Huracan",
+        "pts": "35",
+        "pj": "25",
+        "pg": "9",
+        "pe": "8",
+        "pp": "8",
+        "gf": "28",
+        "gc": "28",
+        "dif": "0"
+      }
+    },
+    {
+      "position": "11",
+      "datos": {
+        "name": "Lanus",
+        "pts": "34",
+        "pj": "25",
+        "pg": "9",
+        "pe": "7",
+        "pp": "9",
+        "gf": "27",
+        "gc": "32",
+        "dif": "-5"
+      }
+    },
+    {
+      "position": "12",
+      "datos": {
+        "name": "Talleres (C)",
+        "pts": "33",
+        "pj": "25",
+        "pg": "9",
+        "pe": "6",
+        "pp": "10",
+        "gf": "25",
+        "gc": "24",
+        "dif": "+1"
+      }
+    },
+    {
+      "position": "13",
+      "datos": {
+        "name": "Aldosivi",
+        "pts": "33",
+        "pj": "25",
+        "pg": "9",
+        "pe": "6",
+        "pp": "10",
+        "gf": "21",
+        "gc": "24",
+        "dif": "-3"
+      }
+    },
+    {
+      "position": "14",
+      "datos": {
+        "name": "Godoy Cruz",
+        "pts": "32",
+        "pj": "25",
+        "pg": "9",
+        "pe": "5",
+        "pp": "11",
+        "gf": "23",
+        "gc": "30",
+        "dif": "-7"
+      }
+    },
+    {
+      "position": "15",
+      "datos": {
+        "name": "Newells",
+        "pts": "29",
+        "pj": "25",
+        "pg": "7",
+        "pe": "8",
+        "pp": "10",
+        "gf": "26",
+        "gc": "23",
+        "dif": "+3"
+      }
+    },
+    {
+      "position": "16",
+      "datos": {
+        "name": "Banfield",
+        "pts": "29",
+        "pj": "25",
+        "pg": "6",
+        "pe": "11",
+        "pp": "8",
+        "gf": "27",
+        "gc": "31",
+        "dif": "-4"
+      }
+    },
+    {
+      "position": "17",
+      "datos": {
+        "name": "Estudiantes (LP)",
+        "pts": "29",
+        "pj": "25",
+        "pg": "7",
+        "pe": "8",
+        "pp": "10",
+        "gf": "21",
+        "gc": "25",
+        "dif": "-4"
+      }
+    },
+    {
+      "position": "18",
+      "datos": {
+        "name": "Gimnasia (LP)",
+        "pts": "29",
+        "pj": "25",
+        "pg": "8",
+        "pe": "5",
+        "pp": "12",
+        "gf": "21",
+        "gc": "32",
+        "dif": "-11"
+      }
+    },
+    {
+      "position": "19",
+      "datos": {
+        "name": "Patronato",
+        "pts": "26",
+        "pj": "25",
+        "pg": "7",
+        "pe": "5",
+        "pp": "13",
+        "gf": "29",
+        "gc": "37",
+        "dif": "-8"
+      }
+    },
+    {
+      "position": "20",
+      "datos": {
+        "name": "Rosario Central",
+        "pts": "26",
+        "pj": "25",
+        "pg": "6",
+        "pe": "8",
+        "pp": "11",
+        "gf": "16",
+        "gc": "26",
+        "dif": "-10"
+      }
+    },
+    {
+      "position": "21",
+      "datos": {
+        "name": "San Martin (SJ)",
+        "pts": "25",
+        "pj": "25",
+        "pg": "6",
+        "pe": "7",
+        "pp": "12",
+        "gf": "24",
+        "gc": "34",
+        "dif": "-10"
+      }
+    },
+    {
+      "position": "22",
+      "datos": {
+        "name": "Belgrano",
+        "pts": "24",
+        "pj": "25",
+        "pg": "4",
+        "pe": "12",
+        "pp": "9",
+        "gf": "16",
+        "gc": "23",
+        "dif": "-7"
+      }
+    },
+    {
+      "position": "23",
+      "datos": {
+        "name": "San Lorenzo",
+        "pts": "23",
+        "pj": "25",
+        "pg": "3",
+        "pe": "14",
+        "pp": "8",
+        "gf": "21",
+        "gc": "30",
+        "dif": "-9"
+      }
+    },
+    {
+      "position": "24",
+      "datos": {
+        "name": "Colon",
+        "pts": "23",
+        "pj": "25",
+        "pg": "4",
+        "pe": "11",
+        "pp": "10",
+        "gf": "21",
+        "gc": "33",
+        "dif": "-12"
+      }
+    },
+    {
+      "position": "25",
+      "datos": {
+        "name": "San Martin (T)",
+        "pts": "23",
+        "pj": "25",
+        "pg": "4",
+        "pe": "11",
+        "pp": "10",
+        "gf": "25",
+        "gc": "38",
+        "dif": "-13"
+      }
+    },
+    {
+      "position": "26",
+      "datos": {
+        "name": "Argentinos",
+        "pts": "22",
+        "pj": "25",
+        "pg": "5",
+        "pe": "7",
+        "pp": "13",
+        "gf": "15",
+        "gc": "28",
+        "dif": "-13"
+      }
+    }
+  ],
+  "2017/18": [
+    {
+      "position": "1",
+      "datos": {
+        "name": "Boca Juniors",
+        "pts": "58",
+        "pj": "27",
+        "pg": "18",
+        "pe": "4",
+        "pp": "5",
+        "gf": "50",
+        "gc": "22",
+        "dif": "28"
+      }
+    },
+    {
+      "position": "2",
+      "datos": {
+        "name": "Godoy Cruz",
+        "pts": "56",
+        "pj": "27",
+        "pg": "17",
+        "pe": "5",
+        "pp": "5",
+        "gf": "45",
+        "gc": "24",
+        "dif": "21"
+      }
+    },
+    {
+      "position": "3",
+      "datos": {
+        "name": "San Lorenzo",
+        "pts": "50",
+        "pj": "27",
+        "pg": "14",
+        "pe": "8",
+        "pp": "5",
+        "gf": "31",
+        "gc": "20",
+        "dif": "11"
+      }
+    },
+    {
+      "position": "4",
+      "datos": {
+        "name": "Huracan",
+        "pts": "48",
+        "pj": "27",
+        "pg": "13",
+        "pe": "9",
+        "pp": "5",
+        "gf": "35",
+        "gc": "24",
+        "dif": "11"
+      }
+    },
+    {
+      "position": "5",
+      "datos": {
+        "name": "Talleres (C)",
+        "pts": "46",
+        "pj": "27",
+        "pg": "13",
+        "pe": "7",
+        "pp": "7",
+        "gf": "33",
+        "gc": "20",
+        "dif": "13"
+      }
+    },
+    {
+      "position": "6",
+      "datos": {
+        "name": "Independiente",
+        "pts": "46",
+        "pj": "27",
+        "pg": "13",
+        "pe": "7",
+        "pp": "7",
+        "gf": "29",
+        "gc": "19",
+        "dif": "10"
+      }
+    },
+    {
+      "position": "7",
+      "datos": {
+        "name": "Racing Club",
+        "pts": "45",
+        "pj": "27",
+        "pg": "13",
+        "pe": "6",
+        "pp": "8",
+        "gf": "46",
+        "gc": "32",
+        "dif": "14"
+      }
+    },
+    {
+      "position": "8",
+      "datos": {
+        "name": "River Plate",
+        "pts": "45",
+        "pj": "27",
+        "pg": "13",
+        "pe": "6",
+        "pp": "8",
+        "gf": "39",
+        "gc": "26",
+        "dif": "13"
+      }
+    },
+    {
+      "position": "9",
+      "datos": {
+        "name": "Def y Justicia",
+        "pts": "44",
+        "pj": "27",
+        "pg": "13",
+        "pe": "5",
+        "pp": "9",
+        "gf": "41",
+        "gc": "34",
+        "dif": "7"
+      }
+    },
+    {
+      "position": "10",
+      "datos": {
+        "name": "Union",
+        "pts": "43",
+        "pj": "27",
+        "pg": "11",
+        "pe": "10",
+        "pp": "6",
+        "gf": "33",
+        "gc": "23",
+        "dif": "10"
+      }
+    },
+    {
+      "position": "11",
+      "datos": {
+        "name": "Colon",
+        "pts": "41",
+        "pj": "27",
+        "pg": "11",
+        "pe": "8",
+        "pp": "8",
+        "gf": "32",
+        "gc": "22",
+        "dif": "10"
+      }
+    },
+    {
+      "position": "12",
+      "datos": {
+        "name": "Argentinos",
+        "pts": "41",
+        "pj": "27",
+        "pg": "12",
+        "pe": "5",
+        "pp": "10",
+        "gf": "36",
+        "gc": "30",
+        "dif": "6"
+      }
+    },
+    {
+      "position": "13",
+      "datos": {
+        "name": "Belgrano",
+        "pts": "40",
+        "pj": "27",
+        "pg": "10",
+        "pe": "10",
+        "pp": "7",
+        "gf": "29",
+        "gc": "28",
+        "dif": "1"
+      }
+    },
+    {
+      "position": "14",
+      "datos": {
+        "name": "Velez",
+        "pts": "38",
+        "pj": "27",
+        "pg": "10",
+        "pe": "8",
+        "pp": "9",
+        "gf": "31",
+        "gc": "32",
+        "dif": "-1"
+      }
+    },
+    {
+      "position": "15",
+      "datos": {
+        "name": "Atl Tucuman",
+        "pts": "36",
+        "pj": "27",
+        "pg": "8",
+        "pe": "12",
+        "pp": "7",
+        "gf": "29",
+        "gc": "26",
+        "dif": "3"
+      }
+    },
+    {
+      "position": "16",
+      "datos": {
+        "name": "Estudiantes (LP)",
+        "pts": "36",
+        "pj": "27",
+        "pg": "10",
+        "pe": "6",
+        "pp": "11",
+        "gf": "25",
+        "gc": "26",
+        "dif": "-1"
+      }
+    },
+    {
+      "position": "17",
+      "datos": {
+        "name": "Banfield",
+        "pts": "35",
+        "pj": "27",
+        "pg": "9",
+        "pe": "8",
+        "pp": "10",
+        "gf": "27",
+        "gc": "24",
+        "dif": "3"
+      }
+    },
+    {
+      "position": "18",
+      "datos": {
+        "name": "San Martin (SJ)",
+        "pts": "33",
+        "pj": "27",
+        "pg": "9",
+        "pe": "6",
+        "pp": "12",
+        "gf": "30",
+        "gc": "36",
+        "dif": "-6"
+      }
+    },
+    {
+      "position": "19",
+      "datos": {
+        "name": "Patronato",
+        "pts": "33",
+        "pj": "27",
+        "pg": "8",
+        "pe": "9",
+        "pp": "10",
+        "gf": "26",
+        "gc": "32",
+        "dif": "-6"
+      }
+    },
+    {
+      "position": "20",
+      "datos": {
+        "name": "Rosario Central",
+        "pts": "32",
+        "pj": "27",
+        "pg": "8",
+        "pe": "8",
+        "pp": "11",
+        "gf": "30",
+        "gc": "41",
+        "dif": "-11"
+      }
+    },
+    {
+      "position": "21",
+      "datos": {
+        "name": "Newells*",
+        "pts": "29",
+        "pj": "27",
+        "pg": "8",
+        "pe": "6",
+        "pp": "13",
+        "gf": "23",
+        "gc": "28",
+        "dif": "-5"
+      }
+    },
+    {
+      "position": "22",
+      "datos": {
+        "name": "Lanus",
+        "pts": "29",
+        "pj": "27",
+        "pg": "6",
+        "pe": "11",
+        "pp": "10",
+        "gf": "20",
+        "gc": "37",
+        "dif": "-17"
+      }
+    },
+    {
+      "position": "23",
+      "datos": {
+        "name": "Gimnasia (LP)",
+        "pts": "27",
+        "pj": "27",
+        "pg": "7",
+        "pe": "6",
+        "pp": "14",
+        "gf": "28",
+        "gc": "43",
+        "dif": "-15"
+      }
+    },
+    {
+      "position": "24",
+      "datos": {
+        "name": "Tigre",
+        "pts": "24",
+        "pj": "27",
+        "pg": "4",
+        "pe": "12",
+        "pp": "11",
+        "gf": "26",
+        "gc": "33",
+        "dif": "-7"
+      }
+    },
+    {
+      "position": "25",
+      "datos": {
+        "name": "Temperley",
+        "pts": "23",
+        "pj": "27",
+        "pg": "5",
+        "pe": "8",
+        "pp": "14",
+        "gf": "22",
+        "gc": "46",
+        "dif": "-24"
+      }
+    },
+    {
+      "position": "26",
+      "datos": {
+        "name": "Chacarita",
+        "pts": "18",
+        "pj": "27",
+        "pg": "4",
+        "pe": "6",
+        "pp": "17",
+        "gf": "23",
+        "gc": "40",
+        "dif": "-17"
+      }
+    },
+    {
+      "position": "27",
+      "datos": {
+        "name": "Arsenal",
+        "pts": "17",
+        "pj": "27",
+        "pg": "3",
+        "pe": "8",
+        "pp": "16",
+        "gf": "19",
+        "gc": "36",
+        "dif": "-17"
+      }
+    },
+    {
+      "position": "28",
+      "datos": {
+        "name": "Olimpo",
+        "pts": "15",
+        "pj": "27",
+        "pg": "3",
+        "pe": "6",
+        "pp": "18",
+        "gf": "16",
+        "gc": "50",
+        "dif": "-34"
+      }
+    }
+  ],
+  "2016/17": [
+    {
+      "position": "1",
+      "datos": {
+        "name": "Boca Juniors",
+        "pts": "63",
+        "pj": "30",
+        "pg": "18",
+        "pe": "9",
+        "pp": "3",
+        "gf": "62",
+        "gc": "25",
+        "dif": "37"
+      }
+    },
+    {
+      "position": "2",
+      "datos": {
+        "name": "River Plate",
+        "pts": "56",
+        "pj": "30",
+        "pg": "16",
+        "pe": "8",
+        "pp": "6",
+        "gf": "51",
+        "gc": "28",
+        "dif": "23"
+      }
+    },
+    {
+      "position": "3",
+      "datos": {
+        "name": "Estudiantes (LP)",
+        "pts": "56",
+        "pj": "30",
+        "pg": "16",
+        "pe": "8",
+        "pp": "6",
+        "gf": "46",
+        "gc": "26",
+        "dif": "20"
+      }
+    },
+    {
+      "position": "4",
+      "datos": {
+        "name": "Racing Club",
+        "pts": "55",
+        "pj": "30",
+        "pg": "17",
+        "pe": "4",
+        "pp": "9",
+        "gf": "51",
+        "gc": "40",
+        "dif": "11"
+      }
+    },
+    {
+      "position": "5",
+      "datos": {
+        "name": "Banfield",
+        "pts": "54",
+        "pj": "30",
+        "pg": "17",
+        "pe": "3",
+        "pp": "10",
+        "gf": "42",
+        "gc": "35",
+        "dif": "7"
+      }
+    },
+    {
+      "position": "6",
+      "datos": {
+        "name": "Independiente",
+        "pts": "53",
+        "pj": "30",
+        "pg": "14",
+        "pe": "11",
+        "pp": "5",
+        "gf": "39",
+        "gc": "23",
+        "dif": "16"
+      }
+    },
+    {
+      "position": "7",
+      "datos": {
+        "name": "San Lorenzo",
+        "pts": "53",
+        "pj": "30",
+        "pg": "16",
+        "pe": "5",
+        "pp": "9",
+        "gf": "46",
+        "gc": "35",
+        "dif": "11"
+      }
+    },
+    {
+      "position": "8",
+      "datos": {
+        "name": "Lanus",
+        "pts": "50",
+        "pj": "30",
+        "pg": "14",
+        "pe": "8",
+        "pp": "8",
+        "gf": "36",
+        "gc": "25",
+        "dif": "11"
+      }
+    },
+    {
+      "position": "9",
+      "datos": {
+        "name": "Newells",
+        "pts": "49",
+        "pj": "30",
+        "pg": "14",
+        "pe": "7",
+        "pp": "9",
+        "gf": "40",
+        "gc": "30",
+        "dif": "10"
+      }
+    },
+    {
+      "position": "10",
+      "datos": {
+        "name": "Def y Justicia",
+        "pts": "49",
+        "pj": "30",
+        "pg": "14",
+        "pe": "7",
+        "pp": "9",
+        "gf": "31",
+        "gc": "23",
+        "dif": "8"
+      }
+    },
+    {
+      "position": "11",
+      "datos": {
+        "name": "Colon",
+        "pts": "49",
+        "pj": "30",
+        "pg": "14",
+        "pe": "7",
+        "pp": "9",
+        "gf": "32",
+        "gc": "25",
+        "dif": "7"
+      }
+    },
+    {
+      "position": "12",
+      "datos": {
+        "name": "Rosario Central",
+        "pts": "44",
+        "pj": "30",
+        "pg": "11",
+        "pe": "11",
+        "pp": "8",
+        "gf": "40",
+        "gc": "31",
+        "dif": "9"
+      }
+    },
+    {
+      "position": "13",
+      "datos": {
+        "name": "Gimnasia (LP)",
+        "pts": "43",
+        "pj": "30",
+        "pg": "12",
+        "pe": "7",
+        "pp": "11",
+        "gf": "26",
+        "gc": "24",
+        "dif": "2"
+      }
+    },
+    {
+      "position": "14",
+      "datos": {
+        "name": "Godoy Cruz",
+        "pts": "43",
+        "pj": "30",
+        "pg": "13",
+        "pe": "4",
+        "pp": "13",
+        "gf": "34",
+        "gc": "34",
+        "dif": "0"
+      }
+    },
+    {
+      "position": "15",
+      "datos": {
+        "name": "Talleres (C)",
+        "pts": "42",
+        "pj": "30",
+        "pg": "11",
+        "pe": "9",
+        "pp": "10",
+        "gf": "35",
+        "gc": "30",
+        "dif": "5"
+      }
+    },
+    {
+      "position": "16",
+      "datos": {
+        "name": "Olimpo",
+        "pts": "38",
+        "pj": "30",
+        "pg": "9",
+        "pe": "11",
+        "pp": "10",
+        "gf": "37",
+        "gc": "32",
+        "dif": "5"
+      }
+    },
+    {
+      "position": "17",
+      "datos": {
+        "name": "Atl Rafaela",
+        "pts": "37",
+        "pj": "30",
+        "pg": "10",
+        "pe": "7",
+        "pp": "13",
+        "gf": "31",
+        "gc": "30",
+        "dif": "1"
+      }
+    },
+    {
+      "position": "18",
+      "datos": {
+        "name": "Temperley",
+        "pts": "37",
+        "pj": "30",
+        "pg": "10",
+        "pe": "7",
+        "pp": "13",
+        "gf": "30",
+        "gc": "38",
+        "dif": "-8"
+      }
+    },
+    {
+      "position": "19",
+      "datos": {
+        "name": "Velez",
+        "pts": "37",
+        "pj": "30",
+        "pg": "10",
+        "pe": "7",
+        "pp": "13",
+        "gf": "31",
+        "gc": "40",
+        "dif": "-9"
+      }
+    },
+    {
+      "position": "20",
+      "datos": {
+        "name": "Patronato",
+        "pts": "34",
+        "pj": "30",
+        "pg": "8",
+        "pe": "10",
+        "pp": "12",
+        "gf": "30",
+        "gc": "40",
+        "dif": "-10"
+      }
+    },
+    {
+      "position": "21",
+      "datos": {
+        "name": "Atl Tucuman",
+        "pts": "33",
+        "pj": "30",
+        "pg": "8",
+        "pe": "9",
+        "pp": "13",
+        "gf": "34",
+        "gc": "40",
+        "dif": "-6"
+      }
+    },
+    {
+      "position": "22",
+      "datos": {
+        "name": "San Martin (SJ)",
+        "pts": "33",
+        "pj": "30",
+        "pg": "7",
+        "pe": "12",
+        "pp": "11",
+        "gf": "27",
+        "gc": "40",
+        "dif": "-13"
+      }
+    },
+    {
+      "position": "23",
+      "datos": {
+        "name": "Union",
+        "pts": "32",
+        "pj": "30",
+        "pg": "8",
+        "pe": "8",
+        "pp": "14",
+        "gf": "25",
+        "gc": "39",
+        "dif": "-14"
+      }
+    },
+    {
+      "position": "24",
+      "datos": {
+        "name": "Tigre",
+        "pts": "31",
+        "pj": "30",
+        "pg": "8",
+        "pe": "7",
+        "pp": "15",
+        "gf": "33",
+        "gc": "43",
+        "dif": "-10"
+      }
+    },
+    {
+      "position": "25",
+      "datos": {
+        "name": "Huracan",
+        "pts": "29",
+        "pj": "30",
+        "pg": "6",
+        "pe": "11",
+        "pp": "13",
+        "gf": "23",
+        "gc": "30",
+        "dif": "-7"
+      }
+    },
+    {
+      "position": "26",
+      "datos": {
+        "name": "Sarmiento (J)",
+        "pts": "28",
+        "pj": "30",
+        "pg": "7",
+        "pe": "7",
+        "pp": "16",
+        "gf": "31",
+        "gc": "51",
+        "dif": "-20"
+      }
+    },
+    {
+      "position": "27",
+      "datos": {
+        "name": "Arsenal",
+        "pts": "27",
+        "pj": "30",
+        "pg": "7",
+        "pe": "6",
+        "pp": "17",
+        "gf": "27",
+        "gc": "50",
+        "dif": "-23"
+      }
+    },
+    {
+      "position": "28",
+      "datos": {
+        "name": "Belgrano",
+        "pts": "26",
+        "pj": "30",
+        "pg": "5",
+        "pe": "11",
+        "pp": "14",
+        "gf": "21",
+        "gc": "34",
+        "dif": "-13"
+      }
+    },
+    {
+      "position": "29",
+      "datos": {
+        "name": "Quilmes",
+        "pts": "25",
+        "pj": "30",
+        "pg": "6",
+        "pe": "7",
+        "pp": "17",
+        "gf": "18",
+        "gc": "43",
+        "dif": "-25"
+      }
+    },
+    {
+      "position": "30",
+      "datos": {
+        "name": "Aldosivi",
+        "pts": "25",
+        "pj": "30",
+        "pg": "5",
+        "pe": "10",
+        "pp": "15",
+        "gf": "15",
+        "gc": "40",
+        "dif": "-25"
+      }
+    }
+  ],
+  "2016Tr": [
+    {
+      "position": "1",
+      "datos": {
+        "name": "San Lorenzo",
+        "pts": "34",
+        "pj": "16",
+        "pg": "10",
+        "pe": "4",
+        "pp": "2",
+        "gf": "23",
+        "gc": "16",
+        "dif": "7"
+      }
+    },
+    {
+      "position": "2",
+      "datos": {
+        "name": "Godoy Cruz",
+        "pts": "33",
+        "pj": "16",
+        "pg": "10",
+        "pe": "3",
+        "pp": "3",
+        "gf": "27",
+        "gc": "14",
+        "dif": "13"
+      }
+    },
+    {
+      "position": "3",
+      "datos": {
+        "name": "Independiente",
+        "pts": "27",
+        "pj": "16",
+        "pg": "7",
+        "pe": "6",
+        "pp": "3",
+        "gf": "22",
+        "gc": "12",
+        "dif": "10"
+      }
+    },
+    {
+      "position": "4",
+      "datos": {
+        "name": "Arsenal",
+        "pts": "27",
+        "pj": "16",
+        "pg": "8",
+        "pe": "3",
+        "pp": "5",
+        "gf": "21",
+        "gc": "15",
+        "dif": "6"
+      }
+    },
+    {
+      "position": "5",
+      "datos": {
+        "name": "Gimnasia (LP)",
+        "pts": "25",
+        "pj": "16",
+        "pg": "7",
+        "pe": "4",
+        "pp": "5",
+        "gf": "19",
+        "gc": "19",
+        "dif": "0"
+      }
+    },
+    {
+      "position": "6",
+      "datos": {
+        "name": "Velez",
+        "pts": "24",
+        "pj": "16",
+        "pg": "7",
+        "pe": "3",
+        "pp": "6",
+        "gf": "20",
+        "gc": "19",
+        "dif": "1"
+      }
+    },
+    {
+      "position": "7",
+      "datos": {
+        "name": "Rosario Central",
+        "pts": "20",
+        "pj": "16",
+        "pg": "5",
+        "pe": "5",
+        "pp": "6",
+        "gf": "19",
+        "gc": "16",
+        "dif": "3"
+      }
+    },
+    {
+      "position": "8",
+      "datos": {
+        "name": "Patronato",
+        "pts": "20",
+        "pj": "16",
+        "pg": "5",
+        "pe": "5",
+        "pp": "6",
+        "gf": "19",
+        "gc": "23",
+        "dif": "-4"
+      }
+    },
+    {
+      "position": "9",
+      "datos": {
+        "name": "River Plate",
+        "pts": "18",
+        "pj": "16",
+        "pg": "4",
+        "pe": "6",
+        "pp": "6",
+        "gf": "21",
+        "gc": "22",
+        "dif": "-1"
+      }
+    },
+    {
+      "position": "10",
+      "datos": {
+        "name": "Sarmiento (J)",
+        "pts": "17",
+        "pj": "16",
+        "pg": "4",
+        "pe": "5",
+        "pp": "7",
+        "gf": "10",
+        "gc": "18",
+        "dif": "-8"
+      }
+    },
+    {
+      "position": "11",
+      "datos": {
+        "name": "Colon",
+        "pts": "17",
+        "pj": "16",
+        "pg": "5",
+        "pe": "2",
+        "pp": "9",
+        "gf": "21",
+        "gc": "31",
+        "dif": "-10"
+      }
+    },
+    {
+      "position": "12",
+      "datos": {
+        "name": "Belgrano",
+        "pts": "16",
+        "pj": "16",
+        "pg": "4",
+        "pe": "4",
+        "pp": "8",
+        "gf": "21",
+        "gc": "24",
+        "dif": "-3"
+      }
+    },
+    {
+      "position": "13",
+      "datos": {
+        "name": "Banfield",
+        "pts": "15",
+        "pj": "16",
+        "pg": "2",
+        "pe": "9",
+        "pp": "5",
+        "gf": "15",
+        "gc": "20",
+        "dif": "-5"
+      }
+    },
+    {
+      "position": "14",
+      "datos": {
+        "name": "Quilmes",
+        "pts": "15",
+        "pj": "16",
+        "pg": "3",
+        "pe": "6",
+        "pp": "7",
+        "gf": "21",
+        "gc": "32",
+        "dif": "-11"
+      }
+    },
+    {
+      "position": "15",
+      "datos": {
+        "name": "Olimpo",
+        "pts": "13",
+        "pj": "16",
+        "pg": "3",
+        "pe": "4",
+        "pp": "9",
+        "gf": "11",
+        "gc": "20",
+        "dif": "-9"
+      }
+    }
+  ],
+  "2015": [
+    {
+      "position": "1",
+      "datos": {
+        "name": "Boca Juniors",
+        "pts": "64",
+        "pj": "30",
+        "pg": "20",
+        "pe": "4",
+        "pp": "6",
+        "gf": "49",
+        "gc": "26",
+        "dif": "23"
+      }
+    },
+    {
+      "position": "2",
+      "datos": {
+        "name": "San Lorenzo",
+        "pts": "61",
+        "pj": "30",
+        "pg": "18",
+        "pe": "7",
+        "pp": "5",
+        "gf": "44",
+        "gc": "20",
+        "dif": "24"
+      }
+    },
+    {
+      "position": "3",
+      "datos": {
+        "name": "Rosario Central",
+        "pts": "59",
+        "pj": "30",
+        "pg": "16",
+        "pe": "11",
+        "pp": "3",
+        "gf": "47",
+        "gc": "26",
+        "dif": "21"
+      }
+    },
+    {
+      "position": "4",
+      "datos": {
+        "name": "Racing Club",
+        "pts": "57",
+        "pj": "30",
+        "pg": "16",
+        "pe": "9",
+        "pp": "5",
+        "gf": "40",
+        "gc": "23",
+        "dif": "17"
+      }
+    },
+    {
+      "position": "5",
+      "datos": {
+        "name": "Independiente",
+        "pts": "54",
+        "pj": "30",
+        "pg": "14",
+        "pe": "12",
+        "pp": "4",
+        "gf": "44",
+        "gc": "22",
+        "dif": "22"
+      }
+    },
+    {
+      "position": "6",
+      "datos": {
+        "name": "Belgrano",
+        "pts": "51",
+        "pj": "30",
+        "pg": "14",
+        "pe": "9",
+        "pp": "7",
+        "gf": "33",
+        "gc": "23",
+        "dif": "10"
+      }
+    },
+    {
+      "position": "7",
+      "datos": {
+        "name": "Estudiantes (LP)",
+        "pts": "51",
+        "pj": "30",
+        "pg": "14",
+        "pe": "9",
+        "pp": "7",
+        "gf": "34",
+        "gc": "28",
+        "dif": "6"
+      }
+    },
+    {
+      "position": "8",
+      "datos": {
+        "name": "Banfield",
+        "pts": "50",
+        "pj": "30",
+        "pg": "14",
+        "pe": "8",
+        "pp": "8",
+        "gf": "38",
+        "gc": "32",
+        "dif": "6"
+      }
+    },
+    {
+      "position": "9",
+      "datos": {
+        "name": "River Plate",
+        "pts": "49",
+        "pj": "30",
+        "pg": "13",
+        "pe": "10",
+        "pp": "7",
+        "gf": "46",
+        "gc": "33",
+        "dif": "13"
+      }
+    },
+    {
+      "position": "10",
+      "datos": {
+        "name": "Tigre",
+        "pts": "46",
+        "pj": "30",
+        "pg": "12",
+        "pe": "10",
+        "pp": "8",
+        "gf": "32",
+        "gc": "25",
+        "dif": "7"
+      }
+    },
+    {
+      "position": "11",
+      "datos": {
+        "name": "Quilmes",
+        "pts": "45",
+        "pj": "30",
+        "pg": "13",
+        "pe": "6",
+        "pp": "11",
+        "gf": "38",
+        "gc": "37",
+        "dif": "1"
+      }
+    },
+    {
+      "position": "12",
+      "datos": {
+        "name": "Gimnasia (LP)",
+        "pts": "44",
+        "pj": "30",
+        "pg": "12",
+        "pe": "8",
+        "pp": "10",
+        "gf": "41",
+        "gc": "38",
+        "dif": "3"
+      }
+    },
+    {
+      "position": "13",
+      "datos": {
+        "name": "Lanus",
+        "pts": "42",
+        "pj": "30",
+        "pg": "10",
+        "pe": "12",
+        "pp": "8",
+        "gf": "33",
+        "gc": "29",
+        "dif": "4"
+      }
+    },
+    {
+      "position": "14",
+      "datos": {
+        "name": "Union",
+        "pts": "41",
+        "pj": "30",
+        "pg": "9",
+        "pe": "14",
+        "pp": "7",
+        "gf": "38",
+        "gc": "37",
+        "dif": "1"
+      }
+    },
+    {
+      "position": "15",
+      "datos": {
+        "name": "Aldosivi",
+        "pts": "40",
+        "pj": "30",
+        "pg": "11",
+        "pe": "7",
+        "pp": "12",
+        "gf": "37",
+        "gc": "40",
+        "dif": "-3"
+      }
+    },
+    {
+      "position": "16",
+      "datos": {
+        "name": "Newells",
+        "pts": "40",
+        "pj": "30",
+        "pg": "10",
+        "pe": "10",
+        "pp": "10",
+        "gf": "27",
+        "gc": "30",
+        "dif": "-3"
+      }
+    },
+    {
+      "position": "17",
+      "datos": {
+        "name": "San Martin (SJ)",
+        "pts": "37",
+        "pj": "30",
+        "pg": "8",
+        "pe": "13",
+        "pp": "9",
+        "gf": "32",
+        "gc": "34",
+        "dif": "-2"
+      }
+    },
+    {
+      "position": "18",
+      "datos": {
+        "name": "Olimpo",
+        "pts": "36",
+        "pj": "30",
+        "pg": "8",
+        "pe": "12",
+        "pp": "10",
+        "gf": "23",
+        "gc": "26",
+        "dif": "-3"
+      }
+    },
+    {
+      "position": "19",
+      "datos": {
+        "name": "Colon",
+        "pts": "34",
+        "pj": "30",
+        "pg": "7",
+        "pe": "13",
+        "pp": "10",
+        "gf": "26",
+        "gc": "31",
+        "dif": "-5"
+      }
+    },
+    {
+      "position": "20",
+      "datos": {
+        "name": "Argentinos",
+        "pts": "33",
+        "pj": "30",
+        "pg": "8",
+        "pe": "9",
+        "pp": "13",
+        "gf": "30",
+        "gc": "38",
+        "dif": "-8"
+      }
+    },
+    {
+      "position": "21",
+      "datos": {
+        "name": "Def y Justicia",
+        "pts": "32",
+        "pj": "30",
+        "pg": "8",
+        "pe": "8",
+        "pp": "14",
+        "gf": "27",
+        "gc": "31",
+        "dif": "-4"
+      }
+    },
+    {
+      "position": "22",
+      "datos": {
+        "name": "Godoy Cruz",
+        "pts": "32",
+        "pj": "30",
+        "pg": "8",
+        "pe": "8",
+        "pp": "14",
+        "gf": "32",
+        "gc": "40",
+        "dif": "-8"
+      }
+    },
+    {
+      "position": "23",
+      "datos": {
+        "name": "Huracan",
+        "pts": "30",
+        "pj": "30",
+        "pg": "6",
+        "pe": "12",
+        "pp": "12",
+        "gf": "29",
+        "gc": "37",
+        "dif": "-8"
+      }
+    },
+    {
+      "position": "24",
+      "datos": {
+        "name": "Sarmiento (J)",
+        "pts": "30",
+        "pj": "30",
+        "pg": "7",
+        "pe": "9",
+        "pp": "14",
+        "gf": "24",
+        "gc": "34",
+        "dif": "-10"
+      }
+    },
+    {
+      "position": "25",
+      "datos": {
+        "name": "Temperley",
+        "pts": "30",
+        "pj": "30",
+        "pg": "6",
+        "pe": "12",
+        "pp": "12",
+        "gf": "19",
+        "gc": "29",
+        "dif": "-10"
+      }
+    },
+    {
+      "position": "26",
+      "datos": {
+        "name": "Nueva Chicago",
+        "pts": "29",
+        "pj": "30",
+        "pg": "7",
+        "pe": "8",
+        "pp": "15",
+        "gf": "29",
+        "gc": "38",
+        "dif": "-9"
+      }
+    },
+    {
+      "position": "27",
+      "datos": {
+        "name": "Velez",
+        "pts": "29",
+        "pj": "30",
+        "pg": "7",
+        "pe": "8",
+        "pp": "15",
+        "gf": "27",
+        "gc": "37",
+        "dif": "-10"
+      }
+    },
+    {
+      "position": "28",
+      "datos": {
+        "name": "Arsenal",
+        "pts": "27",
+        "pj": "30",
+        "pg": "7",
+        "pe": "6",
+        "pp": "17",
+        "gf": "25",
+        "gc": "44",
+        "dif": "-19"
+      }
+    },
+    {
+      "position": "29",
+      "datos": {
+        "name": "Atl Rafaela",
+        "pts": "23",
+        "pj": "30",
+        "pg": "4",
+        "pe": "11",
+        "pp": "15",
+        "gf": "29",
+        "gc": "51",
+        "dif": "-22"
+      }
+    },
+    {
+      "position": "30",
+      "datos": {
+        "name": "Crucero (M)",
+        "pts": "14",
+        "pj": "30",
+        "pg": "3",
+        "pe": "5",
+        "pp": "22",
+        "gf": "21",
+        "gc": "55",
+        "dif": "-34"
+      }
+    }
+  ],
+  "2014Tr": [
+    {
+      "position": "1",
+      "datos": {
+        "name": "Racing Club",
+        "pts": "41",
+        "pj": "19",
+        "pg": "13",
+        "pe": "2",
+        "pp": "4",
+        "gf": "30",
+        "gc": "16",
+        "dif": "14"
+      }
+    },
+    {
+      "position": "2",
+      "datos": {
+        "name": "River Plate",
+        "pts": "39",
+        "pj": "19",
+        "pg": "11",
+        "pe": "6",
+        "pp": "2",
+        "gf": "34",
+        "gc": "13",
+        "dif": "21"
+      }
+    },
+    {
+      "position": "3",
+      "datos": {
+        "name": "Lanus",
+        "pts": "35",
+        "pj": "19",
+        "pg": "10",
+        "pe": "5",
+        "pp": "4",
+        "gf": "28",
+        "gc": "23",
+        "dif": "5"
+      }
+    },
+    {
+      "position": "4",
+      "datos": {
+        "name": "Independiente",
+        "pts": "33",
+        "pj": "19",
+        "pg": "10",
+        "pe": "3",
+        "pp": "6",
+        "gf": "31",
+        "gc": "29",
+        "dif": "2"
+      }
+    },
+    {
+      "position": "5",
+      "datos": {
+        "name": "Boca Juniors",
+        "pts": "31",
+        "pj": "19",
+        "pg": "9",
+        "pe": "4",
+        "pp": "6",
+        "gf": "25",
+        "gc": "23",
+        "dif": "2"
+      }
+    },
+    {
+      "position": "6",
+      "datos": {
+        "name": "Estudiantes (LP)",
+        "pts": "31",
+        "pj": "19",
+        "pg": "9",
+        "pe": "4",
+        "pp": "6",
+        "gf": "23",
+        "gc": "23",
+        "dif": "0"
+      }
+    },
+    {
+      "position": "7",
+      "datos": {
+        "name": "Tigre",
+        "pts": "26",
+        "pj": "19",
+        "pg": "8",
+        "pe": "2",
+        "pp": "9",
+        "gf": "30",
+        "gc": "26",
+        "dif": "4"
+      }
+    },
+    {
+      "position": "8",
+      "datos": {
+        "name": "San Lorenzo",
+        "pts": "26",
+        "pj": "19",
+        "pg": "8",
+        "pe": "2",
+        "pp": "9",
+        "gf": "26",
+        "gc": "22",
+        "dif": "4"
+      }
+    },
+    {
+      "position": "9",
+      "datos": {
+        "name": "Arsenal",
+        "pts": "26",
+        "pj": "19",
+        "pg": "7",
+        "pe": "5",
+        "pp": "7",
+        "gf": "27",
+        "gc": "25",
+        "dif": "2"
+      }
+    },
+    {
+      "position": "10",
+      "datos": {
+        "name": "Belgrano",
+        "pts": "25",
+        "pj": "19",
+        "pg": "7",
+        "pe": "4",
+        "pp": "8",
+        "gf": "26",
+        "gc": "26",
+        "dif": "0"
+      }
+    },
+    {
+      "position": "11",
+      "datos": {
+        "name": "Velez",
+        "pts": "25",
+        "pj": "19",
+        "pg": "7",
+        "pe": "4",
+        "pp": "8",
+        "gf": "21",
+        "gc": "22",
+        "dif": "-1"
+      }
+    },
+    {
+      "position": "12",
+      "datos": {
+        "name": "Newells",
+        "pts": "25",
+        "pj": "19",
+        "pg": "6",
+        "pe": "7",
+        "pp": "6",
+        "gf": "21",
+        "gc": "24",
+        "dif": "-3"
+      }
+    },
+    {
+      "position": "13",
+      "datos": {
+        "name": "Atl Rafaela",
+        "pts": "25",
+        "pj": "19",
+        "pg": "7",
+        "pe": "4",
+        "pp": "8",
+        "gf": "25",
+        "gc": "29",
+        "dif": "-4"
+      }
+    },
+    {
+      "position": "14",
+      "datos": {
+        "name": "Gimnasia (LP)",
+        "pts": "24",
+        "pj": "19",
+        "pg": "6",
+        "pe": "6",
+        "pp": "7",
+        "gf": "16",
+        "gc": "15",
+        "dif": "1"
+      }
+    },
+    {
+      "position": "15",
+      "datos": {
+        "name": "Rosario Central",
+        "pts": "21",
+        "pj": "19",
+        "pg": "6",
+        "pe": "3",
+        "pp": "10",
+        "gf": "21",
+        "gc": "28",
+        "dif": "-7"
+      }
+    },
+    {
+      "position": "16",
+      "datos": {
+        "name": "Godoy Cruz",
+        "pts": "21",
+        "pj": "19",
+        "pg": "5",
+        "pe": "6",
+        "pp": "8",
+        "gf": "31",
+        "gc": "39",
+        "dif": "-8"
+      }
+    },
+    {
+      "position": "17",
+      "datos": {
+        "name": "Banfield",
+        "pts": "20",
+        "pj": "19",
+        "pg": "5",
+        "pe": "5",
+        "pp": "9",
+        "gf": "25",
+        "gc": "25",
+        "dif": "0"
+      }
+    },
+    {
+      "position": "18",
+      "datos": {
+        "name": "Def y Justicia",
+        "pts": "20",
+        "pj": "19",
+        "pg": "5",
+        "pe": "5",
+        "pp": "9",
+        "gf": "19",
+        "gc": "30",
+        "dif": "-11"
+      }
+    },
+    {
+      "position": "19",
+      "datos": {
+        "name": "Olimpo",
+        "pts": "19",
+        "pj": "19",
+        "pg": "4",
+        "pe": "7",
+        "pp": "8",
+        "gf": "15",
+        "gc": "22",
+        "dif": "-7"
+      }
+    },
+    {
+      "position": "20",
+      "datos": {
+        "name": "Quilmes",
+        "pts": "12",
+        "pj": "19",
+        "pg": "2",
+        "pe": "6",
+        "pp": "11",
+        "gf": "17",
+        "gc": "31",
+        "dif": "-14"
+      }
+    }
+  ],
+  "2014Fin": [
+    {
+      "position": "1",
+      "datos": {
+        "name": "River Plate",
+        "pts": "37",
+        "pj": "19",
+        "pg": "11",
+        "pe": "4",
+        "pp": "4",
+        "gf": "28",
+        "gc": "15",
+        "dif": "13"
+      }
+    },
+    {
+      "position": "2",
+      "datos": {
+        "name": "Boca Juniors",
+        "pts": "32",
+        "pj": "19",
+        "pg": "9",
+        "pe": "5",
+        "pp": "5",
+        "gf": "25",
+        "gc": "15",
+        "dif": "10"
+      }
+    },
+    {
+      "position": "3",
+      "datos": {
+        "name": "Estudiantes (LP)",
+        "pts": "32",
+        "pj": "19",
+        "pg": "8",
+        "pe": "8",
+        "pp": "3",
+        "gf": "20",
+        "gc": "11",
+        "dif": "9"
+      }
+    },
+    {
+      "position": "4",
+      "datos": {
+        "name": "Godoy Cruz",
+        "pts": "32",
+        "pj": "19",
+        "pg": "9",
+        "pe": "5",
+        "pp": "5",
+        "gf": "23",
+        "gc": "18",
+        "dif": "5"
+      }
+    },
+    {
+      "position": "5",
+      "datos": {
+        "name": "Gimnasia (LP)",
+        "pts": "31",
+        "pj": "19",
+        "pg": "9",
+        "pe": "4",
+        "pp": "6",
+        "gf": "24",
+        "gc": "19",
+        "dif": "5"
+      }
+    },
+    {
+      "position": "6",
+      "datos": {
+        "name": "Velez",
+        "pts": "30",
+        "pj": "19",
+        "pg": "9",
+        "pe": "3",
+        "pp": "7",
+        "gf": "34",
+        "gc": "26",
+        "dif": "8"
+      }
+    },
+    {
+      "position": "7",
+      "datos": {
+        "name": "Colon",
+        "pts": "30",
+        "pj": "19",
+        "pg": "8",
+        "pe": "6",
+        "pp": "5",
+        "gf": "14",
+        "gc": "13",
+        "dif": "1"
+      }
+    },
+    {
+      "position": "8",
+      "datos": {
+        "name": "Rosario Central",
+        "pts": "28",
+        "pj": "19",
+        "pg": "7",
+        "pe": "7",
+        "pp": "5",
+        "gf": "21",
+        "gc": "21",
+        "dif": "0"
+      }
+    },
+    {
+      "position": "9",
+      "datos": {
+        "name": "Lanus",
+        "pts": "28",
+        "pj": "19",
+        "pg": "8",
+        "pe": "4",
+        "pp": "7",
+        "gf": "21",
+        "gc": "23",
+        "dif": "-2"
+      }
+    },
+    {
+      "position": "10",
+      "datos": {
+        "name": "Olimpo",
+        "pts": "27",
+        "pj": "19",
+        "pg": "7",
+        "pe": "6",
+        "pp": "6",
+        "gf": "19",
+        "gc": "16",
+        "dif": "3"
+      }
+    },
+    {
+      "position": "11",
+      "datos": {
+        "name": "San Lorenzo",
+        "pts": "27",
+        "pj": "19",
+        "pg": "7",
+        "pe": "6",
+        "pp": "6",
+        "gf": "19",
+        "gc": "20",
+        "dif": "-1"
+      }
+    },
+    {
+      "position": "12",
+      "datos": {
+        "name": "Newells",
+        "pts": "25",
+        "pj": "19",
+        "pg": "6",
+        "pe": "7",
+        "pp": "6",
+        "gf": "22",
+        "gc": "18",
+        "dif": "4"
+      }
+    },
+    {
+      "position": "13",
+      "datos": {
+        "name": "Tigre",
+        "pts": "24",
+        "pj": "19",
+        "pg": "5",
+        "pe": "9",
+        "pp": "5",
+        "gf": "14",
+        "gc": "14",
+        "dif": "0"
+      }
+    },
+    {
+      "position": "14",
+      "datos": {
+        "name": "Quilmes",
+        "pts": "24",
+        "pj": "19",
+        "pg": "7",
+        "pe": "3",
+        "pp": "9",
+        "gf": "16",
+        "gc": "22",
+        "dif": "-6"
+      }
+    },
+    {
+      "position": "15",
+      "datos": {
+        "name": "Belgrano",
+        "pts": "20",
+        "pj": "19",
+        "pg": "3",
+        "pe": "11",
+        "pp": "5",
+        "gf": "17",
+        "gc": "21",
+        "dif": "-4"
+      }
+    },
+    {
+      "position": "16",
+      "datos": {
+        "name": "Atl Rafaela",
+        "pts": "20",
+        "pj": "19",
+        "pg": "4",
+        "pe": "8",
+        "pp": "7",
+        "gf": "22",
+        "gc": "28",
+        "dif": "-6"
+      }
+    },
+    {
+      "position": "17",
+      "datos": {
+        "name": "Arsenal",
+        "pts": "18",
+        "pj": "19",
+        "pg": "5",
+        "pe": "3",
+        "pp": "11",
+        "gf": "19",
+        "gc": "28",
+        "dif": "-9"
+      }
+    },
+    {
+      "position": "18",
+      "datos": {
+        "name": "Racing Club",
+        "pts": "17",
+        "pj": "19",
+        "pg": "4",
+        "pe": "5",
+        "pp": "10",
+        "gf": "19",
+        "gc": "24",
+        "dif": "-5"
+      }
+    },
+    {
+      "position": "19",
+      "datos": {
+        "name": "Argentinos",
+        "pts": "15",
+        "pj": "19",
+        "pg": "3",
+        "pe": "6",  
+        "pp": "10",
+        "gf": "9",
+        "gc": "21",
+        "dif": "-12"
+      }
+    },
+    {
+      "position": "20",
+      "datos": {
+        "name": "All Boys",
+        "pts": "15",
+        "pj": "19",
+        "pg": "3",
+        "pe": "6",
+        "pp": "10",
+        "gf": "14",
+        "gc": "27",
+        "dif": "-13"
+      }
+    }
+  ]
+}

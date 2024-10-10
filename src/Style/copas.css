@@ -1,0 +1,414 @@
+/* ____________________________LIBERTADORES_________________________________ */
+.ul-copas{
+    padding: 2rem;
+    background-color: #1b1a1a;
+    min-height: 38.4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.libertadores, .copa-argentina, .recopas, .torneo-local{
+    width: max-content;
+    color: #fff;
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    padding: 0.5rem;
+    margin: 0 auto;
+}
+.link-libertadores{
+    text-decoration: none;
+}
+.link-copaArgentina{
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.1rem;
+    margin-bottom: 0.7rem;
+}
+.msj-eliminado{
+    text-align: center;
+    color: #fff;
+    margin: 0.5rem;
+}
+.container-videoplayer{
+    height: 50rem;
+}
+
+
+
+
+
+
+
+/* _______________________________RECOPAS____________________________________ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ______________________________TORNEO_LOCAL_________________________________ */
+.container-torneo{
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #1a1919;
+    color: #f3efef;
+}
+.link-torneo{
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.2rem;
+    padding-bottom: 0.4rem;
+}
+.container-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 40rem;
+}
+.link-formation{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0.25rem;
+    background-color: #252525;
+    color: #fff;
+    text-decoration: none;
+    width: 100%;
+}
+.local-torneo{
+    height: max-content;
+    text-align: center;
+    width: 12rem;
+    margin-left: 1rem;
+}
+.visitante-torneo{
+    height: max-content;
+    text-align: center;
+    width: 12rem;
+}
+.fecha-torneo{
+    height: max-content;
+    width: 100%;
+    background-color: #0e0d0d;
+    padding: 0.2rem 1rem;
+}
+.date-torneo{
+    height: max-content;
+    letter-spacing: 1px;
+}
+.resultado-torneo{
+    width: 4.6rem;
+    text-align: center;
+    padding:0.4rem 0.7rem;
+    margin: 0 0.3rem;
+}
+.torneo{
+    width: 12rem;
+}
+
+
+/* __________TABLA__________ */
+.container-tabla{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #141414;
+    color: #dbdbdb;
+    padding-bottom: 1rem;
+    position: sticky;
+    top: 0;
+}
+.tabla{
+    background-color: #111111;
+    display: flex;
+    padding: 0.5rem 0;
+}
+.tabla-p{
+    background-color: rgb(15, 15, 15);
+    padding: 0.2rem;
+    width: 2.5rem;
+    text-align: center;
+    font-size: 0.8rem;
+    color: #fff;
+    /* border-right: 2px solid #ddd; */
+    height: 1.5rem;
+    border-bottom: 1px solid #6b6868;
+    border-left: 1px solid #6b6868;
+    border-TOP: 1px solid #6b6868;
+}
+.p-equipo{
+    width: 12rem;
+}
+.p-position{
+    text-align: center;
+    padding: 0.1rem;
+    color: #ffff;
+    border-bottom: 1px solid #6b6868 ;
+    border-left: 1px solid #6b6868;
+}
+.p-name{
+    padding: 0.1rem 0.1rem 0.1rem .3rem;
+    border-bottom: 1px solid #6b6868 ;
+    border-left: 1px solid #6b6868 ;
+}
+.p-number-tabla{
+    padding: 0.1rem;
+    text-align: center;
+    border-bottom: 1px solid #6b6868 ;
+}
+.p-number-tabla{
+    border-left: 1px solid #6b6868;
+}
+.p-dif{
+    border-right: 1px solid #6b6868;
+}
+.tabla-p-dif{
+    border-right: 1px solid #6b6868;
+}
+.h2-tabla{
+    padding: 0.4rem;
+    background-color: #0f0f0f;
+    width: 100%;
+    text-align: center;
+}
+
+
+
+
+
+/* ________________________________COPA_ARGENTINA___________________________ */
+.ul-copa-argentina{
+    padding: 2rem;
+    background-color: #1b1a1a;
+}
+/* _______________________________PARTIDOS___________________________ */
+
+.container-partidos-copa{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #1b1a1a;
+    padding: 2rem 0;
+}
+.container-grupo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40rem;
+}
+.container-partidos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0.5rem 0;
+}
+.info-partido{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.link-partido{
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5rem;
+    width:31rem;
+}
+.grupo,.fase{
+    width: 100%;
+    padding: 0.5rem;
+    text-align: start;
+    padding-left: 7.5rem;
+    background-color: #fff;
+}
+.vs{
+    width: 2rem;
+    text-align: center;
+}
+.fecha{
+    font-size: 0.95rem;
+    width: 5rem;
+    text-align: center;
+}
+.local,.visitante{
+    width: 7.8rem;
+    text-align: center;
+}
+.result{
+    /* background-color: rgb(31, 58, 94); */
+    padding: 0.5rem 0.5rem ;
+    width: 4rem;
+    text-align: center;
+}
+
+
+/* _____________________CLAFICADOS________________________ */
+.clasificados-libertadores{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://resources-us.yinzcam.com/csf/shared/conmebol-bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.clasificados-copa-argentina{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(0deg, rgb(3, 6, 32) 0%, rgb(8, 8, 8) 100%);
+    padding: 0.5rem 0;
+}
+.img-clubs{
+    width: 3rem;
+    height: 3rem;
+    padding: 0.3rem;
+}
+.h2-clasificados{
+    padding: 0.4rem;
+    text-align: center;
+    letter-spacing: 1px;
+    background-color: #1b1a1a;
+    color: #fff;
+}
+
+.section-partidos-torneo{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    width: 100%;
+    background-color: #141414;
+    position: relative;
+    padding: 2rem 0;
+}
+/* ___________________________________HOVER_____________________________ */
+.link-partido:hover{
+    background-color: #0a0a0a;
+    transition: 0.4s;
+}
+
+
+
+
+/* ______________MEDIA QUERIES____________ */
+@media (max-width: 1280px) {
+    .section-partidos-torneo{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .container-torneo{
+        margin-top: 1rem;
+        width: 100%;
+    }
+    .container-tabla{
+        position: relative;
+    }
+}
+@media (max-width: 1000px) {
+    .container-videoplayer{
+        height: 40rem;
+    }
+}
+@media (max-width: 730px) {
+    .link-partido{
+        width: 100%;
+        padding:0.5rem 0 ;
+    }
+    .container-videoplayer{
+        height: 30rem;
+    }
+    .info-partido{
+        width: 100%;
+    }
+
+}
+@media (max-width: 670px ) {
+  .container-grupo{
+      width: 100%;
+    }
+    .grupo,.fase{
+        text-align: center;
+        padding: 0.5rem 1rem;
+    }
+    .local,.visitante,.fecha{
+        font-size: 0.9rem;
+        width: 6rem;
+    }
+    .result{
+        font-size: 0.9rem;
+        padding: 0.4rem 0.3rem ;
+        width: 3.5rem;
+    }
+
+    /* -----torneo----- */
+    .container-info{
+        width: 100%
+    }
+    .visitante-torneo,.local-torneo,.date-torneo{
+        font-size: 0.85rem;
+        width: 7rem;
+        height: max-content;
+    }
+    .fecha-torneo{
+        font-size: 0.85rem;
+    }
+    .resultado-torneo{
+        font-size: 0.9rem;
+        padding: 0.4rem 0.3rem ;
+        width: 3.5rem;
+    }
+    .div-tabla{
+        font-size: 0.75rem;
+        width: 1.5rem;
+    }
+    .div-tabla:nth-child(2){
+        width: 6.6rem;
+    }
+    .tabla-p{
+        width: 100%;
+        font-size: 0.65rem;
+        padding: 0.2rem 0;
+    }
+    .tabla-p-dif{
+        width: 1.8rem;
+    }
+    .p-number-tabla{
+        width: 1.5rem;
+    }
+    .p-dif{
+        width: 1.8rem;
+    }
+}   
+    @media (max-width:480px) {
+        .date-torneo{
+            text-align: end;
+        }
+        .local-torneo{
+            margin-left: 0;
+        }
+        .container-videoplayer{
+            height: 25rem;
+        }
+    }

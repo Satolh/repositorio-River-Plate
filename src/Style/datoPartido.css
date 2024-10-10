@@ -1,0 +1,223 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+.title-partido{
+    text-align: center;
+    padding: 1.5rem 0 0 0;
+    color: #fff;
+}
+.container-teams{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    padding: 2rem 0;
+    background-color: #811c1c;
+    color: #fff;
+}
+.name-team{
+    font-size: 1.3rem;
+    margin-top: 1rem;
+    height: 2rem;
+    text-align: center;
+}
+.img-local,.img-visitante{
+    width: 5rem;
+    height: 85px;
+}
+.container-local,.container-visitante{
+    height: 10rem;
+    width: 12rem;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* _____________________style info vs_______________________ */
+.container-all-games{
+    background-color: rgb(27, 27, 27);
+}
+.container-info-vs{
+    text-align: center;
+}
+.vs-stadium{
+    width: 12rem;
+    padding: 0.5rem 0;
+}
+.vs-date{
+    font-size: 1.1rem;
+}
+.vs-result{
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+.h2-title{
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    width: 26rem;
+    color: #fff;
+    background-color: rgb(19, 19, 19);
+    padding: 0.5rem ;
+}
+.titular,.suplente{
+    padding: 0.2rem;
+    letter-spacing: 1px;
+}
+.name-entrenador{
+    display: block;
+    padding: 0.5rem;
+    background-color: #141414;
+    margin-top: 1rem;
+    font-size: 0.9rem;
+}
+/* ________________________Container-goals___________________ */
+.container-scorers{
+    padding: 1rem;
+    margin: 0 auto;
+    background-color: #0f0f0f;
+    position: relative;
+    color: #fff;
+}
+.container-goal{
+    display: flex;
+    flex-direction:row-reverse;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.goal{
+    width: 18rem;
+    padding: 0.4rem;
+    font-size: 0.8rem;
+}
+/* __________________________Style LineUp_________________________ */
+.section-lineup{
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.container-titulares,.container-suplentes{
+    padding: 1rem 2rem;
+    color: #fff;
+    min-width: 15rem;
+}
+.container-all-titulares,.container-all-suplentes{
+    display: flex;
+}
+.container-name-number{
+    display: flex;
+    align-items: center;
+    margin: 0.2rem 0;
+    font-size: 0.85rem;
+}
+.number{
+    padding: 0.2rem 0.5rem;
+    background-color: rgb(15, 15, 15);
+    text-align: end;
+    width: 2rem;
+    margin-right: 0.5rem;
+}
+/* _______________________________PENALES__________________ */
+.section-penales{
+    padding: 1rem;
+    background-color: #0f0f0f;
+    margin-top: 1rem;
+}
+.container-penales{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    color: #fff;
+}
+.h2-penal{
+    text-align: center;
+    color: #fff;
+    margin-bottom: 1rem;
+    letter-spacing: 1px;
+    font-size: 1.4rem;
+    font-weight: 400;
+}
+.penal{
+    width: 10rem;
+    padding: 0.2rem;
+}
+/* ___________________REPRODUCTOR VIDEO _______________ */
+.container-videoplayer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    background-color: #0f0f0f;
+}
+
+
+
+@media (max-width: 600px) {
+    .name-team{
+        font-size: 1rem;
+    }
+    .container-local,.container-visitante{
+        width: 100%;
+        padding: 1rem;
+    }
+    .container-all-titulares,.container-all-suplentes{
+        flex-wrap: wrap;
+    }
+    .vs-date,.vs-result{
+        width: max-content;
+        margin: 0 auto;
+    }
+    .vs-stadium{
+        font-size: 0.8rem;
+        width: 9rem;
+    }
+    .h2-title{
+        width: 100%;
+    }
+    .vs-date{
+        font-size: 0.8rem;
+    }
+    .section-lineup{
+        align-items: start;
+    }
+    .container-titulares,.container-suplentes{
+        padding: 1rem;
+    }
+    .name-entrenador{
+        width: 14rem;
+    }
+    .h2-penal{
+        font-size: 1..4rem;
+    }
+    .penal{
+        font-size: 0.85rem;
+        width: 8rem;
+    }
+}
+@media (max-width:425px) {
+    .img-local,.img-visitante{
+        width: 3.5rem;
+        height: 59.5px;
+    }
+    .container-teams{
+        position: relative;
+        padding-bottom: 4.5rem;
+    }
+    .vs-stadium {
+        position: absolute;
+        top: 85%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 100%;
+        padding: 0.2rem 3rem;
+      }
+      
+}

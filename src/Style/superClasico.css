@@ -1,0 +1,130 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.section-partidos-superclasicos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    width: 100%;
+    min-height: 40rem;
+    background-color: #141414;
+    position: relative;
+    padding: 2rem 0;
+}
+.section-superclasicos{
+}
+.container-superclasicos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: start;
+    padding:  1rem;
+    background-color: #1b1a1a;
+}
+.link-formation{
+    margin-bottom: 0.2rem;
+}
+.title-clasico{
+    background-color: #101010;
+    color: #f6f6f6;
+    text-align: center;
+    font-size: 1.3rem;
+    padding: 1rem;
+}
+.link-superclasicos{
+    text-decoration: none;
+    color: #fff;
+}
+.super-clasicos{
+    padding-bottom: 0.5rem;
+    letter-spacing: 2px;
+    font-size: 1.1rem;
+    padding:0 1.5rem 0.5rem 1.5rem;
+
+}
+.year-clasico{
+    color: #fff;
+    font-size: 2rem;
+    letter-spacing: 2px;
+    margin-bottom: 2rem;
+}
+.container-chose{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    background-color: #9b1313;
+    gap: 0.5rem;
+}
+.btn-clasico{
+    padding: 0.3rem 1.5rem;
+    letter-spacing: 2px;
+    color: #fff;
+    background-color: #100e0e;
+    border:1px solid  black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.ul-superclasico-year{
+    padding-top: 1rem;
+}
+
+/* ___________________Historial _____________ */
+
+.container-historial{
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    background-color: #141414;
+    padding: 1rem;
+    position: sticky;
+    top: 1rem;
+}
+.container-img-historial{
+    display: flex;
+    justify-content: center;
+}
+
+.escudo-historial{
+    width: 6rem;
+     height: 6rem;
+     padding: 0.5rem;
+}
+.title-historial{
+    color: #fff;
+    letter-spacing: 1px;
+}
+.p-historial{
+    padding: 0.5rem;
+    color: #Fff;
+
+}
+
+
+
+@media (max-width:1000px) {
+    .container-superclasicos{
+       flex-direction: column;
+       justify-content: center;
+       align-items: center;
+    }
+    .container-historial{
+        position: relative;
+    }
+}
+@media (max-width:425px) {
+    .resultado-superclasico{
+        font-size: 0.70rem;
+    }
+    .local-superclasico, .visitante-superclasico{
+        font-size: 0.8rem;
+    }
+    .date-superclasico{
+        font-size: 0.8rem;
+    }
+}

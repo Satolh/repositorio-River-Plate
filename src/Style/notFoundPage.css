@@ -1,0 +1,30 @@
+.div-error{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #23282e;
+    height:100vh;
+    width: 100vw;
+    padding-top: 25rem;
+    font-size: 3rem;
+    font-weight: 700;
+    font-family: sans-serif;
+    color: #f0ebeb;
+  }
+  .button-home{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 1.5rem;
+    padding: 0.5rem 1.5rem;
+    border-radius: 10px;
+    border: 1px solid #fff;
+    width: max-content;
+    margin: 1rem auto;
+  }
+  .button-home:hover{
+    background-color: #585858;
+  }
+  
+  .page-link:hover{
+    text-decoration: line-through;
+  }

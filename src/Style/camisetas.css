@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    /* color: #eeeeee; */
+}
+.section-camisetas{
+    overflow: hidden;
+}
+.container-camisetas{
+    padding-top: 1rem;
+    gap: 1rem;
+    background-color: #131516
+}
+.container-camisetas-temporada{
+    display: flex;
+    flex-direction: column;
+}
+.img-camiseta{
+    height: 10rem;
+    width: 10rem;
+    border-radius: 5px;
+    object-fit: cover;
+    object-position: top;
+    margin: 0.5rem;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.container-info-camisetas{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(240, 236, 236);
+    width: 100%;
+    padding-bottom: 0.5rem;
+}
+.container-all-camisetas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    border-bottom: 1.5px solid #5c5c5ccc;
+}
+.description-camiseta{
+    text-align: center;
+    font-size: 0.8rem;
+    padding: 0.1rem 0 1rem 0;
+    color: #eeeeee;
+}
+.river{
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.1rem;
+    padding-bottom: 0.2rem;
+    color: #eeeeee;
+}
+
+.title-year{
+    text-align: start;
+    font-size: 1.6rem;
+    width: max-content;
+}
+.paragraph-marca{
+    text-align: start;
+    margin-left: 0.5rem;
+    font-size: 0.9rem;
+    width: max-content;
+    border-bottom: 2px solid rgb(243, 16, 16);
+}
+.div-year-marca{
+    padding: 1rem;
+    width: 55rem;
+    margin: 0 auto;
+    color: #eeeeee;
+}
+/* __________________________HOVER_______________________- */
+.img-camiseta:hover{
+    transform: scale(1.8);
+}
