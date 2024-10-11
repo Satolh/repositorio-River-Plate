@@ -220,6 +220,8 @@
       "Talleres de Córdoba",
       "River Plate",
       "Colo Colo",
+      "River Plate",
+      "Atlético Mineiro",
       "River Plate"
     ],
     "visitante": [
@@ -331,7 +333,9 @@
       "River Plate",
       "Talleres de Córdoba",
       "River Plate",
-      "Colo Colo"
+      "Colo Colo",
+      "River Plate",
+      "Atlético Mineiro"
     ],
     "resultado": [
       "2 - 0",
@@ -442,7 +446,9 @@
       "0 - 1",
       "2 - 1",
       "1 - 1",
-      "1 - 0"
+      "1 - 0",
+      "21 : 30",
+      "21 : 30"
     ]
   }
 ]

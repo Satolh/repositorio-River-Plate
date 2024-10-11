@@ -1,6 +1,6 @@
 /* ____________________________LIBERTADORES_________________________________ */
 .ul-copas{
-    padding: 2rem;
+    padding: 4rem;
     background-color: #1b1a1a;
     min-height: 38.4rem;
     display: flex;
@@ -8,13 +8,22 @@
     align-items: center;
     justify-content: center;
 }
-.libertadores, .copa-argentina, .recopas, .torneo-local{
+.libertadores, .copaArgentina, .recopas, .torneo{
     width: max-content;
     color: #fff;
-    letter-spacing: 1px;
     font-family: sans-serif;
     padding: 0.5rem;
     margin: 0 auto;
+    font-size: 1.4rem;
+    font-family: "Big Shoulders Display", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    letter-spacing: 2px;
+    font-weight: 800;
+    width: 15rem;
+}
+.copaArgentina,.libertadores{
+    text-align: center;
 }
 .link-libertadores{
     text-decoration: none;
@@ -23,7 +32,6 @@
     color: #fff;
     text-decoration: none;
     font-size: 1.1rem;
-    margin-bottom: 0.7rem;
 }
 .msj-eliminado{
     text-align: center;
@@ -73,7 +81,6 @@
     text-decoration: none;
     color: #fff;
     font-size: 1.2rem;
-    padding-bottom: 0.4rem;
 }
 .container-info{
     display: flex;
@@ -119,10 +126,6 @@
     padding:0.4rem 0.7rem;
     margin: 0 0.3rem;
 }
-.torneo{
-    width: 12rem;
-}
-
 
 /* __________TABLA__________ */
 .container-tabla{
@@ -232,6 +235,8 @@
     text-decoration: none;
     padding: 0.5rem;
     width:31rem;
+    background-color: #141313f6;
+    margin-bottom: 0.2rem;
 }
 .grupo,.fase{
     width: 100%;
@@ -308,6 +313,10 @@
     transition: 0.4s;
 }
 
+.libertadores:hover,.copaArgentina:hover,.torneo:hover{
+    color: #8c1313;
+}
+
 
 
 
@@ -334,7 +343,6 @@
 @media (max-width: 730px) {
     .link-partido{
         width: 100%;
-        padding:0.5rem 0 ;
     }
     .container-videoplayer{
         height: 30rem;

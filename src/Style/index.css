@@ -57,7 +57,7 @@
   font-family: sans-serif;
   font-weight: 600;
   cursor: pointer;
-  padding: 0.3rem 0.5rem;
+  padding: 0.5rem 0.7rem;
   transition: 0.5s
 }
 
@@ -117,17 +117,21 @@
 .container-made{
   width: 20rem;
   position: relative;
-  padding: 1rem;
+  padding: 0.5rem 1rem;
 }
 .made{
   text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.2rem;
 }
 .logo-footer{
   width: 6rem;
   height: 6rem;
   position: absolute;
   right: 2.5rem;
-  top: 0.4rem;
+  top: 0.1rem;
   z-index: 100;
 }
 .container-redes{
@@ -139,8 +143,8 @@
   color: #000;
 }
 .icon-redes{
-  width: 1.2rem;
-  height: 1.2rem;
+  width: 1.4rem;
+  height: 1.4rem;
   margin: 0.5rem;
   cursor: pointer;
 }
@@ -161,6 +165,7 @@
 .link:hover{
   background-color: rgba(248, 0, 0, 0.815);
   border-radius: 5px;
+  color: #fff;
 }
 .img-river:hover{
   transform: scale(1.05);
@@ -247,8 +252,8 @@
 }
 @media (max-width: 768px) {
   .link{
-    padding: 0.2rem;
-    font-size: 0.65rem;
+    padding: 0.4rem 0.5rem;
+    font-size: 0.75rem;
   }
 }
 

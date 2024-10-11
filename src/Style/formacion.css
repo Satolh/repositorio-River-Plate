@@ -204,7 +204,7 @@
         padding: 1.5rem ;
     }
     .no-scroll{
-        overflow: hidden;
+        overflow-x: hidden;
     }
 }@media (max-width:480px){
     .field{

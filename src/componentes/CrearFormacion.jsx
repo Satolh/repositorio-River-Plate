@@ -234,8 +234,8 @@ const formacionesMobile = {
 
   const handleMove = (clientX, clientY, fieldRect) => {
     if (isDragging !== null) {
-      const newX = clientX - fieldRect.left - 20;
-      const newY = clientY - fieldRect.top - 30;
+      const newX = clientX - fieldRect.left - 40;
+      const newY = clientY - fieldRect.top - 40;
       const newPositions = [...positions];
       newPositions[isDragging] = { ...newPositions[isDragging], x: newX, y: newY };
       setPositions(newPositions);
