@@ -94,6 +94,9 @@ const DatoPartidosTorneo = () => {
             ))
           }
         </div>
+
+        <h2 className='title-formacion'> Formacion </h2>
+
         <section className='section-lineup'>
               <h2 className='h2-title'>titulares</h2>
             <div className='container-all-titulares'>

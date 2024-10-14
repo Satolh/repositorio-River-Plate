@@ -73,16 +73,16 @@ const DatoPartidosCopaArgentina = () => {
               <h2 className='name-team'>{detailsGameSelected[0].visitante.nameTeam}</h2>
             </div>
         </section>
+        <div className='container-scorers'>
           { detailsGameSelected[0] &&
             detailsGameSelected[0].scorers.map((goal, index) =>(
-            <div className='container-scorers'>
-              <div className='container-goal' key={index}>
+              <div className='container-goal'  key={index}>
                 <p className='goal'>{goal}</p>
                 <LiaFutbolSolid/>
               </div>
-            </div>
             ))
           }
+          </div>
             { detailsGameSelected[0].penales &&
           <section className='section-penales'>
               <h2 className='h2-penal'>Penales</h2>

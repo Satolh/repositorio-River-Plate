@@ -81,7 +81,7 @@ const DatoPartidoLibertadores = () => {
               </div>
             ))
           }
-        </div>
+          </div>
             { detailsGameSelected[0].penales &&
           <section className='section-penales'>
               <h2 className='h2-penal'>Penales</h2>

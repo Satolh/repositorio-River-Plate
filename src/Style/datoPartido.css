@@ -76,12 +76,11 @@
 }
 /* ________________________Container-goals___________________ */
 .container-scorers{
-    padding: 1rem;
     margin: 0 auto;
     background-color: #0f0f0f;
     position: relative;
     color: #fff;
-    margin-top: 0.5rem;
+    padding: 0.4rem;
 }
 .container-goal{
     display: flex;
