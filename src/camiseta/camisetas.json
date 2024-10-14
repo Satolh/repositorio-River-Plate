@@ -548,7 +548,7 @@
   ],
   "2025": [
     {
-      "camiseta":[ "/public/camisetasImg/2025Titular","public/camisetasImg/2025Suplente","public/camisetasImg/2025Portero1","public/camisetasImg/2025Portero2" ],
+      "camiseta":[ "camisetasImg/2025Titular","public/camisetasImg/2025Suplente","public/camisetasImg/2025Portero1","public/camisetasImg/2025Portero2" ],
       "yearCamiseta": ["2025 Local","2025 Visitante","2025 Portero 1","2025 Portero 2"],
       "marca": "Adidas"
     }
