@@ -82,10 +82,9 @@ const DatoPartidoLibertadores = () => {
             ))
           }
         </div>
-        <section className='section-penales'>
             { detailsGameSelected[0].penales &&
+          <section className='section-penales'>
               <h2 className='h2-penal'>Penales</h2>
-            }
         { detailsGameSelected[0] && detailsGameSelected[0].penales &&
           detailsGameSelected[0].penales.teamA.map((penal,index)=>(
             <div className='container-penales' key={index} >
@@ -99,6 +98,8 @@ const DatoPartidoLibertadores = () => {
           ))
         }
         </section>
+        }
+        <h2 className='title-formacion'> Formacion </h2>
         <section className='section-lineup'>
               <h2 className='h2-title'>titulares</h2>
             <div className='container-all-titulares'>
@@ -151,9 +152,9 @@ const DatoPartidoLibertadores = () => {
         </section>
         </div>
         }
-      { detailsGameSelected[0] && detailsGameSelected[0].playVideo &&
+      {/* { detailsGameSelected[0] && detailsGameSelected[0].playVideo &&
         <VideoComponent playVideo={detailsGameSelected[0].playVideo} />
-      }
+      } */}
         <FooterRiver/>
      
     </section>

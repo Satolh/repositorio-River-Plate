@@ -52,7 +52,7 @@
     font-size: 1.1rem;
 }
 .vs-result{
-    font-size: 1.4rem;
+    font-size: 2rem;
     font-weight: 600;
 }
 .h2-title{
@@ -81,6 +81,7 @@
     background-color: #0f0f0f;
     position: relative;
     color: #fff;
+    margin-top: 0.5rem;
 }
 .container-goal{
     display: flex;
@@ -148,6 +149,14 @@
     width: 10rem;
     padding: 0.2rem;
 }
+.title-formacion{
+    text-align: center;
+    background-color: #0f0f0f;
+    margin-top: 0.5rem;
+    padding: 0.5rem 1rem ;
+    color: #e8e5e5;
+    letter-spacing: 1px;
+}
 /* ___________________REPRODUCTOR VIDEO _______________ */
 .container-videoplayer{
     display: flex;
@@ -201,6 +210,9 @@
         font-size: 0.85rem;
         width: 8rem;
     }
+    .title-formacion{
+        font-size: 1.3rem;
+    }
 }
 @media (max-width:425px) {
     .img-local,.img-visitante{
@@ -209,7 +221,7 @@
     }
     .container-teams{
         position: relative;
-        padding-bottom: 4.5rem;
+        padding-bottom: 4.2rem;
     }
     .vs-stadium {
         position: absolute;
@@ -218,6 +230,13 @@
         transform: translate(-50%, -50%);
         width: 100%;
         padding: 0.2rem 3rem;
-      }
+        font-size: 0.9rem;
+    }
+    .name-team{
+        font-size: 0.9rem;
+    }
+    .vs-result{
+        font-size: 1.6rem;
+    }
       
 }

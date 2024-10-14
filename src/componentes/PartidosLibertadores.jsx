@@ -46,12 +46,12 @@ const PartidosLibertadores = () => {
         
         if (!acc[fullYear]) {
             acc[fullYear] = { faseDeGrupos: [], octavos: [], cuartos: [],semiFinal: [], final:[] };
-          }
+        }
         if (acc[fullYear].faseDeGrupos.length < 6) {
-          acc[fullYear].faseDeGrupos.push(partido);
+            acc[fullYear].faseDeGrupos.push(partido);
         }
         else if( acc[fullYear].octavos.length < 2) {
-          acc[fullYear].octavos.push(partido);
+            acc[fullYear].octavos.push(partido);
         }
         else if( acc[fullYear].cuartos.length < 2) {
             acc[fullYear].cuartos.push(partido);
@@ -63,7 +63,6 @@ const PartidosLibertadores = () => {
         }
         return acc;
     }, {});
-        
     const arrayFases = allPartidos[yearCompetition];
     const handleSelectedGame = (gameSelected) =>{
         localStorage.setItem("gameSelected",gameSelected)
