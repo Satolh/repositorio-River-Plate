@@ -93,10 +93,9 @@ const DatoPartidosSuperClasico = () => {
             ))
           }
         </div>
-        <section className='section-penales'>
             { gameSelected[0].penales &&
+        <section className='section-penales'>
               <h2 className='h2-penal'>Penales</h2>
-            }
         { gameSelected[0] && gameSelected[0].penales &&
           gameSelected[0].penales.teamA.map((penal,index)=>(
             <div className='container-penales' key={index} >
@@ -110,6 +109,10 @@ const DatoPartidosSuperClasico = () => {
           ))
         }
         </section>
+        }
+
+          <h2 className='title-formacion'> Formacion </h2>
+
         <section className='section-lineup'>
               <h2 className='h2-title'>titulares</h2>
             <div className='container-all-titulares'>

@@ -191,7 +191,7 @@ const formacionesMobile = {
   const [formacion, setFormacion] = useState(formaciones)
   const [positions, setPositions] = useState(formacion["4-3-3"]);
   const [isDragging, setIsDragging] = useState(null);
-
+  const [nameDt, setNameDt] = useState("DT: Name")
   useEffect(() => {
     if (formacionSeleccionada && formacion) {
       setPositions(formacion[formacionSeleccionada]);
@@ -275,6 +275,11 @@ const formacionesMobile = {
     return () => window.removeEventListener('resize', handleResize);
   }, [formacionesMobile, formaciones]);
   
+  const handleChangeNameDt = (e) => {
+    let newValuesDt = [...nameDt];
+    newValuesDt = e.target.value;
+    setNameDt(newValuesDt);
+};
   
     return (
       <>
@@ -300,6 +305,8 @@ const formacionesMobile = {
           onTouchEnd={handleStopDrag}
           ref={ref}
         >
+          <input type="text" className='name-dt' value={nameDt} onChange={(e) => handleChangeNameDt(e)}/>
+          <p className='spam'> sobreriver.vercel.app </p>
           {/* {positions.map((jugador, index) => (
             <div
               onMouseDown={()=> handleMouseDown(index)}

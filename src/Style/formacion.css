@@ -175,6 +175,29 @@
     font-size: 0.9rem;
     cursor: pointer;
 }
+.spam{
+    position: absolute;
+    bottom: 0.2rem;
+    right: 0.2rem;
+    color: #f1e6e6;
+    font-weight: 600;
+}
+.name-dt{
+        position: absolute;
+        width: 12rem;
+        border: none;
+        background-color: transparent;
+        outline: none;
+        color: #0c0c0c;
+        padding: 0.1rem;
+        text-align: start;
+        font-weight: 800;
+        font-size: 0.9rem;
+        border: 1px solid rgba(196, 194, 194, 0);
+        font-family: "Roboto Mono", monospace;
+        top: 0.1rem;
+        left: 1.7rem;
+}
 /* _________________JUGADRORES_______________ */
 
 

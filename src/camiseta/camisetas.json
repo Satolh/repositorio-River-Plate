@@ -1,217 +1,217 @@
 {
   "1901-02": [
     {
-      "camiseta":["public/camisetasImg/1901-02Local"],
+      "camiseta":["camisetasImg/1901-02Local"],
       "yearCamiseta": ["1901-02 Local"],
       "marca": "In-House"
     }
   ],
   "1902-09": [
     {
-      "camiseta":[ "public/camisetasImg/1902-09Local" ],
+      "camiseta":[ "camisetasImg/1902-09Local" ],
       "yearCamiseta": ["1902-08 Local"],
       "marca": "In-House"
     }
   ],
   "1908": [
     {
-      "camiseta":[ "public/camisetasImg/1908Gk"],
+      "camiseta":[ "camisetasImg/1908Gk"],
       "yearCamiseta": ["1908 Portero"],
       "marca": "In-House"
     }
   ],
   "1910-17": [
     {
-      "camiseta":[ "public/camisetasImg/1910-17Local" ],
+      "camiseta":[ "camisetasImg/1910-17Local" ],
       "yearCamiseta": ["1910-17 Local"],
       "marca": "Gath & Chaves"
     }
   ],
   "1918": [
     {
-      "camiseta":[ "public/camisetasImg/1918Local"],
+      "camiseta":[ "camisetasImg/1918Local"],
       "yearCamiseta": ["1918 Local"],
       "marca": "Gath & Chaves"
     }
   ],
   "1920": [
     {
-      "camiseta":[ "public/camisetasImg/1920Local" ],
+      "camiseta":[ "camisetasImg/1920Local" ],
       "yearCamiseta": ["1920 Local"],
       "marca": "In-House"
     }
   ],
   "1923": [
     {
-      "camiseta":[ "public/camisetasImg/1923Local","public/camisetasImg/1923Visitante"],
+      "camiseta":[ "camisetasImg/1923Local","camisetasImg/1923Visitante"],
       "yearCamiseta": ["1923 Local","1923 Visitante"],
       "marca": "In-House"
     }
   ],
   "1925-31": [
     {
-      "camiseta":[ "public/camisetasImg/1925-31Local","public/camisetasImg/1925-31Visitante"],
+      "camiseta":[ "camisetasImg/1925-31Local","camisetasImg/1925-31Visitante"],
       "yearCamiseta": ["1925-31 Local","1925-31 Visitante"],
       "marca": "In-House"
     }
   ],
   "1932": [
     {
-      "camiseta":[ "public/camisetasImg/1932Local","public/camisetasImg/1932Visitante" ],
+      "camiseta":[ "camisetasImg/1932Local","camisetasImg/1932Visitante" ],
       "yearCamiseta": ["1932 Local","1932 Visitante"],
       "marca": "St. Margaret"
     }
   ],
   "1933": [
     {
-      "camiseta":[ "public/camisetasImg/1933Local","public/camisetasImg/1933Visitante" ],
+      "camiseta":[ "camisetasImg/1933Local","camisetasImg/1933Visitante" ],
       "yearCamiseta": ["1933 Local","1933 Visitante"],
       "marca": "In-House"
     }
   ],
   "1935": [
     {
-      "camiseta":[ "public/camisetasImg/1935Portero"],
+      "camiseta":[ "camisetasImg/1935Portero"],
       "yearCamiseta": ["1935 Portero"],
       "marca": "In-House"
     }
   ],
   "1939": [
     {
-      "camiseta":[ "public/camisetasImg/1939Local"],
+      "camiseta":[ "camisetasImg/1939Local"],
       "yearCamiseta": ["1939 Local"],
       "marca": "St. Margaret"
     }
   ],
   "1940": [
     {
-      "camiseta":[ "public/camisetasImg/1940Visitante"],
+      "camiseta":[ "camisetasImg/1940Visitante"],
       "yearCamiseta": ["1940 Visitante"],
       "marca": "Gath & Chaves"
     }
   ],
   "1941": [
     {
-      "camiseta":[ "public/camisetasImg/1941Local"],
+      "camiseta":[ "camisetasImg/1941Local"],
       "yearCamiseta": ["1941 Local"],
       "marca": "In-House"
     }
   ],
   "1942": [
     {
-      "camiseta":[ "public/camisetasImg/1942Local","public/camisetasImg/1942Visitante"],
+      "camiseta":[ "camisetasImg/1942Local","camisetasImg/1942Visitante"],
       "yearCamiseta": ["1942 Local","1942 Visitante"],
       "marca": "In-House"
     }
   ],
   "1943": [
     {
-      "camiseta":[ "public/camisetasImg/1943Visitante"],
+      "camiseta":[ "camisetasImg/1943Visitante"],
       "yearCamiseta": ["1943 Visitante"],
       "marca": "Barbera Matozzi"
     }
   ],
   "1944": [
     {
-      "camiseta":[ "public/camisetasImg/1944Local"],
+      "camiseta":[ "camisetasImg/1944Local"],
       "yearCamiseta": ["1944 Local"],
       "marca": "Gath & Chaves"
     }
   ],
   "1947": [
     {
-      "camiseta":[ "public/camisetasImg/1947Local" ],
+      "camiseta":[ "camisetasImg/1947Local" ],
       "yearCamiseta": ["1947 Local"],
       "marca": "Gath & Chaves"
     }
   ],
   "1948": [
     {
-      "camiseta":[ "public/camisetasImg/1948Visitante"],
+      "camiseta":[ "camisetasImg/1948Visitante"],
       "yearCamiseta": ["1948 Visitante"],
       "marca": "Gath & Chaves"
     }
   ],
   "1949": [
     {
-      "camiseta":[ "public/camisetasImg/1949Local" ],
+      "camiseta":[ "camisetasImg/1949Local" ],
       "yearCamiseta": ["1949 Local"],
       "marca": "Gath & Chaves"
     }
   ],
   "1950": [
     {
-      "camiseta":[ "public/camisetasImg/1950Local" ],
+      "camiseta":[ "camisetasImg/1950Local" ],
       "yearCamiseta": ["1950 Local"],
       "marca": "Gath & Chaves"
     }
   ],
   "1950-52": [
     {
-      "camiseta":[ "public/camisetasImg/1950-52Visitante" ],
+      "camiseta":[ "camisetasImg/1950-52Visitante" ],
       "yearCamiseta": ["1950-52 Visitante"],
       "marca": "In-House"
     }
   ],
   "1952": [
     {
-      "camiseta":[ "public/camisetasImg/1952Visitante" ],
+      "camiseta":[ "camisetasImg/1952Visitante" ],
       "yearCamiseta": ["1952 Visitante"],
       "marca": "Gath & Chaves"
     }
   ],
   "1953": [
     {
-      "camiseta":[ "public/camisetasImg/1953Local" ],
+      "camiseta":[ "camisetasImg/1953Local" ],
       "yearCamiseta": ["1953 Local"],
       "marca": "In-House"
     }
   ],
   "1954": [
     {
-      "camiseta":[ "public/camisetasImg/1954Visitante" ],
+      "camiseta":[ "camisetasImg/1954Visitante" ],
       "yearCamiseta": ["1954 Visitante"],
       "marca": "In-House"
     }
   ],
   "1958": [
     {
-      "camiseta":[ "public/camisetasImg/1958Visitante" ],
+      "camiseta":[ "camisetasImg/1958Visitante" ],
       "yearCamiseta": ["1958 Visitante"],
       "marca": "In-House"
     }
   ],
   "1961": [
     {
-      "camiseta":[ "public/camisetasImg/1961Local","public/camisetasImg/1961Portero"],
+      "camiseta":[ "camisetasImg/1961Local","camisetasImg/1961Portero"],
       "yearCamiseta": ["1961 Local","1961 Portero"],
       "marca": "Gath & Chaves"
     }
   ],
   "1962": [
     {
-      "camiseta":[ "public/camisetasImg/1962Visitante"],
+      "camiseta":[ "camisetasImg/1962Visitante"],
       "yearCamiseta": ["1962 Visitante"],  
       "marca": "Sportlandia"
     }
   ],
   "1964": [
     {
-      "camiseta":[ "public/camisetasImg/1964Local","public/camisetasImg/1964Visitante" ],
+      "camiseta":[ "camisetasImg/1964Local","camisetasImg/1964Visitante" ],
       "yearCamiseta": ["1964 Local","1964 Visitante"],
       "marca": "Realco"
     }
   ],
   "1965": [
     {
-      "camiseta":[ "public/camisetasImg/1965Visitante" ],
+      "camiseta":[ "camisetasImg/1965Visitante" ],
       "yearCamiseta": ["1965 Visitante"],
       "marca": "Gath & Chaves"
     }
   ],
   "1968-70": [
     {
-      "camiseta":[ "public/camisetasImg/1968-70Visitante" ],
+      "camiseta":[ "camisetasImg/1968-70Visitante" ],
       "yearCamiseta": ["1968-70 Visitante"],
       "marca": "In-House"
     }
@@ -219,336 +219,336 @@
   
   "1969": [
     {
-      "camiseta":[ "public/camisetasImg/1969Local" ],
+      "camiseta":[ "camisetasImg/1969Local" ],
       "yearCamiseta": ["1969 Local"],
       "marca": "Fazio"
     }
   ],
   "1974": [
     {
-      "camiseta":[ "public/camisetasImg/1974Local" ],
+      "camiseta":[ "camisetasImg/1974Local" ],
       "yearCamiseta": ["1974 Local"],
       "marca": "Textil Sport"
     }
   ],
   "1975": [
     {
-      "camiseta":[ "public/camisetasImg/1975Local","public/camisetasImg/1975Visitante","public/camisetasImg/1975Portero" ],
+      "camiseta":[ "camisetasImg/1975Local","camisetasImg/1975Visitante","camisetasImg/1975Portero" ],
       "yearCamiseta": [" 1975 Local","1975 Visitante","1975 Portero"],
       "marca": "In-House"
     }
   ],
   "1979": [
     {
-      "camiseta":[ "public/camisetasImg/1979Local","public/camisetasImg/1979Visitante"],
+      "camiseta":[ "camisetasImg/1979Local","camisetasImg/1979Visitante"],
       "yearCamiseta": ["1979 Local","1979 Visitante"],
       "marca": "Sportlandia"
     }
   ],
   "1980": [
     {
-      "camiseta":[ "public/camisetasImg/1980Local" ],
+      "camiseta":[ "camisetasImg/1980Local" ],
       "yearCamiseta": ["1980 Local"],
       "marca": "Topper"
     }
   ],
   "1981": [
     {
-      "camiseta":[ "public/camisetasImg/1981Local","public/camisetasImg/1981Visitante","public/camisetasImg/1981Portero" ],
+      "camiseta":[ "camisetasImg/1981Local","camisetasImg/1981Visitante","camisetasImg/1981Portero" ],
       "yearCamiseta": ["1981 Local","1981 Visitante","1981 Portero"],
       "marca": "Olimpia"
     }
   ],
   "1982": [
     {
-      "camiseta":[ "public/camisetasImg/1982Local","public/camisetasImg/1982Visitante"],
+      "camiseta":[ "camisetasImg/1982Local","camisetasImg/1982Visitante"],
       "yearCamiseta": ["1982 Local","1982 Visitante"],
       "marca": "Adidas"
     }
   ],
   "1983": [
     {
-      "camiseta":[ "public/camisetasImg/1983Visitante" ],
+      "camiseta":[ "camisetasImg/1983Visitante" ],
       "yearCamiseta": ["1983 Visitante"],
       "marca": "Adidas"
     }
   ],
   "1983-84": [
     {
-      "camiseta":[ "public/camisetasImg/1983-84Local","public/camisetasImg/1983-84Portero" ],
+      "camiseta":[ "camisetasImg/1983-84Local","camisetasImg/1983-84Portero" ],
       "yearCamiseta": ["1983-84 Local","1983-84 Portero"],
       "marca": "Adidas"
     }
   ],
   "1984": [
     {
-      "camiseta":[ "public/camisetasImg/1984Local","public/camisetasImg/1984Visitante"],
+      "camiseta":[ "camisetasImg/1984Local","camisetasImg/1984Visitante"],
       "yearCamiseta": ["1984 Local","1984 Visitante"],
       "marca": "Adidas"
     }
   ],
   "1984-85": [
     {
-      "camiseta":[ "public/camisetasImg/1984-85Local","public/camisetasImg/1984-85Visitante" ],
+      "camiseta":[ "camisetasImg/1984-85Local","camisetasImg/1984-85Visitante" ],
       "yearCamiseta": ["1984-85 Local","1984-85 Visitante"],
       "marca": "Adidas"
     }
   ],
 "1986-87": [
   {
-    "camiseta":[ "public/camisetasImg/1986-87Local","public/camisetasImg/1986-87Visitante","public/camisetasImg/1986-87Portero1","public/camisetasImg/1986-87Portero2" ],
+    "camiseta":[ "camisetasImg/1986-87Local","camisetasImg/1986-87Visitante","camisetasImg/1986-87Portero1","camisetasImg/1986-87Portero2" ],
     "yearCamiseta": ["1986-87 Local","1986-87 Visitante","1986-87 Portero 1","1986-87 Portero 2"],
     "marca": "Adidas"
   }
 ],
 "1988-89": [
   {
-    "camiseta":[ "public/camisetasImg/1988-89Local","public/camisetasImg/1988-89Visitante","public/camisetasImg/1988-89Portero1","public/camisetasImg/1988-89Portero2" ],
+    "camiseta":[ "camisetasImg/1988-89Local","camisetasImg/1988-89Visitante","camisetasImg/1988-89Portero1","camisetasImg/1988-89Portero2" ],
     "yearCamiseta": ["1988-89 Local","1988-89 Visitante","1988-89 Portero 1","1988-89 Portero 2"],
     "marca": "Adidas"
   }
 ],
 "1990-91": [
     {
-      "camiseta":[ "public/camisetasImg/1990-91Local","public/camisetasImg/1990-91Visitante" ],
+      "camiseta":[ "camisetasImg/1990-91Local","camisetasImg/1990-91Visitante" ],
       "yearCamiseta": ["1990-91 Local","1990-91 Visitante"],
       "marca": "Adidas"
     }
   ],
   "1991-92": [
     {
-      "camiseta":[ "public/camisetasImg/1991-92Local","public/camisetasImg/1991-92Visitante" ],
+      "camiseta":[ "camisetasImg/1991-92Local","camisetasImg/1991-92Visitante" ],
       "yearCamiseta": ["1991-92 Local","1991-92 Visitante"],
       "marca": "Adidas"
     }
   ],
   "1992-93": [
     {
-      "camiseta":[ "public/camisetasImg/1992-93-94Local","public/camisetasImg/1992-93Visitante"],
+      "camiseta":[ "camisetasImg/1992-93-94Local","camisetasImg/1992-93Visitante"],
       "yearCamiseta": ["1992-93 Local","1992-93 Visitante"],
       "marca": "Adidas"
     }
   ],
   "1993-94": [
     {
-      "camiseta":[ "public/camisetasImg/1992-93-94Local","public/camisetasImg/1993-94Visitante" ],
+      "camiseta":[ "camisetasImg/1992-93-94Local","camisetasImg/1993-94Visitante" ],
       "yearCamiseta": ["1993-94 Local","1993-94 Visitante"],
       "marca": "Adidas"
     }
   ],
   "1994-95": [
     {
-      "camiseta":[ "public/camisetasImg/1994-95Local","public/camisetasImg/1994-95Visitante","public/camisetasImg/1994-95Portero" ],
+      "camiseta":[ "camisetasImg/1994-95Local","camisetasImg/1994-95Visitante","camisetasImg/1994-95Portero" ],
       "yearCamiseta": ["1994-95 Local","1994-95 Visitante","1994-95 Portero"],
       "marca": "Adidas"
     }
   ],
   "1995-96": [
     {
-      "camiseta":[ "public/camisetasImg/1995-96Local","public/camisetasImg/1995-96Visitante","public/camisetasImg/1995-96Portero" ],
+      "camiseta":[ "camisetasImg/1995-96Local","camisetasImg/1995-96Visitante","camisetasImg/1995-96Portero" ],
       "yearCamiseta": ["1995-96 Local","1995-96 Visitante","1995-96 Portero"],
       "marca": "Adidas"
     }
   ],
   "1996-98": [
     {
-      "camiseta":[ "public/camisetasImg/1996-98Local","public/camisetasImg/1996-98Visitante","public/camisetasImg/1996-98Tercera" ],
+      "camiseta":[ "camisetasImg/1996-98Local","camisetasImg/1996-98Visitante","camisetasImg/1996-98Tercera" ],
       "yearCamiseta": ["1996-98 Local","1996-98 Visitante","1996-98 Tercera"],
       "marca": "Adidas"
     }
   ],
   "1998-99": [
     {
-      "camiseta":[ "public/camisetasImg/1998-99-00Local","public/camisetasImg/1998-99-00Visitante","public/camisetasImg/1998-99-00Tercera" ],
+      "camiseta":[ "camisetasImg/1998-99-00Local","camisetasImg/1998-99-00Visitante","camisetasImg/1998-99-00Tercera" ],
       "yearCamiseta": ["1998-99 Local","1998-99 Visitante","1998-99 Tercera"],
       "marca": "Adidas"
     }
   ],
   "1999-00": [
     {
-      "camiseta":[ "public/camisetasImg/1998-99-00Local","public/camisetasImg/1998-99-00Visitante","public/camisetasImg/1999-00Tercera","public/camisetasImg/1999-00Portero1","public/camisetasImg/1999-00Portero2" ],
+      "camiseta":[ "camisetasImg/1998-99-00Local","camisetasImg/1998-99-00Visitante","camisetasImg/1999-00Tercera","camisetasImg/1999-00Portero1","camisetasImg/1999-00Portero2" ],
       "yearCamiseta": ["1999-00 Local","1999-00 Visitante","1999-00 Tercera","1999-00 Portero 1","1999-00 Portero 2"],
       "marca": "Adidas"
     }
   ],
   "2000-01": [
     {
-      "camiseta":[ "public/camisetasImg/2000-01-02Local","public/camisetasImg/2000-01-02Visitante","public/camisetasImg/2000-01-02Tercera","public/camisetasImg/2000-01Portero1","public/camisetasImg/2000-01Portero2" ],
+      "camiseta":[ "camisetasImg/2000-01-02Local","camisetasImg/2000-01-02Visitante","camisetasImg/2000-01-02Tercera","camisetasImg/2000-01Portero1","camisetasImg/2000-01Portero2" ],
       "yearCamiseta":  ["2000-01 Local","2000-01 Visitante","2000-01 Tercera","2000-01 Portero 1","2000-01 Portero 2"],
       "marca": "Adidas"
     }
   ],
   "2001-02": [
     {
-      "camiseta":[ "public/camisetasImg/2000-01-02Local","public/camisetasImg/2000-01-02Visitante","public/camisetasImg/2000-01-02Tercera","public/camisetasImg/2001-02Portero1" ],
+      "camiseta":[ "camisetasImg/2000-01-02Local","camisetasImg/2000-01-02Visitante","camisetasImg/2000-01-02Tercera","camisetasImg/2001-02Portero1" ],
       "yearCamiseta":  ["2001-02 Local","2001-02 Visitante","2001-02 Tercera","2001-02 Portero 1"],
       "marca": "Adidas"
     }
   ],
   "2002-03": [
     {
-      "camiseta":[ "public/camisetasImg/2002-03-04Local","public/camisetasImg/2002-03Visitante","public/camisetasImg/2002-03-04Tercera","public/camisetasImg/2002-03Portero1" ],
+      "camiseta":[ "camisetasImg/2002-03-04Local","camisetasImg/2002-03Visitante","camisetasImg/2002-03-04Tercera","camisetasImg/2002-03Portero1" ],
       "yearCamiseta": ["2002-03 Local","2002-03 Visitante","2002-03 Tercera","2002-03 Portero 1"],
       "marca": "Adidas"
     }
   ],
   "2003-04": [
     {
-      "camiseta":[ "public/camisetasImg/2002-03-04Local","public/camisetasImg/2002-03Visitante","public/camisetasImg/2002-03-04Tercera" ],
+      "camiseta":[ "camisetasImg/2002-03-04Local","camisetasImg/2002-03Visitante","camisetasImg/2002-03-04Tercera" ],
       "yearCamiseta": ["2003-04 Local","2003-04 Visitante","2003-04 Tercera"],
       "marca": "Adidas"
     }
   ],
   "2004-05": [
     {
-      "camiseta":[ "public/camisetasImg/2004-05-06Local","public/camisetasImg/2004-05Visitante","public/camisetasImg/2004-05Tercera","public/camisetasImg/2004-05Portero1"],
+      "camiseta":[ "camisetasImg/2004-05-06Local","camisetasImg/2004-05Visitante","camisetasImg/2004-05Tercera","camisetasImg/2004-05Portero1"],
       "yearCamiseta": ["2004-05 Local","2004-05 Visitante","2004-05 Tercera","2004-05 Portero 1"],
       "marca": "Adidas"
     }
   ],
   "2005-06": [
     {
-      "camiseta":[ "public/camisetasImg/2004-05-06Local","public/camisetasImg/2005-06Visitante","public/camisetasImg/2005-06Tercera"],
+      "camiseta":[ "camisetasImg/2004-05-06Local","camisetasImg/2005-06Visitante","camisetasImg/2005-06Tercera"],
       "yearCamiseta": ["2005-06 Local","2005-06 Visitante","2005-06 Tercera"],
       "marca": "Adidas"
     }
   ],
   "2006-07": [
     {
-      "camiseta":[ "public/camisetasImg/2006-07Local","public/camisetasImg/2006-07Visitante","public/camisetasImg/2006-07Tercera","public/camisetasImg/2006-07Portero1" ],
+      "camiseta":[ "camisetasImg/2006-07Local","camisetasImg/2006-07Visitante","camisetasImg/2006-07Tercera","camisetasImg/2006-07Portero1" ],
       "yearCamiseta": ["2006-07 Local","2006-07 Visitante","2006-07 Tercera","2006-07 Portero 1"],
       "marca": "Adidas"
     }
   ],
   "2007-08": [
     {
-      "camiseta":[ "public/camisetasImg/2007-08Local","public/camisetasImg/2007-08Visitante","public/camisetasImg/2007-08Tercera","public/camisetasImg/2007-08Portero1","public/camisetasImg/2007-08Portero2" ],
+      "camiseta":[ "camisetasImg/2007-08Local","camisetasImg/2007-08Visitante","camisetasImg/2007-08Tercera","camisetasImg/2007-08Portero1","camisetasImg/2007-08Portero2" ],
       "yearCamiseta": ["2007-08 Local","2007-08 Visitante","2007-08 Tercera","2007-08 Portero 1","2007-08 Portero 2"],
       "marca": "Adidas"
     }
   ],
   "2008-09": [
     {
-      "camiseta":[ "public/camisetasImg/2008-09Local","public/camisetasImg/2008-09Visitante","public/camisetasImg/2008-09Tercera","public/camisetasImg/2008-09Portero1","public/camisetasImg/2008-09Portero2" ],
+      "camiseta":[ "camisetasImg/2008-09Local","camisetasImg/2008-09Visitante","camisetasImg/2008-09Tercera","camisetasImg/2008-09Portero1","camisetasImg/2008-09Portero2" ],
       "yearCamiseta": ["2008-09 Local","2008-09 Visitante","2008-09 Tercera","2008-09 Portero 1","2008-09 Portero 2"],
       "marca": "Adidas"
     }
   ],
   "2009-10": [
     {
-      "camiseta":[ "public/camisetasImg/2009-10Local","public/camisetasImg/2009-10Visitante","public/camisetasImg/2009-10Tercera","public/camisetasImg/2009-10Portero1","public/camisetasImg/2009-10Portero2" ],
+      "camiseta":[ "camisetasImg/2009-10Local","camisetasImg/2009-10Visitante","camisetasImg/2009-10Tercera","camisetasImg/2009-10Portero1","camisetasImg/2009-10Portero2" ],
       "yearCamiseta": ["2009-10 Local","2009-10 Visitante","2009-10 Tercera","2009-10 Portero 1","2009-10 Portero 2"],
       "marca": "Adidas"
     }
   ],
   "2010-11": [
     {
-      "camiseta":[ "public/camisetasImg/2010-11Local","public/camisetasImg/2010-11Visitante","public/camisetasImg/2010-11Portero1" ],
+      "camiseta":[ "camisetasImg/2010-11Local","camisetasImg/2010-11Visitante","camisetasImg/2010-11Portero1" ],
       "yearCamiseta": ["2010-11 Local","2010-11 Visitante","2010-11 Portero"],
       "marca": "Adidas"
     }
   ],
   "2011-12": [
     {
-      "camiseta":[ "public/camisetasImg/2011-12Local","public/camisetasImg/2011-12Visitante" ],
+      "camiseta":[ "camisetasImg/2011-12Local","camisetasImg/2011-12Visitante" ],
       "yearCamiseta": ["2011-12 Local","2011-12 Visitante"],
       "marca": "Adidas"
     }
   ],
   "2012-13": [
     {
-      "camiseta":[ "public/camisetasImg/2012-13Local","public/camisetasImg/2012-13Visitante","public/camisetasImg/2012-13Portero" ],
+      "camiseta":[ "camisetasImg/2012-13Local","camisetasImg/2012-13Visitante","camisetasImg/2012-13Portero" ],
       "yearCamiseta": ["2012-13 Local","2012-13 Visitante","2012-13 Portero"],
       "marca": "Adidas"
     }
   ],
   "2013-14": [
     {
-      "camiseta":[ "public/camisetasImg/2013-14Local","public/camisetasImg/2013-14Visitante","public/camisetasImg/2013-14Tercera","public/camisetasImg/2013-14Portero1","public/camisetasImg/2013-14Portero2" ],
+      "camiseta":[ "camisetasImg/2013-14Local","camisetasImg/2013-14Visitante","camisetasImg/2013-14Tercera","camisetasImg/2013-14Portero1","camisetasImg/2013-14Portero2" ],
       "yearCamiseta": ["2013-14 Local","2013-14 Visitante","2013-14 Tercera","2013-14 Portero 1","2013-14 Portero 2"],
       "marca": "Adidas"
     }
   ],
   "2014-15": [
     {
-      "camiseta":[ "public/camisetasImg/2014-15-16Local","public/camisetasImg/2014-15Visitante","public/camisetasImg/2014-15Portero1","public/camisetasImg/2014-15Portero2" ],
+      "camiseta":[ "camisetasImg/2014-15-16Local","camisetasImg/2014-15Visitante","camisetasImg/2014-15Portero1","camisetasImg/2014-15Portero2" ],
       "yearCamiseta": ["2014-15 Local","2014-15 Visitante","2014-15 Portero 1","2014-15 Portero 2"],
       "marca": "Adidas"
     }
   ],
   "2015-16": [
     {
-      "camiseta":[ "public/camisetasImg/2014-15-16Local","public/camisetasImg/2015-16Visitante","public/camisetasImg/2015-16Portero1","public/camisetasImg/2015-16Portero2" ],
+      "camiseta":[ "camisetasImg/2014-15-16Local","camisetasImg/2015-16Visitante","camisetasImg/2015-16Portero1","camisetasImg/2015-16Portero2" ],
       "yearCamiseta": ["2015-16 Local","2015-16 Visitante","2015-16 Portero 1","2015-16 Portero 2"],
       "marca": "Adidas"
     }
   ],
   "2016-17": [
     {
-      "camiseta":[ "public/camisetasImg/2016-17Local","public/camisetasImg/2016-17Visitante","public/camisetasImg/2016-17Tercera","public/camisetasImg/2016-17Cuarta","public/camisetasImg/2016-17Portero1" ],
+      "camiseta":[ "camisetasImg/2016-17Local","camisetasImg/2016-17Visitante","camisetasImg/2016-17Tercera","camisetasImg/2016-17Cuarta","camisetasImg/2016-17Portero1" ],
       "yearCamiseta": ["2016-17 Local","2016-17 Visitante","2016-17 Tercera","2016-17 Cuarta","2016-17 Portero 1"],
       "marca": "Adidas"
     }
   ],
   "2017-18": [
     {
-      "camiseta":[ "public/camisetasImg/2017-18Local","public/camisetasImg/2017-18Visitante","public/camisetasImg/2017-18Tercera","public/camisetasImg/2017-18Portero1","public/camisetasImg/2017-18Portero2" ],
+      "camiseta":[ "camisetasImg/2017-18Local","camisetasImg/2017-18Visitante","camisetasImg/2017-18Tercera","camisetasImg/2017-18Portero1","camisetasImg/2017-18Portero2" ],
       "yearCamiseta": ["2017-18 Local","2017-18 Visitante","2017-18 Tercera","2017-18 Portero 1","2017-18 Portero 2"],
       "marca": "Adidas"
     }
   ],
   "2018-19": [
     {
-      "camiseta":[ "public/camisetasImg/2018-19Local","public/camisetasImg/2018-19Visitante","public/camisetasImg/2018-19Tercera","public/camisetasImg/2018-19Portero1","public/camisetasImg/2018-19Portero2" ],
+      "camiseta":[ "camisetasImg/2018-19Local","camisetasImg/2018-19Visitante","camisetasImg/2018-19Tercera","camisetasImg/2018-19Portero1","camisetasImg/2018-19Portero2" ],
       "yearCamiseta": ["2018-19 Local","2018-19 Visitante","2018-19 Tercera","2018-19 Portero 1","2018-19 Portero 2"],
       "marca": "Adidas"
     }
   ],
   "2019-20": [
     {
-      "camiseta":[ "public/camisetasImg/2019-20Local","public/camisetasImg/2019-20Visitante","public/camisetasImg/2019-20Tercera","public/camisetasImg/2019-20Portero1","public/camisetasImg/2019-20Portero2" ], 
+      "camiseta":[ "camisetasImg/2019-20Local","camisetasImg/2019-20Visitante","camisetasImg/2019-20Tercera","camisetasImg/2019-20Portero1","camisetasImg/2019-20Portero2" ], 
       "yearCamiseta": ["2019-20 Local","2019-20 Visitante","2019-20 Tercera","2019-20 Portero 1","2019-20 Portero 2"],
       "marca": "Adidas"
     }
   ],
   "2020": [
     {
-      "camiseta":[ "public/camisetasImg/2020Local","public/camisetasImg/2020Visitante","public/camisetasImg/2020Portero1","public/camisetasImg/2020Portero2" ],
+      "camiseta":[ "camisetasImg/2020Local","camisetasImg/2020Visitante","camisetasImg/2020Portero1","camisetasImg/2020Portero2" ],
       "yearCamiseta": ["2020 Local","2020 Visitante","2020 Portero 1","2020 Portero 2"],
       "marca": "Adidas"
     }
   ],
   "2021": [
     {
-      "camiseta":[ "public/camisetasImg/2021Local","public/camisetasImg/2021Visitante","public/camisetasImg/2021Tercera","public/camisetasImg/2021Portero1","public/camisetasImg/2021Portero2" ],
+      "camiseta":[ "camisetasImg/2021Local","camisetasImg/2021Visitante","camisetasImg/2021Tercera","camisetasImg/2021Portero1","camisetasImg/2021Portero2" ],
       "yearCamiseta": ["2021 Local","2021 Visitante","2021 Tercera","2021 Portero 1","2021 Portero 2"],
       "marca": "Adidas"
     }
   ],
   "2022": [
     {
-      "camiseta":[ "public/camisetasImg/2022Local","public/camisetasImg/2022Visitante","public/camisetasImg/2022Portero1","public/camisetasImg/2022Portero2" ],
+      "camiseta":[ "camisetasImg/2022Local","camisetasImg/2022Visitante","camisetasImg/2022Portero1","camisetasImg/2022Portero2" ],
       "yearCamiseta": ["2022 Local","2022 Visitante","2022 Portero 1","2022 Portero 2"],
       "marca": "Adidas"
     }
   ],
   "2023": [
     {
-      "camiseta":[ "public/camisetasImg/2024-23Local","public/camisetasImg/2022Visitante","public/camisetasImg/2023Tercera","public/camisetasImg/2024-23Portero1","public/camisetasImg/2024-23Portero2" ],
+      "camiseta":[ "camisetasImg/2024-23Local","camisetasImg/2022Visitante","camisetasImg/2023Tercera","camisetasImg/2024-23Portero1","camisetasImg/2024-23Portero2" ],
       "yearCamiseta": ["2023 Local","2023 Visitante","2023 Tercera","2023 Portero 1","2023 Portero 2"],
       "marca": "Adidas"
     }
   ],
   "2024": [
     {
-      "camiseta":[ "public/camisetasImg/2024-23Local","public/camisetasImg/2024Visitante","public/camisetasImg/2024Tercera","public/camisetasImg/2024-23Portero1","public/camisetasImg/2024-23Portero2" ],
+      "camiseta":[ "camisetasImg/2024-23Local","camisetasImg/2024Visitante","camisetasImg/2024Tercera","camisetasImg/2024-23Portero1","camisetasImg/2024-23Portero2" ],
       "yearCamiseta": ["2024 Local","2024 Visitante","2024 Tercera","2024 Portero 1","2024 Portero 2"],
       "marca": "Adidas"
     }
   ],
   "2025": [
     {
-      "camiseta":[ "public/camisetasImg/2025Titular","public/camisetasImg/2025Suplente","public/camisetasImg/2025Portero1","public/camisetasImg/2025Portero2" ],
+      "camiseta":[ "camisetasImg/2025Titular","camisetasImg/2025Suplente","camisetasImg/2025Portero1","camisetasImg/2025Portero2" ],
       "yearCamiseta": ["2025 Local","2025 Visitante","2025 Portero 1","2025 Portero 2"],
       "marca": "Adidas"
     }
