@@ -81,6 +81,7 @@
     position: relative;
     color: #fff;
     padding: 0.4rem;
+    margin-top: 0.5rem;
 }
 .container-goal{
     display: flex;
