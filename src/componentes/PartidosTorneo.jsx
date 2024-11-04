@@ -68,7 +68,7 @@ const PartidosTorneo = () => {
       <section className='section-partidos-torneo'>
             
             <div className='container-torneo'>
-            <h2 className='h2-clasificados'> Equipos</h2>
+            <h2 className='h2-clasificados'> Torneo Local {yearCompetition}</h2>
                 { torneo &&
                 torneo.local.map((torn,index)=>(
                     <div className='container-info' key={index}>
