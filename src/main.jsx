@@ -10,7 +10,11 @@ import "./Style/camisetas.css"
 import "./Style/datoPartido.css"
 import "./Style/formacion.css"
 import "./Style/superClasico.css"
+import "./Style/plantel.css"
+import "./Style/estadisticas.css"
 
+import Goleadores from './componentes/goleadores.jsx'
+import Plantel from './componentes/Plantel.jsx'
 import SuperClasicos from './componentes/SuperClasicos.jsx'
 import CamisetasRiver from './componentes/CamisetasRiver.jsx'
 import NotFoundPage from './componentes/NotFoundPage.jsx'
@@ -29,7 +33,7 @@ import DatoPartidosLibertadores from './componentes/DatoPartidosLibertadores.jsx
 import DatoPartidosCopaArgentina from './componentes/DatoPartidosCopaArgentina.jsx'
 import DatoPartidosTorneo from './componentes/DatoPartidosTorneo.jsx'
 import DatoPartidosSuperClasico from './componentes/DatoPartidosSuperClasico.jsx'
-
+ 
 const router = createBrowserRouter([
   
   {
@@ -110,7 +114,18 @@ const router = createBrowserRouter([
     path: "formacion",
     element: <CrearFormacion/>,
     errorElement: <NotFoundPage/>
+  },
+  {
+    path: "plantel",
+    element: <Plantel/>,
+    errorElement: <NotFoundPage/>
+  },
+  {
+    path: "goleadores",
+    element: <Goleadores/>,
+    errorElement: <NotFoundPage/>
   }
+
 ]);
 
 ReactDOM.createRoot(document.getElementById('root')).render(

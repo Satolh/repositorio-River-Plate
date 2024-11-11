@@ -1,0 +1,245 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.title-plantel{
+    padding: 1rem;
+    text-align: center;
+    background-color: #8e0808;
+    color: #fff;
+}
+.section-plantel{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding-bottom: 2rem;
+    background-color: #181818fd;
+
+}
+.container-info-jugador{
+    background-image: url(https://i.pinimg.com/736x/c5/46/ec/c546ec46b5dca279bf160921c41aa262.jpg);
+    background-image: url(https://esteeselfamosoriver.com/wp-content/uploads/2018/10/imagenes-de-river-plate-para-fondos-de-pantalla-telefono-celular-wallpaper-de-river-banda-roja-576x1024.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    transition: 0.4s;
+}
+.plantel-name-jugador{
+    text-align: center;
+    background-color: #0d0c0c;
+    margin-top: -0.25rem;
+    color: #fff;
+    padding: 0.2rem 0;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    letter-spacing: 0.5px;
+    transition: 0.4s;
+}
+.plantel-number-jugador{
+    background-color: red;
+    width: 2.5rem;
+    text-align: center;
+    font-size: 2rem;
+    border-radius: 0 0 10px 0;
+    color: #ece8e8;
+    transition: 0.4s;
+}
+.plantel-img-jugador{
+    width: 14rem;
+}
+
+.container-plantel-jugadores{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+}
+.subtitle-jugador{
+    text-align: center;
+    background-color: #861313;
+    background-color: #141212;
+    color: #fff;
+    padding: 0.5rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.container-info-jugador:hover .plantel-number-jugador{
+    background-color: #4b0404;
+}
+.container-info-jugador:hover .plantel-name-jugador{
+    background-color: #4b0404;
+}
+.container-info-jugador:hover{
+    transform: scale(1.07);
+}
+
+/* ____________________________Style Information Details________________________ */
+
+.container-info-adi{
+    display: flex;
+    width: 45rem;
+    align-items: center;
+    height: max-content;
+    position: fixed;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #161515;
+    color: #fff;
+    height: 25rem;
+    padding: 1rem;
+}
+.container-info-detallada{
+    padding-left: 2.5rem;
+}
+.img-info{
+    width: 16.8rem;
+    height: max-content;
+    margin-top: 2.6rem;
+}
+.name-jugador-seleccionado{
+    font-size: 1.5rem;
+    text-align: start;
+    text-transform: uppercase;
+    padding-bottom: 1rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+    width: 27.2rem;
+    padding-left: 2.8rem;
+
+}
+.number-jugador-seleccionado{
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 2.2rem;
+    width: 3.4rem;
+    height: 3rem;
+    text-align: center;
+    background-color: red;
+    font-weight: 600;
+    line-height: 3rem;
+}
+.div-info{
+    padding: 0.5rem;
+}
+.p-text{
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding-bottom: 0.3rem;
+    
+}
+.icon-close-info {
+    color: #fff;
+    width: 1.8rem;
+    height: 1.8rem;
+    position: absolute;
+    right: 0;
+    top: 0;
+    cursor: pointer;
+    background-color: red;
+}
+
+@media (max-width: 735px) {
+    .container-info-adi{
+        width: 30rem;
+        height: 18rem;
+    }
+    .img-info{
+        width: 11rem;
+        margin-top: 3.3rem;
+    }
+    .number-jugador-seleccionado{
+        font-size: 1.5rem;
+        width: 2.5rem;
+        height: 2.5rem;
+        line-height: 2.5rem;
+    }
+    .name-jugador-seleccionado{
+        font-size: 1.2rem;
+        padding-bottom: 0;
+        width: max-content;
+        position: absolute;
+        top: 0.6rem;
+        padding: 0;
+        width: 100%;
+        left: 0;
+        text-align: center;
+    }
+    .container-info-detallada{
+        padding: 0;
+        margin-top: 1rem;
+    }
+    .p-text{
+        font-size: 1rem;
+    }
+    .p-medidas{
+        font-size: 0.7rem;
+    }
+    .div-info{
+        padding: 0.3rem;
+    }
+    
+}
+@media (max-width: 505px) {
+    .container-info-adi{
+        width: 22rem;
+        height: 15.5rem;
+    }
+    .img-info{
+        width: 8rem;
+        margin-top: 4.8rem;
+    }
+    .number-jugador-seleccionado{
+        font-size: 1.5rem;
+        width: 2.5rem;
+        height: 2.5rem;
+        line-height: 2.5rem;
+    }
+    .name-jugador-seleccionado{
+        font-size: 1.2rem;
+        padding-bottom: 0;
+        width: max-content;
+        position: absolute;
+        top: 0.6rem;
+        left: 5rem;
+    }
+    .container-info-detallada{
+        padding: 0;
+        margin-top: 1rem;
+    }
+    .p-text{
+        font-size: 0.7rem;
+    }
+    .p-medidas{
+        font-size: 0.7rem;
+    }
+    .div-info{
+        padding: 0.3rem;
+    }
+    
+}
+
+@media (max-width: 425px) {
+    
+    .container-info-jugador{
+        width: 10rem;
+    }
+    .plantel-img-jugador{
+        width: 10rem;
+    }
+    .plantel-name-jugador{
+        font-size: 0.65rem;
+    }
+    .title-plantel{
+        font-size: 1.5rem;
+    }
+    .subtitle-jugador{
+        font-size: 1.2rem;
+    }
+
+}

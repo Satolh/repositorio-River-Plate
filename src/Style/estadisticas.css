@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main-goleadores{
+    background-color: #181717;
+    padding: 1rem;
+    padding-bottom: 2rem;
+    width: 100%;
+}
+.section-goleadores{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.nombre-goleador{
+    background-color: #8e0d0d;
+    padding: 0.2rem 1rem;
+    color: #fff;
+    border: 1px solid rgb(255, 250, 250);
+    text-transform: uppercase;
+    font-size: 1.1rem;
+}
+.dato-goleador{
+    color: #fff;
+    text-align: center;
+    padding: 0.2rem 0.5rem;
+    border: 1px solid #fff;
+    font-size: 1.1rem;
+}
+.dato-goleador-name{
+    border: 1px solid #fff;
+    padding: 0.2rem 0.5rem;
+    color: #fff;
+    font-size: 1.1rem;
+}
+.dato-position{
+    border: 1px solid #fff;
+    padding: 0.2rem 0.3rem;
+    color: #fff;
+    font-size: 1.1rem;
+}
+.subtitle-goleador{
+    padding: 0.5rem ;
+    text-align: center;
+    color: #fff;
+    background-color: #5a0606;
+    margin: 1rem;
+}
+
+@media (max-width: 680px) {
+    .nombre-goleador{
+        font-size: 0.85rem;
+        padding: 0.2rem;
+        text-align: center;
+    }
+    .dato-goleador-name{
+        font-size: 0.85rem;
+        width: 9.1rem;
+    }
+    .dato-goleador{
+        font-size: 0.85rem;
+        padding: 0.2rem;
+    }
+    .dato-position{
+        font-size: 0.85rem;
+        text-align: center;
+    }
+    .subtitle-goleador{
+        font-size: 1.2rem;
+    }
+
+}

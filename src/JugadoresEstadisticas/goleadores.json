@@ -1,0 +1,51 @@
+{
+    "total": [
+      ["Ángel Labruna", "317", "541","293", "13", "11"],
+      ["Oscar Mas", "217", "424", "198", "19", "0"],
+      ["Bernabé Ferreyra", "201", "195", "187", "4", "10"],
+      ["José Moreno", "184", "184", "179", "2", "3"],
+      ["Norberto Alonso", "157", "421", "149", "8", "0"],
+      ["Adolfo Pedernera", "143", "308", "131", "3", "9"],
+      ["Enzo Francescoli", "137", "237", "115", "22", "0"],
+      ["Carlos Peucelle", "118", "327", "113", "1", "4"],
+      ["Daniel Onega", "117", "254", "86", "31", "0"],
+      ["Fernando Cavenaghi", "112", "212", "95", "17", "0"]
+    ],
+    "libertadores": [
+      [" Daniel Onega", "31", "47"],
+      [" Oscar Más", "21", "43"],
+      [" Juan Ángel", "16","25"],
+      ["Ernesto Farías", "14", "24"],
+      [" Julián Álvarez ","14", "35"],
+      [" Rafael Borré", "13 ", "38"],
+      [" Hernán Crespo", "12", "16"],
+      ["Fernando Cavenaghi", "11", "31"],
+      [" Marcelo Gallardo", "12", "60"],
+      ["Nacho Fernández", "11", "67"]
+    ],
+    "copaArgentina" : [
+      ["Lucas Alario","8","8"],
+      ["Ignacio Sccoco","8","14"],
+      ["Ignacio Fernandez","8","25"],
+      ["Gonzalo Martinez","6","16"],
+      ["Rafael Borre","6","19"],
+      ["Exequiel Palacios","5","10"],
+      ["Juanfer Quintero","4","7"],
+      ["Lucas Pratto","4","9"],
+      ["Julian Alvarez","4","10"],
+      ["Federico Girotti","3","3"]
+    ],
+      "copaSudamericana": [
+        ["Rodrigo Mora","7","17"],
+        ["Radamel Falcao ","5","9"],
+        ["Fernando Cavenaghi","4","9"],
+        ["Carlos Sánchez","4","15"],
+        ["Washington Abreu","3","4"],
+        ["Maximiliano López","3","7"],
+        ["Marcelo Gallardo","3","9"],
+        ["Teófilo Gutiérrez","3","12"],
+        ["Leonardo Pisculichi","3","13"],
+        ["Giovanni Simeone","2","4"]
+      ]
+
+  }

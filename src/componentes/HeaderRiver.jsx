@@ -34,8 +34,9 @@ const HeaderRiver = () => {
           <Link className='link' to="/Libertadores" >Copa Libertadores</Link>
           <Link className='link' to="/TorneoLocal" >Torneo Local</Link>
           <Link className='link' to="/CopaArgentina" >Copa Argentina</Link>
-          {/* <Link className='link' to="/Recopas" >Recopas</Link> */}
           <Link className='link' to="/SuperClasicos" >SuperClásicos</Link>
+          <Link className='link' to="/Plantel" >Plantel</Link>
+          <Link className='link' to="/Goleadores" >Goleadores</Link>
           <Link className='link' to="/Camisetas" >Camisetas</Link>
           <Link className='link' to="/Formacion" >Crear 11</Link>
         </ul>
@@ -51,6 +52,8 @@ const HeaderRiver = () => {
           <Link className='link-mob' to="/CopaArgentina" >Copa Argentina</Link>
           <Link className='link-mob' to="/Recopas" >Recopas</Link>
           <Link className='link-mob' to="/SuperClasicos" >SuperClásicos</Link>
+          <Link className='link-mob' to="/Plantel" >Plantel</Link>
+          <Link className='link-mob' to="/Goleadores" >Goleadores</Link>
           <Link className='link-mob' to="/Camisetas" >Camisetas</Link>
           <Link className='link-mob' to="/Formacion" >Crear 11</Link>
         </ul>

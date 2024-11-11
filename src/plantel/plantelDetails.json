@@ -1,0 +1,386 @@
+[
+    {
+      "info": [
+        "Arquero",
+        "16/10/1986, Santa Fe",
+        "Argentina",
+        "1.89 m / 88 kg",
+        "Derecha"
+      ],
+      "name": "Franco\nArmani\n",
+      "number": "1",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1638-armani_70x80270x360.png"
+    },
+    {
+      "info": [
+        "Arquero",
+        "13/02/1993, Pergamino",
+        "Argentina",
+        "1.83 m / 84 kg",
+        "Derecha"
+      ],
+      "name": "Jeremías\nLEDESMA\n",
+      "number": "25",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1883-ledesma_270x360.png"
+    },
+    {
+      "info": [
+        "Arquero",
+        "22/08/2004, Buenos Aires",
+        "Argentina",
+        "1.89 m / 79 kg",
+        "Derecha"
+      ],
+      "name": "Lucas\nLAVAGNINO\n",
+      "number": "37",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1501-lavagnino_270x360.png"
+    },
+    {
+      "info": [
+        "Arquero",
+        "04/10/2004, CABA",
+        "Argentina",
+        "1.90 m / 85 kg",
+        "Derecha"
+      ],
+      "name": "Santiago\nBELTRÁN\n",
+      "number": "41",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1845-beltran_270x360.png"
+    },
+    {
+      "info": [
+        "Defensor",
+        "11/04/1988, Entre Ríos",
+        "Argentina",
+        "1.70 m / 69 kg",
+        "Derecha"
+      ],
+      "name": "Milton\nCASCO\n",
+      "number": "20",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1230-casco_270x360.png"
+    },
+    {
+      "info": [
+        "Defensor",
+        "17/01/2003, Provincia de Buenos Aires",
+        "Argentina",
+        "1.81 m / 78 kg",
+        "Derecha"
+      ],
+      "name": "Daniel\nZABALA\n",
+      "number": "22",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1449-zabala_270x360.png"
+    },
+    {
+      "info": [
+        "Defensor",
+        "25/08/1994, Santa Cruz (Chile)",
+        "Chilena",
+        "1.78 m / 76 kg",
+        "Derecha"
+      ],
+      "name": "Paulo\nDÍAZ\n",
+      "number": "17",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1760-diaz_270x360.png"
+    },
+    {
+      "info": [
+        "Defensor",
+        "26/02/1992, CABA",
+        "Argentina",
+        "1,85 m / 89 kg",
+        "Derecha"
+      ],
+      "name": "Leandro\nGONZÁLEZ PIREZ\n",
+      "number": "14",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1824-pirez_270x360.png"
+    },
+    {
+      "info": [
+        "Defensor",
+        "07/12/1995, Lincoln (Buenos Aires)",
+        "Argentina",
+        "1.67 m / 78 kg",
+        "Izquierda"
+      ],
+      "name": "Enzo\nDÍAZ\n",
+      "number": "13",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1835-enzodiaz_270x360.png"
+    },
+    {
+      "info": [
+        "Defensor",
+        "05/03/1991, Mendoza",
+        "Argentina",
+        "1.87 m / 79 kg",
+        "Izquierda"
+      ],
+      "name": "Ramiro\nFUNES MORI\n",
+      "number": "3",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1841-funesmori_270x360.png"
+    },
+    {
+      "info": [
+        "Defensor",
+        "27/07/1997, Montevideo, Uruguay",
+        "Uruguaya",
+        "1.73 m / 72 kg",
+        "Derecha"
+      ],
+      "name": "Agustín\nSANT'ANNA\n",
+      "number": "27",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1849-santanna_270x360.png"
+    },
+    {
+      "info": [
+        "Defensor",
+        "16/02/1999, CABA",
+        "Argentina",
+        "1.83 m / 75 kg",
+        "Derecha"
+      ],
+      "name": "Federico\nGATTONI\n",
+      "number": "6",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1877-gattoni_270x360.png"
+    },
+    {
+      "info": [
+        "Defensor",
+        "27/06/1991, Bahía Blanca",
+        "1.87 m / 82 kg",
+        "Argentina",
+        "Derecha"
+      ],
+      "name": "Germán\nPEZZELLA\n",
+      "number": "33",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1885-pezella_270x360.png"
+    },
+    {
+      "info": [
+        "Defensor",
+        "28/04/1996, Córdoba",
+        "1.67 m / 70 kg",
+        "Argentina",
+        "Derecha"
+      ],
+      "name": "Fabricio\nBUSTOS\n",
+      "number": "16",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1886-bustos_270x360.png"
+    },
+    {
+      "info": [
+        "Defensor",
+        "28/10/1991, Neuquén",
+        "1.72 m / 76 kg",
+        "Argentina",
+        "Izquierda"
+      ],
+      "name": "Marcos\nACUÑA\n",
+      "number": "24",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1888-acuna_270x360.png"
+    },
+    {
+      "info": [
+        "Mediocampista",
+        "12/01/1990, Buenos Aires",
+        "Argentina",
+        "1.82 m / 67 kg",
+        "Izquierda"
+      ],
+      "name": "Ignacio\nFERNÁNDEZ\n",
+      "number": "26",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1254-fernandez_270x360.png"
+    },
+    {
+      "info": [
+        "Mediocampista",
+        "13/06/2002, Buenos Aires",
+        "Argentina",
+        "1.81 m / 74 kg",
+        "Derecha"
+      ],
+      "name": "Santiago\nSIMÓN\n",
+      "number": "31",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1352-simon_270x360.png"
+    },
+    {
+      "info": [
+        "Mediocampista",
+        "01/02/2006, Chaco",
+        "Argentina",
+        "1.70 m / 65 kg",
+        "Derecha"
+      ],
+      "name": "Claudio\nECHEVERRI\n",
+      "number": "19",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1549-echeverri_270x360.png"
+    },
+    {
+      "info": [
+        "Mediocampista",
+        "16/02/1991, Capital Federal",
+        "Argentina",
+        "1.73 m / 72 kg",
+        "Derecha"
+      ],
+      "name": "Rodrigo\nALIENDRO\n",
+      "number": "29",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1830-aliendro_270x360.png"
+    },
+    {
+      "info": [
+        "Mediocampista",
+        "21/05/1993, San Miguel de Tucumán",
+        "Argentina",
+        "1.79 m / 76 kg",
+        "Derecha"
+      ],
+      "name": "Matías\nKRANEVITTER\n",
+      "number": "5",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1834-kranevitter_270x360.png"
+    },
+    {
+      "info": [
+        "Mediocampista",
+        "15/02/1993, Provincia de Buenos Aires",
+        "Argentina",
+        "1.70 m / 69 kg",
+        "Derecha"
+      ],
+      "name": "Manuel\nLANZINI\n",
+      "number": "10",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1843-lanzini_270x360.png"
+    },
+    {
+      "info": [
+        "Mediocampista",
+        "19/10/1988, Nápoles",
+        "Uruguaya",
+        "1.81 m / 74 kg",
+        "Derecha"
+      ],
+      "name": "Nicolás\nFONSECA\n",
+      "number": "4",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1846-fonseca_270x360.png"
+    },
+    {
+      "info": [
+        "Mediocampista",
+        "14/08/2007, Provincia de Buenos Aires",
+        "Argentina",
+        "1.77 m / 71 kg",
+        "Izquierda"
+      ],
+      "name": "Franco\nMASTANTUONO\n",
+      "number": "30",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1848-mastantuono_270x360.png"
+    },
+    {
+      "info": [
+        "Mediocampista",
+        "14/02/2001, Córdoba",
+        "Argentina",
+        "1.78 m / 77 kg",
+        "Derecha"
+      ],
+      "name": "Rodrigo\nVILLAGRA\n",
+      "number": "23",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1850-villagra_270x360.png"
+    },
+    {
+      "info": [
+        "Mediocampista",
+        "15/12/1992, Corrientes",
+        "1.81 m / 69 kg",
+        "Argentina",
+        "Derecha"
+      ],
+      "name": "Maximiliano\nMEZA\n",
+      "number": "8",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1887-meza_270x360.png"
+    },
+    {
+      "info": [
+        "Mediocampista",
+        "13/06/1993, Guaymallén (Mendoza)",
+        "Argentina",
+        "1,72 m / 75 kg",
+        "Izquierda"
+      ],
+      "name": "Gonzalo\nMARTÍNEZ\n",
+      "number": "18",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/702-martinez_270x360.png"
+    },
+    {
+      "info": [
+        "Delantero",
+        "14/01/2006, Provincia de Buenos Aires",
+        "Argentina",
+        "1.83 m / 80 kg",
+        "Derecha"
+      ],
+      "name": "Agustín\nRUBERTO\n",
+      "number": "32",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1566-ruberto_270x360.png"
+    },
+    {
+      "info": [
+        "Delantero",
+        "26/01/1993, Córdoba (Colombia)",
+        "Colombiana",
+        "1.84 m / 89 kg",
+        "Derecha"
+      ],
+      "name": "Miguel\nBORJA\n",
+      "number": "9",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1831-borja_270x360.png"
+    },
+    {
+      "info": [
+        "Delantero",
+        "22/03/2001, San Luis",
+        "Argentina",
+        "1.78 m / 78 kg",
+        "Derecha"
+      ],
+      "name": "Pablo\nSOLARI\n",
+      "number": "36",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1832-solari_270x360.png"
+    },
+    {
+      "info": [
+        "Delantero",
+        "04/01/2000, Rafaela, Santa Fe",
+        "Argentina",
+        "1.80 m / 76 kg",
+        "Derecha"
+      ],
+      "name": "Facundo\nCOLIDIO\n",
+      "number": "11",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1842-colidio_270x360.png"
+    },
+    {
+      "info": [
+        "Delantero",
+        "01/01/2007, Chubut",
+        "Argentina",
+        "1.71 m / 71 kg",
+        "Izquierda"
+      ],
+      "name": "Ian\nSUBIABRE\n",
+      "number": "38",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1847-subiabre_270x360.png"
+    },
+    {
+      "info": [
+        "Delantero",
+        "26/07/1996, Asunción",
+        "Paraguaya",
+        "1.80 m / 82 kg",
+        "Derecha"
+      ],
+      "name": "Adam\nBAREIRO\n",
+      "number": "7",
+      "img": "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1884-bareiro_270x360.png"
+    }
+  ]
