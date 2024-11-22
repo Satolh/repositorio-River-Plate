@@ -179,6 +179,14 @@
 /* __________________MEDIA QUERIES______________ */
 
 @media (max-width: 600px) {
+    .header-title{
+      font-size: 1.5rem;
+      position: absolute;
+      top: 6%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: max-content;
+    }
   .div-ul-mob {
     position: absolute;
     top: 0;
@@ -229,7 +237,6 @@
     display: none;
     cursor: pointer;
   }
-  .header-title{display: none;}
   .header-section{
     width: 100%;
     display: flex;
@@ -256,6 +263,11 @@
   .link{
     padding: 0.4rem 0.5rem;
     font-size: 0.9rem;
+  }
+}
+@media (max-width: 425px) {
+  .header-title{
+    font-size: 1.1rem;
   }
 }
 

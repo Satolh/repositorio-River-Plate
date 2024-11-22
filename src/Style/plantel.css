@@ -142,6 +142,7 @@
     top: 0;
     cursor: pointer;
     background-color: red;
+    z-index: 100000000000;
 }
 
 @media (max-width: 735px) {
@@ -186,8 +187,14 @@
     
 }
 @media (max-width: 505px) {
+    .container-info-jugador{
+        width: 12rem;
+    }
+    .plantel-img-jugador{
+        width: 12rem;
+    }
     .container-info-adi{
-        width: 22rem;
+        width: 98%;
         height: 15.5rem;
     }
     .img-info{
@@ -206,7 +213,7 @@
         width: max-content;
         position: absolute;
         top: 0.6rem;
-        left: 5rem;
+        width: 100%;
     }
     .container-info-detallada{
         padding: 0;
@@ -223,14 +230,15 @@
     }
     
 }
-
 @media (max-width: 425px) {
-    
+    .plantel-number-jugador{
+        font-size: 1.5rem;
+    }
     .container-info-jugador{
-        width: 10rem;
+        width: 9rem;
     }
     .plantel-img-jugador{
-        width: 10rem;
+        width: 9rem;
     }
     .plantel-name-jugador{
         font-size: 0.65rem;
