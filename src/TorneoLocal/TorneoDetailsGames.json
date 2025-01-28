@@ -1,4 +1,375 @@
-[
+  [
+    {
+      "nothing": "1 - 0",
+      "scorers": [
+        "I. Vázquez 12' \n(Asistencia de V. Taborda)",
+        " 87' M. Rojas"
+      ],
+      "stadium": "Estadio Ciudad de Vicente López (Vicente López, Provincia de Buenos Aires)",
+      "date": "25/01/2025",
+      "local": {
+        "lineUpNumber": [
+          "31",
+          "12",
+          "13",
+          "25",
+          "6",
+          "8",
+          "14",
+          "29",
+          "77",
+          "7",
+          "10",
+          "5",
+          "11",
+          "26",
+          "21",
+          "32",
+          "23",
+          "1",
+          "3",
+          "4",
+          "30",
+          "2",
+          "22"
+        ],
+        "lineUpName": [
+          "J. Cozzani",
+          "J. Bay",
+          "I. Vázquez",
+          "J. Saborido",
+          "O. Salomón",
+          "F. Juárez",
+          "L. Picco",
+          "F. Minerva",
+          "R. Martínez",
+          "G. Mainero",
+          "V. Taborda",
+          "F. Orsi",
+          "R. Herrera",
+          "F. Zapiola Yamartino",
+          "I. Schor",
+          "A. Lotti",
+          "F. Baldassarra",
+          "E. Roldán",
+          "A. Desábato",
+          "T. Silva",
+          "E. Elizalde",
+          "Tobías Cervera",
+          "J. Pignani",
+          "R. Lozano"
+        ],
+        "localImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/6960.png",
+        "nameTeam": "PLATENSE"
+      },
+      "visitante": {
+        "lineUpNumber": [
+          "1",
+          "6",
+          "21",
+          "28",
+          "4",
+          "24",
+          "10",
+          "8",
+          "34",
+          "9",
+          "11",
+          "19",
+          "29",
+          "36",
+          "31",
+          "7",
+          "25",
+          "26",
+          "14",
+          "17",
+          "20",
+          "5",
+          "2"
+        ],
+        "lineUpName": [
+          "F. Armani",
+          "G. Pezzella",
+          "M. Acuña",
+          "L. Martínez Quarta",
+          "G. Montiel",
+          "E. Pérez",
+          "M. Lanzini",
+          "M. Meza",
+          "G. Galoppo",
+          "M. Borja",
+          "F. Colidio",
+          "M. Gallardo",
+          "G. Tapia",
+          "R. Aliendro",
+          "P. Solari",
+          "S. Simón",
+          "M. Rojas",
+          "C. Ledesma",
+          "I. Fernández",
+          "L. González",
+          "P. Díaz",
+          "M. Casco",
+          "M. Kranevitter",
+          "F. Gattoni"
+        ],
+        "visitanteImg": "https://www.cariverplate.com.ar/images/logo-river.png?cache=a57",
+        "nameTeam": "RIVER PLATE"
+      }
+    },
+    {
+      "nothing": "4 - 0",
+      "scorers": [],
+      "stadium": "Estadio Mâs Monumental (Capital Federal, Ciudad de Buenos Aires)",
+      "date": "29/01/2025",
+      "local": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "localImg": "https://www.cariverplate.com.ar/images/logo-river.png?cache=a57",
+        "nameTeam": "RIVER PLATE"
+      },
+      "visitante": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "visitanteImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/125.png",
+        "nameTeam": "INSTITUTO"
+      }
+    },
+    {
+      "nothing": "0 - 1",
+      "scorers": [],
+      "stadium": "Estadio Pedro Bidegaín (Capital Federal, Ciudad de Buenos Aires)",
+      "date": "02/02/2025",
+      "local": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "localImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/109.png",
+        "nameTeam": "SAN LORENZO"
+      },
+      "visitante": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "visitanteImg": "https://www.cariverplate.com.ar/images/logo-river.png?cache=a57",
+        "nameTeam": "RIVER PLATE"
+      }
+    },
+    {
+      "nothing": "4 - 0",
+      "scorers": [],
+      "stadium": "Estadio Mâs Monumental (Capital Federal, Ciudad de Buenos Aires)",
+      "date": "08/02/2025",
+      "local": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "localImg": "https://www.cariverplate.com.ar/images/logo-river.png?cache=a57",
+        "nameTeam": "RIVER PLATE"
+      },
+      "visitante": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "visitanteImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/100.png",
+        "nameTeam": "INDEPENDIENTE"
+      }
+    },
+    {
+      "nothing": "4 - 0",
+      "scorers": [],
+      "stadium": "Estadio Malvinas Argentinas (Mendoza, Provincia de Mendoza)",
+      "date": "12/02/2025",
+      "local": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "localImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/122.png",
+        "nameTeam": "GODOY CRUZ"
+      },
+      "visitante": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "visitanteImg": "https://www.cariverplate.com.ar/images/logo-river.png?cache=a57",
+        "nameTeam": "RIVER PLATE"
+      }
+    },
+    {
+      "nothing": "4 - 0",
+      "scorers": [],
+      "stadium": "Estadio Mâs Monumental (Capital Federal, Ciudad de Buenos Aires)",
+      "date": "16/02/2025",
+      "local": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "localImg": "https://www.cariverplate.com.ar/images/logo-river.png?cache=a57",
+        "nameTeam": "RIVER PLATE"
+      },
+      "visitante": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "visitanteImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/101.png",
+        "nameTeam": "LANÚS"
+      }
+    },
+    {
+      "nothing": "2 - 2",
+      "scorers": [],
+      "stadium": "Estadio Ingeniero Hilario Sánchez (San Juan, Provincia de San Juan)",
+      "date": "22/02/2025",
+      "local": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "localImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/129.png",
+        "nameTeam": "SAN MARTÍN SAN JUAN"
+      },
+      "visitante": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "visitanteImg": "https://www.cariverplate.com.ar/images/logo-river.png?cache=a57",
+        "nameTeam": "RIVER PLATE"
+      }
+    },
+    {
+      "nothing": "4 - 0",
+      "scorers": [],
+      "stadium": "Estadio Mâs Monumental (Capital Federal, Ciudad de Buenos Aires)",
+      "date": "01/03/2025",
+      "local": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "localImg": "https://www.cariverplate.com.ar/images/logo-river.png?cache=a57",
+        "nameTeam": "RIVER PLATE"
+      },
+      "visitante": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "visitanteImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/98.png",
+        "nameTeam": "ESTUDIANTES"
+      }
+    },
+    {
+      "nothing": "4 - 0",
+      "scorers": [],
+      "stadium": "Estadio Mâs Monumental (Capital Federal, Ciudad de Buenos Aires)",
+      "date": "09/03/2025",
+      "local": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "localImg": "https://www.cariverplate.com.ar/images/logo-river.png?cache=a57",
+        "nameTeam": "RIVER PLATE"
+      },
+      "visitante": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "visitanteImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/7064.png",
+        "nameTeam": "ATLÉTICO TUCUMÁN"
+      }
+    },
+    {
+      "nothing": "1 - 1",
+      "scorers": [],
+      "stadium": "Estadio Guillermo Laza (Capital Federal, Ciudad de Buenos Aires)",
+      "date": "15/03/2025",
+      "local": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "localImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/7583.png",
+        "nameTeam": "DEPORTIVO RIESTRA"
+      },
+      "visitante": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "visitanteImg": "https://www.cariverplate.com.ar/images/logo-river.png?cache=a57",
+        "nameTeam": "RIVER PLATE"
+      }
+    },
+    {
+      "nothing": "4 - 0",
+      "scorers": [],
+      "stadium": "Estadio Mâs Monumental (Capital Federal, Ciudad de Buenos Aires)",
+      "date": "29/03/2025",
+      "local": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "localImg": "https://www.cariverplate.com.ar/images/logo-river.png?cache=a57",
+        "nameTeam": "RIVER PLATE"
+      },
+      "visitante": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "visitanteImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/108.png",
+        "nameTeam": "ROSARIO CENTRAL"
+      }
+    },
+    {
+      "nothing": "1 - 0",
+      "scorers": [],
+      "stadium": "Estadio Eva Perón de Junín (Junín, Provincia de Buenos Aires)",
+      "date": "05/04/2025",
+      "local": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "localImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/3019.png",
+        "nameTeam": "SARMIENTO"
+      },
+      "visitante": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "visitanteImg": "https://www.cariverplate.com.ar/images/logo-river.png?cache=a57",
+        "nameTeam": "RIVER PLATE"
+      }
+    },
+    {
+      "nothing": "4 - 0",
+      "scorers": [],
+      "stadium": "Estadio Mâs Monumental (Capital Federal, Ciudad de Buenos Aires)",
+      "date": "12/04/2025",
+      "local": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "localImg": "https://www.cariverplate.com.ar/images/logo-river.png?cache=a57",
+        "nameTeam": "RIVER PLATE"
+      },
+      "visitante": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "visitanteImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/110.png",
+        "nameTeam": "TALLERES DE CÓRDOBA"
+      }
+    },
+    {
+      "nothing": "0 - 1",
+      "scorers": [],
+      "stadium": "Estadio Juan Carmelo Zerillo (La Plata, Provincia de Buenos Aires)",
+      "date": "19/04/2025",
+      "local": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "localImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/99.png",
+        "nameTeam": "GIMNASIA LA PLATA"
+      },
+      "visitante": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "visitanteImg": "https://www.cariverplate.com.ar/images/logo-river.png?cache=a57",
+        "nameTeam": "RIVER PLATE"
+      }
+    },
+    {
+      "nothing": "4 - 0",
+      "scorers": [],
+      "stadium": "Estadio Mâs Monumental (Capital Federal, Ciudad de Buenos Aires)",
+      "date": "26/04/2025",
+      "local": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "localImg": "https://www.cariverplate.com.ar/images/logo-river.png?cache=a57",
+        "nameTeam": "RIVER PLATE"
+      },
+      "visitante": {
+        "lineUpNumber": [],
+        "lineUpName": [],
+        "visitanteImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/95.png",
+        "nameTeam": "BOCA JUNIORS"
+      }
+    },
     {
       "nothing": "1 - 0",
       "scorers": [

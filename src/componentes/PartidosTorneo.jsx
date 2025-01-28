@@ -150,22 +150,32 @@ const PartidosTorneo = () => {
                                 ))
                             }
                         </div>
-                        <div className='div-tabla'>
+                        {
+                        tabla[yearCompetition] &&
+                        tabla[yearCompetition].some((item) => item.datos?.gf) && ( // Verifica si hay al menos un GF definido
+                            <div className='div-tabla'>
                             <p className='tabla-p'>GF</p>
-                            {   tabla && tabla[yearCompetition] &&
-                                tabla[yearCompetition].map((gf,index)=>(
-                                    <p className='p-number-tabla' key={index}>{gf.datos.gf}</p>
-                                ))
-                            }
-                        </div>
-                        <div className='div-tabla'>
-                            <p className='tabla-p'>GE</p>
-                            {   tabla && tabla[yearCompetition] &&
-                                tabla[yearCompetition].map((gc,index)=>(
-                                    <p className='p-number-tabla' key={index}>{gc.datos.gc}</p>
-                                ))
-                            }
-                        </div>
+                            {tabla[yearCompetition].map((gf, index) => (
+                                <p className='p-number-tabla' key={index}>
+                                {gf.datos?.gf || ""} {/* Si no hay GF, muestra una cadena vacía */}
+                                </p>
+                            ))}
+                            </div>
+                        )
+                        }
+                       {
+                        tabla[yearCompetition] &&
+                        tabla[yearCompetition].some((item) => item.datos?.gc) && ( // Verifica si hay al menos un GF definido
+                            <div className='div-tabla'>
+                            <p className='tabla-p'>GC</p>
+                            {tabla[yearCompetition].map((gc, index) => (
+                                <p className='p-number-tabla' key={index}>
+                                {gc.datos?.gc || ""} {/* Si no hay GF, muestra una cadena vacía */}
+                                </p>
+                            ))}
+                            </div>
+                        )
+                        }
                         <div className='div-tabla'>
                             <p className='tabla-p tabla-p-dif'>DIF</p>
                             {   tabla && tabla[yearCompetition] &&

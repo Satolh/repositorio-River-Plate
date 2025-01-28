@@ -41,7 +41,8 @@ const Plantel = () => {
         });
     }, [detailsPlantel]);
     
-    console.log(arqueros)
+    console.log(detailsPlantel)
+
 
     const obtenerInformacionAdicional = (infoJugador) =>{
         setJugadorSeleccionado(infoJugador)
