@@ -14,6 +14,7 @@
       ],
       "stadium": "Estadio Mario Alberto Kempes (Ciudad de Córdoba, Provincia de Córdoba)",
       "date": "21/04/2024",
+      "playVideo": "",
       "local": {
         "lineUpNumber": [
           "1",
@@ -133,6 +134,7 @@
       ],
       "stadium": "Estadio Alberto José Armando (Ciudad de Buenos Aires)",
       "date": "21/09/2024",
+      "playVideo": "https://www.youtube.com/watch?v=wLi7QB9xxUk&pp=ygUOcml2ZXIgMSBib2NhIDA%3D",
       "local": {
         "lineUpNumber": [
           "1",
@@ -252,6 +254,7 @@
       ],
       "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
       "date": "07/05/2023",
+      "playVideo": "https://www.youtube.com/watch?v=uLD4XV9bIFI&pp=ygUOcml2ZXIgMSBib2NhIDA%3D",
       "local": {
         "lineUpNumber": [
           "1",
@@ -374,6 +377,7 @@
       ],
       "stadium": "Estadio Alberto José Armando (Ciudad de Buenos Aires)",
       "date": "01/10/2023",
+      "playVideo": "https://www.youtube.com/watch?v=tKpyN83h_xM&pp=ygUOcml2ZXIgMiBib2NhIDA%3D",
       "local": {
         "lineUpNumber": [
           "1",
@@ -496,6 +500,7 @@
       ],
       "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
       "date": "25/02/2024",
+      "playVideo": "https://www.youtube.com/watch?v=uQfrQTGNpSQ&pp=ygUOcml2ZXIgMSBib2NhIDE%3D",
       "local": {
         "lineUpNumber": [
           "1",
@@ -615,6 +620,7 @@
       ],
       "stadium": "Estadio Alberto José Armando (Ciudad de Buenos Aires)",
       "date": "11/09/2022",
+      "playVideo": "https://www.youtube.com/watch?v=xuuEnRdkdhA&pp=ygUQYm9jYSAxIC0gcml2ZXIgMA%3D%3D",
       "local": {
         "lineUpNumber": [
           "1",
@@ -735,6 +741,7 @@
       ],
       "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
       "date": "03/10/2021",
+      "playVideo": "https://www.youtube.com/watch?v=Nb9vl7uoFII&pp=ygUOcml2ZXIgMiBib2NhIDE%3D",
       "local": {
         "lineUpNumber": [
           "1",
@@ -854,6 +861,7 @@
       ],
       "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
       "date": "20/03/2022",
+      "playVideo": "https://www.youtube.com/watch?v=0M5IMLdYCOg&pp=ygUOcml2ZXIgMCBib2NhIDE%3D",
       "local": {
         "lineUpNumber": [
           "1",
@@ -976,6 +984,7 @@
       ],
       "stadium": "Estadio Alberto José Armando (Ciudad de Buenos Aires)",
       "date": "02/01/2021",
+      "playVideo": "https://www.youtube.com/watch?v=PxgUpZQNYl8&pp=ygUOYm9jYSAyIHJpdmVyIDI%3D",
       "local": {
         "lineUpNumber": [
           "1",
@@ -1093,6 +1102,7 @@
       ],
       "stadium": "Estadio Alberto José Armando (Ciudad de Buenos Aires)",
       "date": "14/03/2021",
+      "playVideo": "https://www.youtube.com/watch?v=RoS_Iic12rc&pp=ygUOYm9jYSAxIHJpdmVyIDE%3D",
       "local": {
         "lineUpNumber": [
           "1",
@@ -1216,6 +1226,7 @@
    },
       "stadium": "Estadio Alberto José Armando (Ciudad de Buenos Aires)",
       "date": "16/05/2021",
+      "playVideo": "https://www.youtube.com/watch?v=Sj7zsXnjFus&pp=ygUOYm9jYSAxIHJpdmVyIDE%3D",
       "local": {
         "lineUpNumber": [
           "17",
@@ -1329,6 +1340,7 @@
    },
       "stadium": "Estadio Único Diego Armando Maradona (La Plata, Provincia de Buenos Aires)",
       "date": "04/08/2021",
+      "playVideo": "https://www.youtube.com/watch?v=wmu4BTjc8S0&pp=ygUTYm9jYSAwIHJpdmVyIDAgMjAyMQ%3D%3D",
       "local": {
         "lineUpNumber": [
           "1",
@@ -1441,6 +1453,7 @@
       "scorers": [],
       "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
       "date": "01/09/2019",
+      "playVideo": "https://www.youtube.com/watch?v=f6meOc5jpzM&pp=ygUTYm9jYSAwIHJpdmVyIDAgMjAxOQ%3D%3D",
       "local": {
         "lineUpNumber": [
           "1",
@@ -1542,6 +1555,7 @@
       ],
       "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
       "date": "01/10/2019",
+      "playVideo": "https://www.youtube.com/watch?v=dUzkw5Ki704&pp=ygUTYm9jYSAwIHJpdmVyIDIgMjAxOQ%3D%3D",
       "local": {
         "lineUpNumber": [
           "1",
@@ -1657,6 +1671,7 @@
       ],
       "stadium": "Estadio Alberto José Armando (Ciudad de Buenos Aires)",
       "date": "22/10/2019",
+      "playVideo": "https://www.youtube.com/watch?v=lRkWF4IcUnw&pp=ygUTYm9jYSAxIHJpdmVyIDAgMjAxOQ%3D%3D",
       "local": {
         "lineUpNumber": [
           "1",
@@ -1782,6 +1797,7 @@
       ],
       "stadium": "Estadio Alberto José Armando (Ciudad de Buenos Aires)",
       "date": "11/11/2018",
+      "playVideo": "https://www.youtube.com/watch?v=h_QGVRlxEg8&pp=ygUQYm9jYSAyIC0gcml2ZXIgMg%3D%3D",
       "local": {
         "lineUpNumber": [
           "12",
@@ -1887,6 +1903,7 @@
       ],
       "stadium": "Estadio Santiago Bernabéu (Madrid)",
       "date": "09/12/2018",
+      "playVideo": "https://www.youtube.com/watch?v=F-A_ujDnMo4&pp=ygUQYm9jYSAxIC0gcml2ZXIgMw%3D%3D",
       "local": {
         "lineUpNumber": [
           "1",
@@ -1990,6 +2007,7 @@
       ],
       "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
       "date": "05/11/2017",
+      "playVideo": "https://www.youtube.com/watch?v=XLWugsgZnA8&pp=ygUVcml2ZXIgMSAtIGJvY2EgMiAyMDE3",
       "local": {
         "lineUpNumber": [
           "14",
@@ -2089,6 +2107,7 @@
       ],
       "stadium": "Estadio José María Minella (Mar del Plata, Provincia de Buenos Aires)",
       "date": "21/01/2018",
+      "playVideo": "",
       "local": {
         "lineUpNumber": [
           "12",
@@ -2190,6 +2209,7 @@
       ],
       "stadium": "Estadio Malvinas Argentinas (Mendoza, Provincia de Mendoza)",
       "date": "14/03/2018",
+      "playVideo": "https://www.youtube.com/watch?v=0SZiGYrDwgM&pp=ygUWYm9jYSAwIC0gcml2ZXIgMiAyMDE4IA%3D%3D",
       "local": {
         "lineUpNumber": [
           "12",
@@ -2291,6 +2311,7 @@
       ],
       "stadium": "Estadio Alberto José Armando (Ciudad de Buenos Aires)",
       "date": "23/09/2018",
+      "playVideo": "https://www.youtube.com/watch?v=L2DzSB7P65o&pp=ygUdYm9jYSAwIHJpdmVyIDIgc3VwZXJjb3BhIDIwMTg%3D",
       "local": {
         "lineUpNumber": [
           "1",
@@ -2392,6 +2413,7 @@
       ],
       "stadium": "Estadio José María Minella (Mar del Plata, Provincia de Buenos Aires)",
       "date": "28/01/2017",
+      "playVideo": "",
       "local": {
         "lineUpNumber": [
           "28",
@@ -2495,6 +2517,7 @@
       ],
       "stadium": "Estadio Alberto José Armando (Ciudad de Buenos Aires)",
       "date": "14/05/2017",
+      "playVideo": "https://www.youtube.com/watch?v=rRx-Pg0u0R4&pp=ygUVMSAtIDMgYm9jYSByaXZlciAyMDE3",
       "local": {
         "lineUpNumber": [
           "12",
@@ -2594,6 +2617,7 @@
       ],
       "stadium": "Estadio José María Minella (Mar del Plata, Provincia de Buenos Aires)",
       "date": "23/01/2016",
+      "playVideo": "",
       "local": {
         "lineUpNumber": [
           "1",
@@ -2693,6 +2717,7 @@
       ],
       "stadium": "Estadio Malvinas Argentinas (Mendoza, Provincia de Mendoza)",
       "date": "30/01/2016",
+      "playVideo": "",
       "local": {
         "lineUpNumber": [
           "1",
@@ -2789,6 +2814,7 @@
       "scorers": [],
       "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
       "date": "06/03/2016",
+      "playVideo": "https://www.youtube.com/watch?v=7I4PjAoEBkY&pp=ygUUMC0gMCBib2NhIHJpdmVyIDIwMTY%3D",
       "local": {
         "lineUpNumber": [
           "1",
@@ -2885,6 +2911,7 @@
       "scorers": [],
       "stadium": "Estadio Alberto José Armando (Ciudad de Buenos Aires)",
       "date": "24/04/2016",
+      "playVideo": "https://www.youtube.com/watch?v=4Z_ISynsUag&pp=ygUcMC0gMCBib2NhIHJpdmVyIDIwMTYgZmVjaGEgNg%3D%3D",
       "local": {
         "lineUpNumber": [
           "1",
@@ -2994,6 +3021,7 @@
       ],
       "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
       "date": "11/12/2016",
+      "playVideo": "https://www.youtube.com/watch?v=7uIr0P25bwI&pp=ygURcml2ZXIgMiAtIGJvY2EgNCA%3D",
       "local": {
         "lineUpNumber": [
           "1",
@@ -3095,6 +3123,7 @@
       ],
       "stadium": "Estadio Alberto José Armando (Ciudad de Buenos Aires)",
       "date": "03/05/2015",
+      "playVideo": "",
       "local": {
         "lineUpNumber": [
           "1",
@@ -3194,6 +3223,7 @@
       ],
       "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
       "date": "07/05/2015",
+      "playVideo": "https://www.youtube.com/watch?v=n8_MFXSybaw&pp=ygUVcml2ZXIgMSAtIGJvY2EgMCAyMDE1",
       "local": {
         "lineUpNumber": [
           "1",
@@ -3290,6 +3320,7 @@
       "scorers": [],
       "stadium": "Estadio Alberto José Armando (Ciudad de Buenos Aires)",
       "date": "14/05/2015",
+      "playVideo": "",
       "local": {
         "lineUpNumber": [
           "1",
@@ -3389,6 +3420,7 @@
       ],
       "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
       "date": "13/09/2015",
+      "playVideo": "",
       "local": {
         "lineUpNumber": [
           "1",
@@ -3490,6 +3522,7 @@
       ],
       "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
       "date": "05/10/2014",
+      "playVideo": "",
       "local": {
         "lineUpNumber": [
           "1",
@@ -3586,6 +3619,7 @@
       "scorers": [],
       "stadium": "Estadio Alberto José Armando (Ciudad de Buenos Aires)",
       "date": "20/11/2014",
+      "playVideo": "",
       "local": {
         "lineUpNumber": [
           "1",
@@ -3685,6 +3719,7 @@
       ],
       "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
       "date": "27/11/2014",
+      "playVideo": "",
       "local": {
         "lineUpNumber": [
           "1",
@@ -3783,6 +3818,7 @@
       ],
       "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
       "date": "06/10/2013",
+      "playVideo": "",
       "local": {
         "lineUpNumber": [
           "1",
