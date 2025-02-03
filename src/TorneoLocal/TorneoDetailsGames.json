@@ -240,25 +240,123 @@
           "nameTeam": "INSTITUTO"
         }
       },
-      {
-        "title": "17 : 00",
-        "scorers": [],
-        "stadium": "Estadio Pedro Bidegaín (Capital Federal, Ciudad de Buenos Aires)",
-        "date": "02/02/2025",
-        "playVideo": "",
-        "local": {
-          "lineUpNumber": [],
-          "lineUpName": [],
-          "localImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/109.png",
-          "nameTeam": "SAN LORENZO"
+        {
+          "title": "0 - 0",
+          "scorers": [],
+          "stadium": "Estadio Pedro Bidegaín (Capital Federal, Ciudad de Buenos Aires)",
+          "date": "02/02/2025",
+          "playVideo": "https://www.youtube.com/watch?v=SAswWNu0EuU&pp=ygUccml2ZXIgdnMgc2FuIGxvcmVuem8gcmVzdW1lbg%3D%3D",
+          "local": {
+            "lineUpNumber": [
+              "12",
+              "24",
+              "4",
+              "32",
+              "37",
+              "36",
+              "21",
+              "5",
+              "7",
+              "28",
+              "11",
+              "9",
+              "15",
+              "50",
+              "16",
+              "25",
+              "99",
+              "26",
+              "41",
+              "53",
+              "30",
+              "19",
+              "51"
+            ],
+            "lineUpName": [
+              "O. Gill",
+              "N. Tripichio",
+              "J. Romaña",
+              "E. Herrera",
+              "E. Báez",
+              "D. Herrera",
+              "M. Braida",
+              "E. Irala",
+              "E. Cerutti",
+              "A. Cuello",
+              "M. Reali",
+              "M. Russo",
+              "A. Vombergar",
+              "E. Cecchini",
+              "A. Ladstatter",
+              "N. Domínguez",
+              "J. Devecchi",
+              "J. Peralta",
+              "J. Vega",
+              "V. Escalante",
+              "R. Pedroza",
+              "N. Arias",
+              "M. Insaurralde",
+              "M. Zelaya"
+            ],
+            "localImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/109.png",
+            "nameTeam": "SAN LORENZO"
+          },
+          "visitante": {
+            "lineUpNumber": [
+              "1",
+              "6",
+              "21",
+              "17",
+              "28",
+              "4",
+              "24",
+              "10",
+              "34",
+              "9",
+              "15",
+              "11",
+              "26",
+              "29",
+              "7",
+              "31",
+              "19",
+              "20",
+              "25",
+              "5",
+              "2",
+              "16",
+              "14"
+            ],
+            "lineUpName": [
+              "F. Armani",
+              "G. Pezzella",
+              "M. Acuña",
+              "P. Díaz",
+              "L. Martínez Quarta",
+              "G. Montiel",
+              "E. Pérez",
+              "M. Lanzini",
+              "G. Galoppo",
+              "M. Borja",
+              "S. Driussi",
+              "M. Gallardo",
+              "F. Colidio",
+              "I. Fernández",
+              "R. Aliendro",
+              "M. Rojas",
+              "S. Simón",
+              "G. Tapia",
+              "M. Casco",
+              "C. Ledesma",
+              "M. Kranevitter",
+              "F. Gattoni",
+              "F. Bustos",
+              "L. González"
+            ],
+            "visitanteImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/107.png",
+            "nameTeam": "RIVER PLATE"
+          }
         },
-        "visitante": {
-          "lineUpNumber": [],
-          "lineUpName": [],
-          "visitanteImg": "https://www.cariverplate.com.ar/images/logo-river.png?cache=a57",
-          "nameTeam": "RIVER PLATE"
-        }
-      },
       {
         "title": "19 : 15",
         "scorers": [],
@@ -3891,6 +3989,7 @@
     ],
     "stadium": "Estadio Julio César Villagra (Ciudad de Córdoba, Provincia de Córdoba)",
     "date": "04/02/2023",
+    "playVideo":"https://www.youtube.com/watch?v=NiLxmS1Rkh8&pp=ygUaYmVsZ3Jhbm8gMiByaXZlciAwIHJlc3VtZW4%3D",
     "local": {
       "lineUpNumber": [
         "25",
@@ -4012,6 +4111,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "12/02/2023",
+    "playVideo":"https://www.youtube.com/watch?v=ik2WyHG2Wzk&pp=ygUkcml2ZXIgMi0xIGFyZ2VudGlub3MganVuaW9ycyByZXN1bWVu",
     "local": {
       "lineUpNumber": [
         "1",
@@ -4127,11 +4227,11 @@
     "title": "0 - 1",
     "nothing": "0 - 1",
     "scorers": [
-      
       " 79' L. González\n(Asistencia de E. Pérez)"
     ],
     "stadium": "Estadio José Dellagiovanna (San Fernando, Provincia de Buenos Aires)",
     "date": "18/02/2023",
+    "playVideo":"https://www.youtube.com/watch?v=2YEdggS9H8Q&pp=ygUWdGlncmUgdnMgcml2ZXIgcmVzdW1lbg%3D%3D",
     "local": {
       "lineUpNumber": [
         "23",
@@ -4254,6 +4354,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "26/02/2023",
+    "playVideo":"https://www.youtube.com/watch?v=LrxH9Jgy-90&pp=ygUVcml2ZXIgdnMgYXJzZW5hbCAxLSAy",
     "local": {
       "lineUpNumber": [
         "1",
@@ -4369,13 +4470,12 @@
     "title": "0 - 2",
     "nothing": "0 - 1",
     "scorers": [
-      
       " 25' J. Paradela\n(Asistencia de M. Casco)",
-      
       " 88' L. Beltrán\n(Asistencia de E. Díaz)"
     ],
     "stadium": "Estadio Ciudad de Lanús - Néstor Díaz Pérez (Lanús, Provincia de Buenos Aires)",
     "date": "04/03/2023",
+    "playVideo":"https://www.youtube.com/watch?v=3W4F-PG6Bwo&pp=ygUUbGFudXMgdnMgcml2ZXIgMCAtIDI%3D",
     "local": {
       "lineUpNumber": [
         "42",
@@ -4492,13 +4592,12 @@
     "nothing": "1 - 0",
     "scorers": [
       "L. Beltrán 29' \n(Asistencia de I. Fernández)",
-      
-      "L. Beltrán (PG) 61' ",
-      
+      "L. Beltrán (PG) 61' ",      
       "E. Barco (PG) 79' "
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "12/03/2023",
+    "playVideo":"https://www.youtube.com/watch?v=EpdIRCm9iIM&pp=ygUUcml2ZXIgMyBnb2RveSBjcnV6IDA%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -4614,13 +4713,12 @@
     "title": "0 - 2",
     "nothing": "0 - 1",
     "scorers": [
-      
       " 7' L. Beltrán (PG)",
-      
       " 74' A. Palavecino\n(Asistencia de R. Aliendro)"
     ],
     "stadium": "Estadio Eva Perón de Junín (Junín, Provincia de Buenos Aires)",
     "date": "19/03/2023",
+    "playVideo":"https://www.youtube.com/watch?v=5dK8hLZE3vI&pp=ygUYc2FybWllbnRvIHZzIHJpdmVyIDAgLSAy",
     "local": {
       "lineUpNumber": [
         "32",
@@ -4740,6 +4838,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "31/03/2023",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "1",
@@ -4855,15 +4954,13 @@
     "title": "0 - 3",
     "nothing": "0 - 1",
     "scorers": [
-      
       " 11' S. Rondón (PG)",
-      
       " 17' S. Rondón\n(Asistencia de E. Barco)",
-      
       " 60' E. Barco (PG)"
     ],
     "stadium": "Estadio Tomás Adolfo Ducó (Capital Federal, Ciudad de Buenos Aires)",
     "date": "09/04/2023",
+    "playVideo":"https://www.youtube.com/watch?v=1lgEXHHXaaM&pp=ygUZcml2ZXIgdnMgdW5pb24gMSAtIDAgMjAyMw%3D%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -4980,13 +5077,12 @@
     "nothing": "1 - 0",
     "scorers": [
       "L. Beltrán (PG) 26' ",
-      
       "R. Aliendro 65' \n(Asistencia de M. Casco)",
-      
       "M. Suárez 90' \n(Asistencia de M. Borja)"
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "13/04/2023",
+    "playVideo":"https://www.youtube.com/watch?v=afCgAp3k0QU&pp=ygUkcml2ZXIgdnMgZ2ltbmFzaWEgZGUgbGEgcGxhdGEgIDMgLSAw",
     "local": {
       "lineUpNumber": [
         "1",
@@ -5102,11 +5198,11 @@
     "title": "0 - 1",
     "nothing": "0 - 1",
     "scorers": [
-      
       " 90'+5 P. Solari\n(Asistencia de E. Barco)"
     ],
     "stadium": "Estadio Marcelo Alberto Bielsa (Rosario, Provincia de Santa Fe)",
     "date": "16/04/2023",
+    "playVideo":"https://www.youtube.com/watch?v=bHZkuwhCLzc&pp=ygUWbmV3ZWxzIHZzIHJpdmVyICAwIC0gMQ%3D%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -5223,11 +5319,11 @@
     "nothing": "1 - 0",
     "scorers": [
       "E. Barco 17' ",
-      
       "M. Borja 80' "
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "23/04/2023",
+    "playVideo":"https://www.youtube.com/watch?v=M1aagUBYYjs&pp=ygUhcml2ZXIgdnMgaW5kZXBlbmRpZW50ZSAyIC0gMCAyMDIz",
     "local": {
       "lineUpNumber": [
         "1",
@@ -5344,12 +5440,11 @@
     "nothing": "1 - 0",
     "scorers": [
       "M. Coronel 15' \n(Asistencia de A. Sánchez)",
-      
-      
       " 87' J. Pereyra (OG)"
     ],
     "stadium": "Estadio Monumental Presidente José Fierro (San Miguel de Tucumán, Provincia de Tucumán)",
     "date": "28/04/2023",
+    "playVideo":"https://www.youtube.com/watch?v=bi4mVZfBdcw&pp=ygUgYXRsZXRpY28gdHVjdW1hbiB2cyByaXZlciAgMSAtIDE%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -5469,6 +5564,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "07/05/2023",
+    "playVideo":"https://www.youtube.com/watch?v=uLD4XV9bIFI&pp=ygUZcml2ZXIgdnMgYm9jYSAgMSAtIDAgMjAyMw%3D%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -5586,14 +5682,12 @@
     "nothing": "1 - 0",
     "scorers": [
       "R. Garro 63' ",
-      
       "R. Garro 73' \n(Asistencia de R. Sosa)",
-      
-      
       " 79' M. Suárez\n(Asistencia de M. Casco)"
     ],
     "stadium": "Estadio Mario Alberto Kempes (Ciudad de Córdoba, Provincia de Córdoba)",
     "date": "14/05/2023",
+    "playVideo":"https://www.youtube.com/watch?v=FhuUydNKN4U&pp=ygUcdGFsbGVyZXMgdnMgcml2ZXIgMiAtIDEgMjAyMw%3D%3D",
     "local": {
       "lineUpNumber": [
         "22",
@@ -5710,13 +5804,12 @@
     "nothing": "1 - 0",
     "scorers": [
       "M. Borja 2' \n(Asistencia de P. Solari)",
-      
-      
       " 12' R. Martínez\n(Asistencia de F. Baldassarra)",
       "I. Fernández 55' "
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "21/05/2023",
+    "playVideo":"https://www.youtube.com/watch?v=y2Ba9YdzLdc&pp=ygUbcml2ZXIgdnMgcGxhdGVuc2UyIC0gMSAyMDIz",
     "local": {
       "lineUpNumber": [
         "1",
@@ -5830,16 +5923,14 @@
     "title": "2 - 2",
     "nothing": "0 - 1",
     "scorers": [
-      
       " 26' R. Rojas",
       "L. Pratto 52' \n(Asistencia de C. Ordoñez)",
-      
-      
       " 82' L. Beltrán\n(Asistencia de M. Herrera)",
       "F. Ortega 86' \n(Asistencia de C. Ordoñez)"
     ],
     "stadium": "Estadio José Amalfitani (Capital Federal, Ciudad de Buenos Aires)",
     "date": "29/05/2023",
+    "playVideo":"https://www.youtube.com/watch?v=gngIUDHI-PQ&pp=ygUZdmVsZXogdnMgcml2ZXIgMiAtIDIgMjAyMw%3D%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -5955,19 +6046,15 @@
     "title": "1 - 4",
     "nothing": "0 - 1",
     "scorers": [
-      
       " 6' L. Beltrán\n(Asistencia de P. Solari)",
-      
       " 21' P. Solari\n(Asistencia de L. Beltrán)",
       "M. Giménez (PG) 40' ",
-      
-      
       " 48' L. Beltrán\n(Asistencia de I. Fernández)",
-      
       " 90'+4 S. Rondón\n(Asistencia de M. Suárez)"
     ],
     "stadium": "Estadio Florencio Solá (Lomas de Zamora, Provincia de Buenos Aires)",
     "date": "12/06/2023",
+    "playVideo":"https://www.youtube.com/watch?v=w9EpQLvHftA&pp=ygUcYmFuZmllbGQgdnMgcml2ZXIgMSAtIDQgMjAyMw%3D%3D",
     "local": {
       "lineUpNumber": [
         "21",
@@ -6087,6 +6174,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "17/06/2023",
+    "playVideo":"https://www.youtube.com/watch?v=4_19LjTAxS8&pp=ygUbcml2ZXIgdnMgZGVmZW5zYSAxIC0gMCAyMDIz",
     "local": {
       "lineUpNumber": [
         "1",
@@ -6214,16 +6302,14 @@
     "title": "3 - 1",
     "nothing": "0 - 1",
     "scorers": [
-      
       " 1' S. Rodríguez\n(Asistencia de F. Watson)",
       "N. de la Cruz 34' \n(Asistencia de L. Beltrán)",
-      
       "I. Fernández 50' \n(Asistencia de E. Barco)",
-      
       "L. Beltrán 84' \n(Asistencia de C. Echeverri)"
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "22/06/2023",
+    "playVideo":"https://www.youtube.com/watch?v=VMM9AVvCnCQ&pp=ygUdcml2ZXIgdnMgaW5zdGl0dXRvIDMgLSAxIDIwMjM%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -6340,14 +6426,12 @@
     "nothing": "1 - 0",
     "scorers": [
       "C. Arce 18' \n(Asistencia de I. Tapia)",
-      
       "M. Peinipil 57' ",
-      
-      
       " 63' M. Borja"
     ],
     "stadium": "Estadio Claudio Fabián Tapia (Capital Federal, Ciudad de Buenos Aires)",
     "date": "01/07/2023",
+    "playVideo":"https://www.youtube.com/watch?v=3B1K-nRPL-4&pp=ygUcYmFycmFjYXMgdnMgcml2ZXIgMiAtIDEgMjAyMw%3D%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -6464,12 +6548,11 @@
     "nothing": "1 - 0",
     "scorers": [
       "N. de la Cruz 37' ",
-      
       "L. Beltrán 61' \n(Asistencia de I. Fernández)"
-      
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "05/07/2023",
+    "playVideo":"https://www.youtube.com/watch?v=RTPO1kwH2SA&pp=ygUZcml2ZXIgdnMgY29sb24gMiAtIDAgMjAyMw%3D%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -6583,6 +6666,7 @@
     "scorers": [],
     "stadium": "Estadio Pedro Bidegaín (Capital Federal, Ciudad de Buenos Aires)",
     "date": "08/07/2023",
+    "playVideo":"https://www.youtube.com/watch?v=AcPq7tu6fHI&pp=ygUgc2FuIGxvcmVuem8gIHZzIHJpdmVyIDAgLSAwIDIwMjM%3D",
     "local": {
       "lineUpNumber": [
         "13",
@@ -6699,16 +6783,13 @@
     "nothing": "1 - 0",
     "scorers": [
       "L. Beltrán 2' \n(Asistencia de L. González)",
-      
       "N. de la Cruz 18' ",
-      
       "E. Barco (PG) 31' ",
-      
-      
       " 67' M. Méndez\n(Asistencia de L. Godoy)"
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "15/07/2023",
+    "playVideo":"https://www.youtube.com/watch?v=bjmh112JfLc&pp=ygUhcml2ZXIgIHZzIGVzdHVkaWFudGVzICAzIC0gMSAyMDIz",
     "local": {
       "lineUpNumber": [
         "1",
@@ -6823,20 +6904,15 @@
     "nothing": "1 - 0",
     "scorers": [
       "A. Véliz 20' \n(Asistencia de J. Campaz)",
-      
-      
       " 50' S. Rondón\n(Asistencia de P. Solari)",
       "A. Véliz 74' \n(Asistencia de I. Malcorra)",
-      
-      
       " 78' P. Solari",
       "L. Ferreyra 85' \n(Asistencia de G. Infantino)",
-      
-      
       " 90'+7 P. Solari\n(Asistencia de E. Díaz)"
     ],
     "stadium": "Estadio Gigante de Arroyito (Rosario, Provincia de Santa Fe)",
     "date": "23/07/2023",
+    "playVideo":"https://www.youtube.com/watch?v=aQYEzo2uUM8&pp=ygUkcml2ZXIgIHZzIHJvc2FyaW8gY2VudHJhbCAzIC0gMyAyMDIz",
     "local": {
       "lineUpNumber": [
         "1",
@@ -6953,14 +7029,12 @@
     "nothing": "1 - 0",
     "scorers": [
       "L. Beltrán 23' \n(Asistencia de P. Solari)",
-      
       "P. Díaz 71' \n(Asistencia de I. Fernández)",
-      
-      
       " 90'+4 J. Gómez"
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "28/07/2023",
+    "playVideo":"https://www.youtube.com/watch?v=5TR7WGRy6Tw&pp=ygUccml2ZXIgIHZzIHJhY2luZyAgMiAtIDEgMjAyMw%3D%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -7079,6 +7153,7 @@
     "scorers": [],
     "stadium": "Estadio Norberto Tito Tomaghello (Florencio Varela, Provincia de Buenos Aires)",
     "date": "05/06/2022",
+    "playVideo":"https://www.youtube.com/watch?v=OaBkyVH2_Dw&pp=ygUcZGVmZW5zYSB2cyByaXZlciAgMCAtIDAgMjAyMg%3D%3D",
     "local": {
       "lineUpNumber": [
         "22",
@@ -7180,6 +7255,7 @@
     "scorers": [],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "11/06/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "1",
@@ -7288,6 +7364,7 @@
     ],
     "stadium": "Estadio Brigadier General Estanislao López (Ciudad de Santa Fe, Provincia de Santa Fe)",
     "date": "15/06/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "1",
@@ -7399,21 +7476,16 @@
     "title": "1 - 5",
     "nothing": "0 - 1",
     "scorers": [
-      
       " 16' B. Romero\n(Asistencia de J. Álvarez)",
-      
       " 59' E. Fernández\n(Asistencia de J. Álvarez)",
-      
       " 73' J. Álvarez",
       "M. Peralta 79' \n(Asistencia de E. Cañete)",
-      
-      
       " 87' A. Palavecino\n(Asistencia de E. Barco)",
-      
       " 90'+4 J. Álvarez\n(Asistencia de J. Quintero)"
     ],
     "stadium": "Estadio 15 de Abril (Ciudad de Santa Fe, Provincia de Santa Fe)",
     "date": "19/06/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "77",
@@ -7528,14 +7600,12 @@
     "nothing": "1 - 0",
     "scorers": [
       "J. Paradela 26' \n(Asistencia de E. Fernández)",
-      
       "B. Romero 33' \n(Asistencia de J. Paradela)",
-      
-      
       " 35' Lautaro Acosta\n(Asistencia de T. Belmonte)"
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "25/06/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "1",
@@ -7650,18 +7720,14 @@
     "nothing": "1 - 0",
     "scorers": [
       "J. Galván 37' ",
-      
       "F. Cristaldo 63' \n(Asistencia de G. Gudiño)",
-      
-      
       " 69' L. González\n(Asistencia de D. Martínez)",
       "F. Cristaldo (PG) 72' ",
-      
-      
       " 90'+3 J. Álvarez\n(Asistencia de J. Paradela)"
     ],
     "stadium": "Estadio Tomás Adolfo Ducó (Capital Federal, Ciudad de Buenos Aires)",
     "date": "03/07/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "1",
@@ -7778,6 +7844,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "10/07/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "1",
@@ -7891,16 +7958,14 @@
     "title": "2 - 2",
     "nothing": "0 - 1",
     "scorers": [
-      
       " 7' L. Beltrán\n(Asistencia de S. Simón)",
       "W. Bou (PG) 21' ",
-      
-      
       " 30' N. de la Cruz\n(Asistencia de S. Simón)",
       "A. Osorio 90'+3 \n(Asistencia de N. Garayalde)"
     ],
     "stadium": "Estadio José Amalfitani (Capital Federal, Ciudad de Buenos Aires)",
     "date": "17/07/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "30",
@@ -8009,10 +8074,10 @@
     "nothing": "1 - 0",
     "scorers": [
       "L. Beltrán 43' "
-      
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "21/07/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "1",
@@ -8137,6 +8202,7 @@
     ],
     "stadium": "Estadio José María Minella (Mar del Plata, Provincia de Buenos Aires)",
     "date": "24/07/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "25",
@@ -8260,6 +8326,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "31/07/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "1",
@@ -8376,6 +8443,7 @@
     ],
     "stadium": "Estadio Libertadores de América (Avellaneda, Provincia de Buenos Aires)",
     "date": "07/08/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "13",
@@ -8502,6 +8570,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "13/08/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "1",
@@ -8615,6 +8684,7 @@
     "scorers": [],
     "stadium": "Estadio Julio Humberto Grondona (Avellaneda, Provincia de Buenos Aires)",
     "date": "17/08/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "23",
@@ -8720,6 +8790,7 @@
       ],
       "visitanteImg": "https://www.cariverplate.com.ar/images/logo-river.png?cache=a57",
       "nameTeam": "RIVER PLATE"
+      
     }
   },
   {
@@ -8735,6 +8806,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "21/08/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "1",
@@ -8853,6 +8925,7 @@
     ],
     "stadium": "Estadio José Dellagiovanna (San Fernando, Provincia de Buenos Aires)",
     "date": "27/08/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "1",
@@ -8974,6 +9047,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "04/09/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "33",
@@ -9092,6 +9166,7 @@
     ],
     "stadium": "Estadio Alberto José Armando (Ciudad de Buenos Aires)",
     "date": "11/09/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "1",
@@ -9216,6 +9291,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "14/09/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "1",
@@ -9336,6 +9412,7 @@
     ],
     "stadium": "Estadio Pedro Bidegaín (Capital Federal, Ciudad de Buenos Aires)",
     "date": "18/09/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "13",
@@ -9456,6 +9533,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "24/09/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "33",
@@ -9578,6 +9656,7 @@
     ],
     "stadium": "Estadio Diego Armando Maradona (Capital Federal, Ciudad de Buenos Aires)",
     "date": "02/10/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "20",
@@ -9702,6 +9781,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "05/10/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "1",
@@ -9818,6 +9898,7 @@
     ],
     "stadium": "Estadio Presbítero Bartolomé Grella (Paraná, Provincia de Entre Ríos)",
     "date": "09/10/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "20",
@@ -9938,6 +10019,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "12/10/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "1",
@@ -10058,6 +10140,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "16/10/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "1",
@@ -10171,6 +10254,7 @@
     ],
     "stadium": "Estadio Presidente Juan Domingo Perón (Avellaneda, Provincia de Buenos Aires)",
     "date": "23/10/2022",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "21",
@@ -10283,6 +10367,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "18/07/2021",
+    "playVideo":"",
     "local": {
       "lineUpNumber": [
         "1",
