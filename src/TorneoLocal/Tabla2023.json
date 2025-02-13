@@ -3,35 +3,35 @@
     {
       "position": "1",
       "datos": {
-        "name": "Central",
-        "pts": "10",
-        "pj": "4",
-        "pg": "3",
-        "pe": "1",
-        "pp": "0",
-        "dif": "6"
+        "name": "Independiente",
+        "pts": "12",
+        "pj": "5",
+        "pg": "4",
+        "pe": "0",
+        "pp": "1",
+        "dif": "5"
       }
     },
     {
       "position": "2",
       "datos": {
-        "name": "Independiente",
-        "pts": "9",
-        "pj": "4",
+        "name": "Central",
+        "pts": "11",
+        "pj": "5",
         "pg": "3",
-        "pe": "0",
-        "pp": "1",
-        "dif": "2"
+        "pe": "2",
+        "pp": "0",
+        "dif": "6"
       }
     },
     {
       "position": "3",
       "datos": {
         "name": "Riestra",
-        "pts": "8",
-        "pj": "4",
+        "pts": "9",
+        "pj": "5",
         "pg": "2",
-        "pe": "2",
+        "pe": "3",
         "pp": "0",
         "dif": "5"
       }
@@ -40,10 +40,10 @@
       "position": "4",
       "datos": {
         "name": "River",
-        "pts": "8",
-        "pj": "4",
+        "pts": "9",
+        "pj": "5",
         "pg": "2",
-        "pe": "2",
+        "pe": "3",
         "pp": "0",
         "dif": "3"
       }
@@ -148,10 +148,10 @@
       "position": "13",
       "datos": {
         "name": "Godoy Cruz",
-        "pts": "1",
-        "pj": "3",
+        "pts": "2",
+        "pj": "4",
         "pg": "0",
-        "pe": "1",
+        "pe": "2",
         "pp": "2",
         "dif": "-6"
       }
@@ -161,11 +161,11 @@
       "datos": {
         "name": "Vélez",
         "pts": "1",
-        "pj": "4",
+        "pj": "5",
         "pg": "0",
         "pe": "1",
-        "pp": "3",
-        "dif": "-6"
+        "pp": "4",
+        "dif": "-9"
       }
     },
     {
