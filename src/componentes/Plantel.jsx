@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react'
 import { IoIosClose } from "react-icons/io";
 import HeaderRiver from './HeaderRiver'
 import FooterRiver from './FooterRiver';
-import plantel from "../plantel/plantel.json"
 import plantelInfo from "../plantel/plantelDetails.json"
 
 
@@ -14,13 +13,36 @@ const Plantel = () => {
     const [delanteros, setDelanteros] = useState([])
     const [jugadorSeleccionado, setJugadorSeleccionado] = useState(null)
     const [closeInfo,setCloseInfo] = useState(true)
-    const dataPlantel = plantel;
+    const [imgCached, setImgCached] = useState({})
     const detailsPlantel = plantelInfo;
 
-    console.log(detailsPlantel)
+    const cacheImage = async (imageUrl) => {
+        try {
+          const cache = await caches.open('player-image-cache');
+          const cachedResponse = await cache.match(imageUrl);
+          
+          if (!cachedResponse) {
+            const response = await fetch(imageUrl, { mode: "no-cors" }); 
+            cache.put(imageUrl, response);
+          }
+        } catch (error) {
+          console.error("Error al cachear la imagen:", error);
+        }
+      };
+      
+    const getCachedImage = async (imageUrl) => {
+        const cache = await caches.open("img-jugadores"); 
+        const cachedResponse = await cache.match(imageUrl); 
+        return cachedResponse ? cachedResponse.url : imageUrl; 
+    };
+    
 
     useEffect(() => {
         detailsPlantel.forEach(element => {
+            getCachedImage(element.img)
+            if(element.img){
+                cacheImage(element.img)
+            }
             if (element.info.includes("Arquero")) {
                 setArqueros(prevArqueros => {
                     return prevArqueros.some(arq => arq.name === element.name) ? prevArqueros : [...prevArqueros, element];

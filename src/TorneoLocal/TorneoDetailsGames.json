@@ -5137,7 +5137,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "31/03/2023",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=3Vq9aiQ7HdU&pp=ygUfcml2ZXIgMjEvMDMvMjAyMyByaXZlciB2cyB1bmlvbg%3D%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -7554,7 +7554,7 @@
     "scorers": [],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "11/06/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=_7ltA_mRwrY&pp=ygUjcml2ZXIgdnMgYXRsZXRpY28gdHVjdW1hbiAwIC0gIDIwMjI%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -7663,7 +7663,7 @@
     ],
     "stadium": "Estadio Brigadier General Estanislao López (Ciudad de Santa Fe, Provincia de Santa Fe)",
     "date": "15/06/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=xWS1lnVDnMI&pp=ygUTY29sb24gdnMgcml2ZXIgMjAyMg%3D%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -7784,7 +7784,7 @@
     ],
     "stadium": "Estadio 15 de Abril (Ciudad de Santa Fe, Provincia de Santa Fe)",
     "date": "19/06/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=0FIU8sFkAo0&pp=ygUUdW5pb24gdnMgcml2ZXIgIDEtIDU%3D",
     "local": {
       "lineUpNumber": [
         "77",
@@ -7904,7 +7904,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "25/06/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=1SI2_7IuqVI&pp=ygUXcml2ZXIgdnMgbGFudXMgMi0xIDIwMjI%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -8026,7 +8026,7 @@
     ],
     "stadium": "Estadio Tomás Adolfo Ducó (Capital Federal, Ciudad de Buenos Aires)",
     "date": "03/07/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=anybb5bJb7M&pp=ygUZaHVyYWNhbiB2cyByaXZlciAzLTIgMjAyMg%3D%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -8136,14 +8136,12 @@
     "title": "0 - 2",
     "nothing": "0 - 1",
     "scorers": [
-      
       " 21' M. Ojeda",
-      
       " 24' G. Abrego\n(Asistencia de M. Ojeda)"
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "10/07/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=_HqO4j3NY4Y&pp=ygUecml2ZXIgdnMgZ29kb3kgY3J1eiAwIC0gMiAyMDIy",
     "local": {
       "lineUpNumber": [
         "1",
@@ -8264,7 +8262,7 @@
     ],
     "stadium": "Estadio José Amalfitani (Capital Federal, Ciudad de Buenos Aires)",
     "date": "17/07/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=BZhtFH69Suo&pp=ygUYdmVsZXogdnMgcml2ZXIgMi0gMiAyMDIy",
     "local": {
       "lineUpNumber": [
         "30",
@@ -8376,7 +8374,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "21/07/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=mt7CuuZZF0M&pp=ygUbcml2ZXIgdnMgZ2ltbmFzaWEgMS0gMCAyMDIy",
     "local": {
       "lineUpNumber": [
         "1",
@@ -8501,7 +8499,7 @@
     ],
     "stadium": "Estadio José María Minella (Mar del Plata, Provincia de Buenos Aires)",
     "date": "24/07/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=7jWL742trr0&pp=ygUWYWxkb3NpdmkgdnMgcml2ZXIgMjAyMg%3D%3D",
     "local": {
       "lineUpNumber": [
         "25",
@@ -8625,7 +8623,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "31/07/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=1re8ogb-Kv0&pp=ygUbcml2ZXIgdnMgc2FybWllbnRvIDEtMiAyMDIy",
     "local": {
       "lineUpNumber": [
         "1",
@@ -8742,7 +8740,7 @@
     ],
     "stadium": "Estadio Libertadores de América (Avellaneda, Provincia de Buenos Aires)",
     "date": "07/08/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=Yj9GvD2GpY0&pp=ygUbaW5kZXBlbmRpZW50ZSB2cyByaXZlciAyMDIy",
     "local": {
       "lineUpNumber": [
         "13",
@@ -8857,19 +8855,14 @@
     "nothing": "1 - 0",
     "scorers": [
       "P. Solari 30' \n(Asistencia de A. Palavecino)",
-      
       "P. Solari 33' \n(Asistencia de A. Palavecino)",
-      
-      
       " 64' P. Pérez",
       "J. Pinola 72' \n(Asistencia de A. Palavecino)",
-      
       "M. Suárez 80' \n(Asistencia de S. Simón)"
-      
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "13/08/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=byKz8TOnhHE&pp=ygURcml2ZXIgdnMgbmV3cyA0LTE%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -8983,7 +8976,7 @@
     "scorers": [],
     "stadium": "Estadio Julio Humberto Grondona (Avellaneda, Provincia de Buenos Aires)",
     "date": "17/08/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=hw6jeQJdidw&pp=ygUUYXJlbmFsIHZzIHJpdmVyIDIwMjI%3D",
     "local": {
       "lineUpNumber": [
         "23",
@@ -9105,7 +9098,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "21/08/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=IDJhZq8imAQ&pp=ygUecml2ZXIgdnMgY2VudHJhbCBjb3Jkb2J2YSAyMDIy",
     "local": {
       "lineUpNumber": [
         "1",
@@ -9224,7 +9217,7 @@
     ],
     "stadium": "Estadio José Dellagiovanna (San Fernando, Provincia de Buenos Aires)",
     "date": "27/08/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=d62cpRBlNvQ&t=57s&pp=ygUTdGlncmUgdnMgcml2ZXIgMjAyMg%3D%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -9346,7 +9339,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "04/09/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=6kJUpVegIoI&pp=ygUecml2ZXIgdnMgYmFycmFjYXMgY2VudHJhbCAyMDIy",
     "local": {
       "lineUpNumber": [
         "33",
@@ -9465,7 +9458,7 @@
     ],
     "stadium": "Estadio Alberto José Armando (Ciudad de Buenos Aires)",
     "date": "11/09/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=xuuEnRdkdhA&pp=ygUSYm9jYSB2cyByaXZlciAyMDIy",
     "local": {
       "lineUpNumber": [
         "1",
@@ -9590,7 +9583,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "14/09/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=cyIXic48bA0&pp=ygUVcml2ZXIgdnMgYmFuZmlsZSAyMDIy",
     "local": {
       "lineUpNumber": [
         "1",
@@ -9711,7 +9704,7 @@
     ],
     "stadium": "Estadio Pedro Bidegaín (Capital Federal, Ciudad de Buenos Aires)",
     "date": "18/09/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=mCAKP78Cxm8&pp=ygUZc2FuIGxvcmVuc28gdnMgcml2ZXIgMjAyMg%3D%3D",
     "local": {
       "lineUpNumber": [
         "13",
@@ -9832,7 +9825,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "24/09/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=9kajJ8Bv850&pp=ygUWcml2ZXIgdnMgdGFsbGVyZXMgMjAyMg%3D%3D",
     "local": {
       "lineUpNumber": [
         "33",
@@ -9955,7 +9948,7 @@
     ],
     "stadium": "Estadio Diego Armando Maradona (Capital Federal, Ciudad de Buenos Aires)",
     "date": "02/10/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=Rew3B39HHJI&pp=ygUgYXJnZW50aW5vcyBqdW5pb3JzIHZzIHJpdmVyIDIwMjI%3D",
     "local": {
       "lineUpNumber": [
         "20",
@@ -10068,19 +10061,14 @@
     "nothing": "1 - 0",
     "scorers": [
       "M. Borja 25' \n(Asistencia de N. de la Cruz)",
-      
       "M. Borja 29' \n(Asistencia de J. Quintero)",
-      
       "P. Solari 83' \n(Asistencia de N. de la Cruz)",
-      
       "E. Barco 85' \n(Asistencia de N. de la Cruz)",
-      
       "M. Suárez 88' "
-      
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "05/10/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=DL3yRfdsShs&pp=ygUZcml2ZXIgdnMgZXN0dWRpYW50ZXMgMjAyMg%3D%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -10197,7 +10185,7 @@
     ],
     "stadium": "Estadio Presbítero Bartolomé Grella (Paraná, Provincia de Entre Ríos)",
     "date": "09/10/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=apP_mprro5E&pp=ygUXcGF0cm9uYXRvIHZzIHJpdmVyIDIwMjI%3D",
     "local": {
       "lineUpNumber": [
         "20",
@@ -10310,15 +10298,12 @@
     "nothing": "1 - 0",
     "scorers": [
       "N. de la Cruz 60' \n(Asistencia de E. Barco)",
-      
       "M. Suárez 64' ",
-      
-      
       " 70' M. Zárate"
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "12/10/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=BOAxy4n5Q8Y&pp=ygUWcml2ZXIgdnMgcGxhdGVuc2UgMjAyMg%3D%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -10430,16 +10415,13 @@
     "title": "1 - 2",
     "nothing": "0 - 1",
     "scorers": [
-      
       " 14' A. Véliz",
-      
       " 49' A. Véliz\n(Asistencia de L. Blanco)",
       "M. Suárez 88' \n(Asistencia de Elías Gómez)"
-      
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "16/10/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=jqc_f9KIMac&pp=ygUdcml2ZXIgdnMgcm9zYXJpbyBjZW50cmFsIDIwMjI%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -10553,7 +10535,7 @@
     ],
     "stadium": "Estadio Presidente Juan Domingo Perón (Avellaneda, Provincia de Buenos Aires)",
     "date": "23/10/2022",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=J8-piSixsfU&pp=ygUUcmFjaW5nIHZzIHJpdmVyIDIwMjI%3D",
     "local": {
       "lineUpNumber": [
         "21",
@@ -10663,7 +10645,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "18/07/2021",
-    "playVideo":"",
+    "playVideo":"https://www.youtube.com/watch?v=bYhuELFDC6k&pp=ygUTcml2ZXIgdnMgY29sb24gMjAyMQ%3D%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -10784,6 +10766,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "25/07/2021",
+    "playVideo": "https://www.youtube.com/watch?v=fIrSXPVzSkQ&pp=ygUTcml2ZXIgdnMgdW5pb24gMjAyMQ%3D%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -10906,6 +10889,7 @@
     ],
     "stadium": "Estadio Ciudad de Lanús - Néstor Díaz Pérez (Lanús, Provincia de Buenos Aires)",
     "date": "28/07/2021",
+    "playVideo": "https://www.youtube.com/watch?v=RPHM7AHz9oU&pp=ygUUbGFudXMgdnMgcml2ZXIgIDIwMjE%3D",
     "local": {
       "lineUpNumber": [
         "15",
@@ -11024,6 +11008,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "01/08/2021",
+    "playVideo": "https://www.youtube.com/watch?v=FLYjWOzwatM&pp=ygUVcml2ZXIgdnMgaHVyYWNhbiAyMDIx",
     "local": {
       "lineUpNumber": [
         "1",
@@ -11144,6 +11129,7 @@
     ],
     "stadium": "Estadio Feliciano Gambarte (Godoy Cruz, Provincia de Mendoza)",
     "date": "07/08/2021",
+    "playVideo": "https://www.youtube.com/watch?v=lyTv0DrdcUM&pp=ygUYZ29kb3kgY3J1eiB2cyByaXZlciAyMDIx",
     "local": {
       "lineUpNumber": [
         "12",
@@ -11262,6 +11248,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "14/08/2021",
+    "playVideo": "https://www.youtube.com/watch?v=ctEtmV9yUmg&pp=ygUTcml2ZXIgdnMgdmVsZXogMjAyMQ%3D%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -11382,6 +11369,7 @@
     ],
     "stadium": "Estadio Juan Carmelo Zerillo (La Plata, Provincia de Buenos Aires)",
     "date": "22/08/2021",
+    "playVideo": "https://www.youtube.com/watch?v=7Jbos7Pi51Q&pp=ygUfZ2ltbmFzaWEgbGEgcGxhdGEgdnMgcml2ZXIgMjAyMQ%3D%3D",
     "local": {
       "lineUpNumber": [
         "17",
@@ -11503,6 +11491,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "26/08/2021",
+    "playVideo": "https://www.youtube.com/watch?v=5S2HFSYrjhc&pp=ygUWcml2ZXIgdnMgYWxkb3NpdmkgMjAyMQ%3D%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -11623,6 +11612,7 @@
     ],
     "stadium": "Estadio Eva Perón de Junín (Junín, Provincia de Buenos Aires)",
     "date": "30/08/2021",
+    "playVideo": "https://www.youtube.com/watch?v=B3JrHgHYGwQ&pp=ygUXc2FybWllbnRvIHZzIHJpdmVyIDIwMjE%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -11739,6 +11729,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "05/09/2021",
+    "playVideo": "https://www.youtube.com/watch?v=_HNAW8i-CdA&pp=ygUbaW5kZXBlbmRpZW50ZSB2cyByaXZlciAyMDIx",
     "local": {
       "lineUpNumber": [
         "25",
@@ -11863,6 +11854,7 @@
     ],
     "stadium": "Estadio Marcelo Alberto Bielsa (Rosario, Provincia de Santa Fe)",
     "date": "15/09/2021",
+    "playVideo": "https://www.youtube.com/watch?v=8lnaHgcywWU&pp=ygUUbmV3ZXNsIHZzIHJpdmVyIDIwMjE%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -11981,6 +11973,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "19/09/2021",
+    "playVideo": "https://www.youtube.com/watch?v=znlEwF7dAi4&pp=ygUWcml2ZXIgdnMgYXJzZW5hbCAyMDIxIA%3D%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -12105,6 +12098,7 @@
     ],
     "stadium": "Estadio Único Madre de Ciudades (Santiago del Estero, Prov. de Santiago del Estero)",
     "date": "25/09/2021",
+    "playVideo": "https://www.youtube.com/watch?v=xjkeBDnj9cM&pp=ygUdY2VudHJhbCBjb3Jkb2JhIHZzIHJpdmVyIDIwMjE%3D",
     "local": {
       "lineUpNumber": [
         "23",
@@ -12227,6 +12221,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "03/10/2021",
+    "playVideo": "https://www.youtube.com/watch?v=Nb9vl7uoFII&pp=ygUScml2ZXIgdnMgYm9jYSAyMDIx",
     "local": {
       "lineUpNumber": [
         "1",
@@ -12347,6 +12342,7 @@
     ],
     "stadium": "Estadio Florencio Solá (Lomas de Zamora, Provincia de Buenos Aires)",
     "date": "09/10/2021",
+    "playVideo": "https://www.youtube.com/watch?v=XxrM9KAkbJ8&pp=ygUVYmFuZmllbCB2cyByaXZlciAyMDIx",
     "local": {
       "lineUpNumber": [
         "1",
@@ -12463,6 +12459,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "17/10/2021",
+    "playVideo": "https://www.youtube.com/watch?v=QDZDffiqIT4&pp=ygUZcml2ZXIgdnMgc2FuIGxvcmVuem8gMjAyMQ%3D%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -12581,6 +12578,7 @@
     ],
     "stadium": "Estadio Mario Alberto Kempes (Ciudad de Córdoba, Provincia de Córdoba)",
     "date": "21/10/2021",
+    "playVideo": "https://www.youtube.com/watch?v=P5eENzuGE2E&pp=ygUWcml2ZXIgdnMgdGFsbGVyZXMgMjAyMQ%3D%3D",
     "local": {
       "lineUpNumber": [
         "22",
@@ -12705,6 +12703,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "25/10/2021",
+    "playVideo": "https://www.youtube.com/watch?v=_67iCsEbpkU&pp=ygUgcml2ZXIgdnMgYXJnZW50bmlvcyBqdW5pb3JzIDIwMjE%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -12825,6 +12824,7 @@
     ],
     "stadium": "Estadio Jorge Luis Hirschi (La Plata, Provincia de Buenos Aires)",
     "date": "31/10/2021",
+    "playVideo": "https://www.youtube.com/watch?v=zGM074oNVGI&pp=ygUZZXN0dWRpYW50ZXMgdnMgcml2ZXIgMjAyMQ%3D%3D",
     "local": {
       "lineUpNumber": [
         "21",
@@ -12949,6 +12949,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "07/11/2021",
+    "playVideo": "https://www.youtube.com/watch?v=EW_2ckzl5C4&pp=ygUYcml2ZXIgdnMgIHBhdHJvbmF0byAyMDIx",
     "local": {
       "lineUpNumber": [
         "1",
@@ -13061,6 +13062,7 @@
     ],
     "stadium": "Estadio Ciudad de Vicente López (Vicente López, Provincia de Buenos Aires)",
     "date": "21/11/2021",
+    "playVideo": "https://www.youtube.com/watch?v=-lsb8OFwqXE&pp=ygUWcGxhdGVuc2UgdnMgcml2ZXIgMjAyMQ%3D%3D",
     "local": {
       "lineUpNumber": [
         "22",
@@ -13177,16 +13179,13 @@
     "nothing": "1 - 0",
     "scorers": [
       "A. Palavecino 32' \n(Asistencia de E. Fernández)",
-      
       "J. Álvarez 48' ",
-      
       "B. Romero 68' \n(Asistencia de A. Palavecino)",
-      
       "B. Romero 78' \n(Asistencia de J. Carrascal)"
-      
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "25/11/2021",
+    "playVideo": "https://www.youtube.com/watch?v=n1-fRYocDWE&pp=ygUUcml2ZXIgdnMgcmFjaW5nIDIwMjE%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -13307,6 +13306,7 @@
     ],
     "stadium": "Estadio Gigante de Arroyito (Rosario, Provincia de Santa Fe)",
     "date": "28/11/2021",
+    "playVideo": "https://www.youtube.com/watch?v=fXQiQ2m_GaM&pp=ygUdcm9zYXJpbyBjZW50cmFsIHZzIHJpdmVyIDIwMjE%3D",
     "local": {
       "lineUpNumber": [
         "12",
@@ -13429,6 +13429,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "05/12/2021",
+    "playVideo": "https://www.youtube.com/watch?v=prCFEChhplY&pp=ygUgcml2ZXIgdnMgZGVmZW5zYSB5IGp1c3RpY2lhIDIwMjE%3D",
     "local": {
       "lineUpNumber": [
         "1",
@@ -13545,6 +13546,7 @@
     ],
     "stadium": "Estadio Monumental Presidente José Fierro (San Miguel de Tucumán, Provincia de Tucumán)",
     "date": "11/12/2021",
+    "playVideo": "https://www.youtube.com/watch?v=3SCxXrc2Auc&pp=ygUeYXRsZXRpY28gdHVjdW1hbiB2cyByaXZlciAyMDIx",
     "local": {
       "lineUpNumber": [
         "1",
@@ -13659,12 +13661,11 @@
     "nothing": "1 - 0",
     "scorers": [
       "D. Batallini 19' ",
-      
-      
       " 84' J. Carrascal"
     ],
     "stadium": "Estadio Diego Armando Maradona (Capital Federal, Ciudad de Buenos Aires)",
     "date": "27/07/2019",
+    "playVideo": "https://www.youtube.com/watch?v=w3DweDjOoZI&pp=ygUhYXJnZW50aW5vcyBqdW5pb3JzIHZzIHJpdmVyIDIwMTkg",
     "local": {
       "lineUpNumber": [
         "12",
@@ -13769,6 +13770,7 @@
     ],
     "stadium": "Estadio  Monumental (Capital Federal, Ciudad de Buenos Aires)",
     "date": "04/08/2019",
+    "playVideo": "https://www.youtube.com/watch?v=ckWteKlmdYo&pp=ygUTcml2ZXIgdnMgbGFudXMgMjAxOQ%3D%3D",
     "local": {
       "lineUpNumber": [
         "1",
