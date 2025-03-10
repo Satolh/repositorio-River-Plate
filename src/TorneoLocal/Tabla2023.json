@@ -3,59 +3,59 @@
     {
       "position": "1",
       "datos": {
-        "name": "Central",
-        "pts": "17",
-        "pj": "7",
-        "pg": "5",
+        "name": "Independiente",
+        "pts": "20",
+        "pj": "9",
+        "pg": "6",
         "pe": "2",
-        "pp": "0",
+        "pp": "1",
         "dif": "8"
       }
     },
     {
       "position": "2",
       "datos": {
-        "name": "Independiente",
-        "pts": "16",
-        "pj": "7",
+        "name": "River",
+        "pts": "18",
+        "pj": "9",
         "pg": "5",
-        "pe": "1",
+        "pe": "3",
         "pp": "1",
-        "dif": "7"
+        "dif": "5"
       }
     },
     {
       "position": "3",
       "datos": {
-        "name": "River",
-        "pts": "15",
-        "pj": "7",
-        "pg": "4",
-        "pe": "3",
-        "pp": "0",
-        "dif": "6"
+        "name": "Central",
+        "pts": "17",
+        "pj": "8",
+        "pg": "5",
+        "pe": "2",
+        "pp": "1",
+        "dif": "7"
       }
     },
     {
       "position": "4",
       "datos": {
         "name": "San Lorenzo",
-        "pts": "14",
-        "pj": "7",
-        "pg": "4",
+        "pts": "17",
+        "pj": "9",
+        "pg": "5",
         "pe": "2",
-        "pp": "1",
+        "pp": "2",
         "dif": "3"
       }
     },
     {
       "position": "5",
       "datos": {
-        "name": "Deportivo Riestra",
-        "pts": "10",
-        "pj": "7",
+        "name": "Riestra\n\n0-0",
+        "pts": "12",
+        "pj": "9",
         "pg": "2",
-        "pe": "4",
+        "pe": "6",
         "pp": "1",
         "dif": "4"
       }
@@ -63,35 +63,35 @@
     {
       "position": "6",
       "datos": {
-        "name": "Gimnasia",
-        "pts": "10",
-        "pj": "7",
+        "name": "Gimnasia\n\n0-0",
+        "pts": "11",
+        "pj": "9",
         "pg": "3",
-        "pe": "1",
-        "pp": "3",
-        "dif": "-2"
+        "pe": "2",
+        "pp": "4",
+        "dif": "-3"
       }
     },
     {
       "position": "7",
       "datos": {
         "name": "Platense",
-        "pts": "9",
-        "pj": "7",
+        "pts": "10",
+        "pj": "9",
         "pg": "2",
-        "pe": "3",
-        "pp": "2",
-        "dif": "0"
+        "pe": "4",
+        "pp": "3",
+        "dif": "-1"
       }
     },
     {
       "position": "8",
       "datos": {
         "name": "Lanús",
-        "pts": "8",
-        "pj": "7",
+        "pts": "10",
+        "pj": "9",
         "pg": "2",
-        "pe": "2",
+        "pe": "4",
         "pp": "3",
         "dif": "-1"
       }
@@ -100,46 +100,46 @@
       "position": "9",
       "datos": {
         "name": "Instituto",
-        "pts": "7",
-        "pj": "7",
+        "pts": "8",
+        "pj": "9",
         "pg": "2",
-        "pe": "1",
-        "pp": "4",
-        "dif": "0"
+        "pe": "2",
+        "pp": "5",
+        "dif": "-2"
       }
     },
     {
       "position": "10",
       "datos": {
-        "name": "Atl. Tucumán",
+        "name": "Godoy Cruz",
         "pts": "7",
-        "pj": "7",
+        "pj": "8",
         "pg": "2",
-        "pe": "1",
-        "pp": "4",
-        "dif": "-2"
+        "pe": "4",
+        "pp": "2",
+        "dif": "-3"
       }
     },
     {
       "position": "11",
       "datos": {
-        "name": "Talleres",
-        "pts": "5",
-        "pj": "6",
-        "pg": "1",
-        "pe": "2",
-        "pp": "3",
-        "dif": "-2"
+        "name": "Atl. Tucumán",
+        "pts": "7",
+        "pj": "9",
+        "pg": "2",
+        "pe": "1",
+        "pp": "6",
+        "dif": "-4"
       }
     },
     {
       "position": "12",
       "datos": {
         "name": "Sarmiento",
-        "pts": "5",
-        "pj": "7",
+        "pts": "7",
+        "pj": "9",
         "pg": "1",
-        "pe": "2",
+        "pe": "4",
         "pp": "4",
         "dif": "-8"
       }
@@ -147,37 +147,37 @@
     {
       "position": "13",
       "datos": {
-        "name": "Godoy Cruz",
-        "pts": "3",
-        "pj": "6",
+        "name": "San Martín",
+        "pts": "6",
+        "pj": "9",
         "pg": "1",
         "pe": "3",
-        "pp": "2",
+        "pp": "5",
         "dif": "-4"
       }
     },
     {
       "position": "14",
       "datos": {
-        "name": "San Martín",
-        "pts": "3",
+        "name": "Talleres",
+        "pts": "5",
         "pj": "7",
-        "pg": "0",
-        "pe": "3",
+        "pg": "1",
+        "pe": "2",
         "pp": "4",
-        "dif": "-5"
+        "dif": "-3"
       }
     },
     {
       "position": "15",
       "datos": {
         "name": "Vélez",
-        "pts": "2",
-        "pj": "7",
-        "pg": "0",
+        "pts": "5",
+        "pj": "9",
+        "pg": "1",
         "pe": "2",
-        "pp": "5",
-        "dif": "-11"
+        "pp": "6",
+        "dif": "-12"
       }
     }
   ],
