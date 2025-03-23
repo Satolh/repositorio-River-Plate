@@ -111,7 +111,14 @@
       "17/09/2024",
       "24/09/2024",
       "22/10/2024",
-      "29/10/2024"
+      "29/10/2024",
+      "02/04/2025",
+      "08/04/2025",
+      "23/04/2025",
+      "08/05/2025",
+      "15/05/2025",
+      "27/05/2025"
+
     ],
     "local": [
       "San José",
@@ -224,6 +231,12 @@
       "Colo Colo",
       "River Plate",
       "Atlético Mineiro",
+      "River Plate",
+      "Universitario",
+      "River Plate",
+      "Independiente Valle",
+      "Barcelona",
+      "River Plate",
       "River Plate"
     ],
     "visitante": [
@@ -337,7 +350,13 @@
       "River Plate",
       "Colo Colo",
       "River Plate",
-      "Atlético Mineiro"
+      "Atlético Mineiro",
+      "River Plate",
+      "Barcelona",
+      "River Plate",
+      "River Plate",
+      "Independiente Valle",
+      "Universitario"
     ],
     "resultado": [
       "2 - 0",
@@ -450,7 +469,13 @@
       "1 - 1",
       "1 - 0",
       "3 - 0",
-      "0 - 0"
+      "0 - 0",
+      "21:30",
+      "21:30",
+      "21:30",
+      "21:30",
+      "21:30",
+      "21:30"
     ]
   }
 ]

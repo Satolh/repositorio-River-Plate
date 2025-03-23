@@ -12248,5 +12248,120 @@
           "visitanteImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/317.png",
           "nameTeam": "ATLÉTICO MINEIRO"
         }
+      },
+      {
+        "title": "21 : 30",
+        "scorers": [],
+        "stadium": "Estadio Monumental (Lima)",
+        "date": "02/04/2025",
+        "playVideo": "",
+        "local": {
+          "lineUpNumber": [],
+          "lineUpName": [],
+          "localImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1634.png",
+          "nameTeam": "UNIVERSITARIO"
+        },
+        "visitante": {
+          "lineUpNumber": [],
+          "lineUpName": [],
+          "visitanteImg": "https://www.cariverplate.com.ar/images/logo-river.png?cache=a57",
+          "nameTeam": "RIVER PLATE"
+        }
+      },
+      {
+        "title": "21 : 30",
+        "scorers": [],
+        "stadium": "Estadio Mâs Monumental (Capital Federal, Ciudad de Buenos Aires)",
+        "date": "08/04/2025",
+        "playVideo": "",
+        "local": {
+          "lineUpNumber": [],
+          "lineUpName": [],
+          "localImg": "https://www.cariverplate.com.ar/images/logo-river.png?cache=a57",
+          "nameTeam": "RIVER PLATE"
+        },
+        "visitante": {
+          "lineUpNumber": [],
+          "lineUpName": [],
+          "visitanteImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/654.png",
+          "nameTeam": "BARCELONA"
+        }
+      },
+      {
+        "title": "21 : 30",
+        "scorers": [],
+        "stadium": "Estadio Banco Guayaquil (Quito)",
+        "date": "23/04/2025",
+        "playVideo": "",
+        "local": {
+          "lineUpNumber": [],
+          "lineUpName": [],
+          "localImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/10594.png",
+          "nameTeam": "INDEPENDIENTE VALLE"
+        },
+        "visitante": {
+          "lineUpNumber": [],
+          "lineUpName": [],
+          "visitanteImg": "https://www.cariverplate.com.ar/images/logo-river.png?cache=a57",
+          "nameTeam": "RIVER PLATE"
+        }
+      },
+      {
+        "title": "21 : 30",
+        "scorers": [],
+        "stadium": "Estadio Monumental Banco Pichincha (Guayaquil)",
+        "date": "08/05/2025",
+        "playVideo": "",
+        "local": {
+          "lineUpNumber": [],
+          "lineUpName": [],
+          "localImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/654.png",
+          "nameTeam": "BARCELONA"
+        },
+        "visitante": {
+          "lineUpNumber": [],
+          "lineUpName": [],
+          "visitanteImg": "https://www.cariverplate.com.ar/images/logo-river.png?cache=a57",
+          "nameTeam": "RIVER PLATE"
+        }
+      },
+      {
+        "title": "21 : 30",
+        "scorers": [],
+        "stadium": "Estadio Mâs Monumental (Capital Federal, Ciudad de Buenos Aires)",
+        "date": "15/05/2025",
+        "playVideo": "",
+        "local": {
+          "lineUpNumber": [],
+          "lineUpName": [],
+          "localImg": "https://www.cariverplate.com.ar/images/logo-river.png?cache=a57",
+          "nameTeam": "RIVER PLATE"
+        },
+        "visitante": {
+          "lineUpNumber": [],
+          "lineUpName": [],
+          "visitanteImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/10594.png",
+          "nameTeam": "INDEPENDIENTE VALLE"
+        }
+      },
+      {
+        "title": "21 : 30",
+        "scorers": [],
+        "stadium": "Estadio Mâs Monumental (Capital Federal, Ciudad de Buenos Aires)",
+        "date": "27/05/2025",
+        "playVideo": "",
+        "local": {
+          "lineUpNumber": [],
+          "lineUpName": [],
+          "localImg": "https://www.cariverplate.com.ar/images/logo-river.png?cache=a57",
+          "nameTeam": "RIVER PLATE"
+        },
+        "visitante": {
+          "lineUpNumber": [],
+          "lineUpName": [],
+          "visitanteImg": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1634.png",
+          "nameTeam": "UNIVERSITARIO"
+        }
       }
+
 ]
